@@ -1,0 +1,21 @@
+statistics_code,statistics_name,classification,value,county_code,county_name,date,country_code,country_name
+unemployment,unemployment,unemployment,9.0,budapest,Budapest,2014,hu,Hungary
+unemployment,unemployment,unemployment,8.8,pest,Pest ,2014,hu,Hungary
+unemployment,unemployment,unemployment,9.4,fejer,Fejér,2014,hu,Hungary
+unemployment,unemployment,unemployment,8.6,komarom-esztergom,Komárom-Esztergom,2014,hu,Hungary
+unemployment,unemployment,unemployment,12.0,veszprem,Veszprém,2014,hu,Hungary
+unemployment,unemployment,unemployment,7.0,gyor-moson-sopron,Győr-Moson-Sopron,2014,hu,Hungary
+unemployment,unemployment,unemployment,10.3,vas,Vas,2014,hu,Hungary
+unemployment,unemployment,unemployment,12.1,zala,Zala,2014,hu,Hungary
+unemployment,unemployment,unemployment,13.4,baranya,Baranya,2014,hu,Hungary
+unemployment,unemployment,unemployment,14.0,somogy,Somogy,2014,hu,Hungary
+unemployment,unemployment,unemployment,8.4,tolna,Tolna ,2014,hu,Hungary
+unemployment,unemployment,unemployment,17.3,borsod-abauj-zemplen,Borsod-Abaúj-Zemplén,2014,hu,Hungary
+unemployment,unemployment,unemployment,12.3,heves,Heves,2014,hu,Hungary
+unemployment,unemployment,unemployment,18.3,nograd,Nógrád ,2014,hu,Hungary
+unemployment,unemployment,unemployment,13.2,hajdu-bihar,Hajdú-Bihar,2014,hu,Hungary
+unemployment,unemployment,unemployment,10.7,jasz-nagykun-szolnok,Jász-Nagykun-Szolnok,2014,hu,Hungary
+unemployment,unemployment,unemployment,18.1,szabolcs-szatmar-bereg,Szabolcs-Szatmár-Bereg,2014,hu,Hungary
+unemployment,unemployment,unemployment,10.3,bacs-kiskun,Bács-Kiskun ,2014,hu,Hungary
+unemployment,unemployment,unemployment,12.4,bekes,Békés,2014,hu,Hungary
+unemployment,unemployment,unemployment,8.8,csongrad,Csongrád,2014,hu,Hungary
