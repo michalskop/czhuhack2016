@@ -1,0 +1,21 @@
+statistics_code,statistics_name,classification,county_code,county_name,date,country_code,country_name,value
+no-education,No Education,age,budapest,Budapest,2011,hu,Hungary,0.1545991289
+no-education,No Education,age,bacs-kiskun,Bács-Kiskun,2011,hu,Hungary,0.2762943442
+no-education,No Education,age,baranya,Baranya,2011,hu,Hungary,0.2436983331
+no-education,No Education,age,bekes,Békés,2011,hu,Hungary,0.2740639113
+no-education,No Education,age,borsod-abauj-zemplen,Borsod-Abaúj-Zemplén,2011,hu,Hungary,0.3059228119
+no-education,No Education,age,csongrad,Csongrád,2011,hu,Hungary,0.2332065511
+no-education,No Education,age,fejer,Fejér,2011,hu,Hungary,0.2330507223
+no-education,No Education,age,gyor-moson-sopron,Győr-Moson-Sopron,2011,hu,Hungary,0.2015993169
+no-education,No Education,age,hajdu-bihar,Hajdú-Bihar,2011,hu,Hungary,0.2890143935
+no-education,No Education,age,heves,Heves,2011,hu,Hungary,0.288750854
+no-education,No Education,age,jasz-nagykun-szolnok,Jász-Nagykun-Szolnok,2011,hu,Hungary,0.2948370155
+no-education,No Education,age,komarom-esztergom,Komárom-Esztergom,2011,hu,Hungary,0.2324699674
+no-education,No Education,age,nograd,Nógrád,2011,hu,Hungary,0.2985128038
+no-education,No Education,age,pest,Pest,2011,hu,Hungary,0.2407698384
+no-education,No Education,age,somogy,Somogy,2011,hu,Hungary,0.2757810727
+no-education,No Education,age,szabolcs-szatmar-bereg,Szabolcs-Szatmár-Bereg,2011,hu,Hungary,0.338158895
+no-education,No Education,age,tolna,Tolna,2011,hu,Hungary,0.2740221652
+no-education,No Education,age,vas,Vas,2011,hu,Hungary,0.2097730242
+no-education,No Education,age,veszprem,Veszprém,2011,hu,Hungary,0.1860761822
+no-education,No Education,age,zala,Zala,2011,hu,Hungary,0.2873384045
