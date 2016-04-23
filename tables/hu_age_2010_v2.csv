@@ -1,0 +1,81 @@
+statistics_code,statistics_name,classification,county_code,county_name,date,country_code,country_name,value
+0-14,0-14,age,budapest,Budapest,2010,hu,Hungary,0.2708154958
+0-14,0-14,age,pest,Pest ,2010,hu,Hungary,0.3501116877
+0-14,0-14,age,fejer,Fejér,2010,hu,Hungary,0.3093606294
+0-14,0-14,age,komarom-esztergom,Komárom-Esztergom,2010,hu,Hungary,0.3194222623
+0-14,0-14,age,veszprem,Veszprém,2010,hu,Hungary,0.2974299329
+0-14,0-14,age,gyor-moson-sopron,Győr-Moson-Sopron,2010,hu,Hungary,0.2986370919
+0-14,0-14,age,vas,Vas,2010,hu,Hungary,0.2897044415
+0-14,0-14,age,zala,Zala,2010,hu,Hungary,0.2808858246
+0-14,0-14,age,baranya,Baranya,2010,hu,Hungary,0.3142081131
+0-14,0-14,age,somogy,Somogy,2010,hu,Hungary,0.3067704093
+0-14,0-14,age,tolna,Tolna ,2010,hu,Hungary,0.3023087957
+0-14,0-14,age,borsod-abauj-zemplen,Borsod-Abaúj-Zemplén,2010,hu,Hungary,0.3530553103
+0-14,0-14,age,heves,Heves,2010,hu,Hungary,0.3175081217
+0-14,0-14,age,nograd,Nógrád ,2010,hu,Hungary,0.3166685963
+0-14,0-14,age,hajdu-bihar,Hajdú-Bihar,2010,hu,Hungary,0.3334698261
+0-14,0-14,age,jasz-nagykun-szolnok,Jász-Nagykun-Szolnok,2010,hu,Hungary,0.3211565172
+0-14,0-14,age,szabolcs-szatmar-bereg,Szabolcs-Szatmár-Bereg,2010,hu,Hungary,0.3664040048
+0-14,0-14,age,bacs-kiskun,Bács-Kiskun ,2010,hu,Hungary,0.3142752889
+0-14,0-14,age,bekes,Békés,2010,hu,Hungary,0.2981881775
+0-14,0-14,age,csongrad,Csongrád,2010,hu,Hungary,0.3057633953
+0-14,0-14,age,budapest,Budapest,2014,hu,Hungary,0.2708154958
+0-14,0-14,age,pest,Pest ,2014,hu,Hungary,0.3501116877
+0-14,0-14,age,fejer,Fejér,2014,hu,Hungary,0.3093606294
+0-14,0-14,age,komarom-esztergom,Komárom-Esztergom,2014,hu,Hungary,0.3194222623
+0-14,0-14,age,veszprem,Veszprém,2014,hu,Hungary,0.2974299329
+0-14,0-14,age,gyor-moson-sopron,Győr-Moson-Sopron,2014,hu,Hungary,0.2986370919
+0-14,0-14,age,vas,Vas,2014,hu,Hungary,0.2897044415
+0-14,0-14,age,zala,Zala,2014,hu,Hungary,0.2808858246
+0-14,0-14,age,baranya,Baranya,2014,hu,Hungary,0.3142081131
+0-14,0-14,age,somogy,Somogy,2014,hu,Hungary,0.3067704093
+0-14,0-14,age,tolna,Tolna ,2014,hu,Hungary,0.3023087957
+0-14,0-14,age,borsod-abauj-zemplen,Borsod-Abaúj-Zemplén,2014,hu,Hungary,0.3530553103
+0-14,0-14,age,heves,Heves,2014,hu,Hungary,0.3175081217
+0-14,0-14,age,nograd,Nógrád ,2014,hu,Hungary,0.3166685963
+0-14,0-14,age,hajdu-bihar,Hajdú-Bihar,2014,hu,Hungary,0.3334698261
+0-14,0-14,age,jasz-nagykun-szolnok,Jász-Nagykun-Szolnok,2014,hu,Hungary,0.3211565172
+0-14,0-14,age,szabolcs-szatmar-bereg,Szabolcs-Szatmár-Bereg,2014,hu,Hungary,0.3664040048
+0-14,0-14,age,bacs-kiskun,Bács-Kiskun ,2014,hu,Hungary,0.3142752889
+0-14,0-14,age,bekes,Békés,2014,hu,Hungary,0.2981881775
+0-14,0-14,age,csongrad,Csongrád,2014,hu,Hungary,0.3057633953
+15-64,15-64,age,budapest,Budapest,2010,hu,Hungary,0.2708154958
+15-64,15-64,age,pest,Pest ,2010,hu,Hungary,0.3501116877
+15-64,15-64,age,fejer,Fejér,2010,hu,Hungary,0.3093606294
+15-64,15-64,age,komarom-esztergom,Komárom-Esztergom,2010,hu,Hungary,0.3194222623
+15-64,15-64,age,veszprem,Veszprém,2010,hu,Hungary,0.2974299329
+15-64,15-64,age,gyor-moson-sopron,Győr-Moson-Sopron,2010,hu,Hungary,0.2986370919
+15-64,15-64,age,vas,Vas,2010,hu,Hungary,0.2897044415
+15-64,15-64,age,zala,Zala,2010,hu,Hungary,0.2808858246
+15-64,15-64,age,baranya,Baranya,2010,hu,Hungary,0.3142081131
+15-64,15-64,age,somogy,Somogy,2010,hu,Hungary,0.3067704093
+15-64,15-64,age,tolna,Tolna ,2010,hu,Hungary,0.3023087957
+15-64,15-64,age,borsod-abauj-zemplen,Borsod-Abaúj-Zemplén,2010,hu,Hungary,0.3530553103
+15-64,15-64,age,heves,Heves,2010,hu,Hungary,0.3175081217
+15-64,15-64,age,nograd,Nógrád ,2010,hu,Hungary,0.3166685963
+15-64,15-64,age,hajdu-bihar,Hajdú-Bihar,2010,hu,Hungary,0.3334698261
+15-64,15-64,age,jasz-nagykun-szolnok,Jász-Nagykun-Szolnok,2010,hu,Hungary,0.3211565172
+15-64,15-64,age,szabolcs-szatmar-bereg,Szabolcs-Szatmár-Bereg,2010,hu,Hungary,0.3664040048
+15-64,15-64,age,bacs-kiskun,Bács-Kiskun ,2010,hu,Hungary,0.3142752889
+15-64,15-64,age,bekes,Békés,2010,hu,Hungary,0.2981881775
+15-64,15-64,age,csongrad,Csongrád,2010,hu,Hungary,0.3057633953
+65-,65-,age,budapest,Budapest,2010,hu,Hungary,0.2708154958
+65-,65-,age,pest,Pest ,2010,hu,Hungary,0.3501116877
+65-,65-,age,fejer,Fejér,2010,hu,Hungary,0.3093606294
+65-,65-,age,komarom-esztergom,Komárom-Esztergom,2010,hu,Hungary,0.3194222623
+65-,65-,age,veszprem,Veszprém,2010,hu,Hungary,0.2974299329
+65-,65-,age,gyor-moson-sopron,Győr-Moson-Sopron,2010,hu,Hungary,0.2986370919
+65-,65-,age,vas,Vas,2010,hu,Hungary,0.2897044415
+65-,65-,age,zala,Zala,2010,hu,Hungary,0.2808858246
+65-,65-,age,baranya,Baranya,2010,hu,Hungary,0.3142081131
+65-,65-,age,somogy,Somogy,2010,hu,Hungary,0.3067704093
+65-,65-,age,tolna,Tolna ,2010,hu,Hungary,0.3023087957
+65-,65-,age,borsod-abauj-zemplen,Borsod-Abaúj-Zemplén,2010,hu,Hungary,0.3530553103
+65-,65-,age,heves,Heves,2010,hu,Hungary,0.3175081217
+65-,65-,age,nograd,Nógrád ,2010,hu,Hungary,0.3166685963
+65-,65-,age,hajdu-bihar,Hajdú-Bihar,2010,hu,Hungary,0.3334698261
+65-,65-,age,jasz-nagykun-szolnok,Jász-Nagykun-Szolnok,2010,hu,Hungary,0.3211565172
+65-,65-,age,szabolcs-szatmar-bereg,Szabolcs-Szatmár-Bereg,2010,hu,Hungary,0.3664040048
+65-,65-,age,bacs-kiskun,Bács-Kiskun ,2010,hu,Hungary,0.3142752889
+65-,65-,age,bekes,Békés,2010,hu,Hungary,0.2981881775
+65-,65-,age,csongrad,Csongrád,2010,hu,Hungary,0.3057633953
