@@ -1,0 +1,138 @@
+county_code,county_name,classification,date,country_code,country_name,value,statistics_code,statistics_name
+budapest,Budapest,election,2010,hu,Hungary,0,non-voters,Non voters
+budapest,Budapest,election,2010,hu,Hungary,238 672,mszp,MSZP
+budapest,Budapest,election,2010,hu,Hungary,102 138,jobbik,JOBBIK
+budapest,Budapest,election,2010,hu,Hungary,120 714,lehet-mas-a-politika,LEHET MÁS A POLITIKA
+budapest,Budapest,election,2010,hu,Hungary,44 265,magyar-demokrata-forum,MAGYAR DEMOKRATA FÓRUM
+budapest,Budapest,election,2010,hu,Hungary,436 442,fidesz-kdnp,FIDESZ-KDNP
+baranya,Baranya,election,2010,hu,Hungary,0,non-voters,Non voters
+baranya,Baranya,election,2010,hu,Hungary,24 397,jobbik,Jobbik
+baranya,Baranya,election,2010,hu,Hungary,104 928,fidesz-kdnp,FIDESZ-KDNP
+baranya,Baranya,election,2010,hu,Hungary,17 119,lehet-mas-a-politika,LEHET MÁS A POLITIKA
+baranya,Baranya,election,2010,hu,Hungary,5 436,magyar-demokrata-forum,MAGYAR DEMOKRATA FÓRUM
+baranya,Baranya,election,2010,hu,Hungary,40 532,mszp,MSZP
+bacs-kiskun,Bács-Kiskun,election,2010,hu,Hungary,0,non-voters,Non voters
+bacs-kiskun,Bács-Kiskun,election,2010,hu,Hungary,3 767,civil-mozgalom,CIVIL MOZGALOM
+bacs-kiskun,Bács-Kiskun,election,2010,hu,Hungary,41 448,jobbik,JOBBIK
+bacs-kiskun,Bács-Kiskun,election,2010,hu,Hungary,14 741,lehet-mas-a-politika,Lehet Más a Politika
+bacs-kiskun,Bács-Kiskun,election,2010,hu,Hungary,38 597,mszp,MSZP
+bacs-kiskun,Bács-Kiskun,election,2010,hu,Hungary,159 605,fidesz-kdnp,FIDESZ-KDNP
+bacs-kiskun,Bács-Kiskun,election,2010,hu,Hungary,5 889,magyar-demokrata-forum,MAGYAR DEMOKRATA FÓRUM
+bekes,Békés,election,2010,hu,Hungary,0,non-voters,Non voters
+bekes,Békés,election,2010,hu,Hungary,9 688,lehet-mas-a-politika,LEHET MÁS A POLITIKA
+bekes,Békés,election,2010,hu,Hungary,34 321,mszp,MSZP
+bekes,Békés,election,2010,hu,Hungary,3 510,civil-mozgalom,CIVIL MOZGALOM
+bekes,Békés,election,2010,hu,Hungary,98 945,fidesz-kdnp,Fidesz-KDNP
+bekes,Békés,election,2010,hu,Hungary,35 724,jobbik,JOBBIK
+bekes,Békés,election,2010,hu,Hungary,3 814,mdf,MDF
+borsod-abauj-zemplen,Borsod-Abaúj-Zemplén,election,2010,hu,Hungary,0,non-voters,Non voters
+borsod-abauj-zemplen,Borsod-Abaúj-Zemplén,election,2010,hu,Hungary,14 318,lehet-mas-a-politika,Lehet Más a Politika
+borsod-abauj-zemplen,Borsod-Abaúj-Zemplén,election,2010,hu,Hungary,2 732,osszefogas-part-baz-m-i-lista,Összefogás Párt BAZ M-i Lista
+borsod-abauj-zemplen,Borsod-Abaúj-Zemplén,election,2010,hu,Hungary,6 267,mdf,MDF
+borsod-abauj-zemplen,Borsod-Abaúj-Zemplén,election,2010,hu,Hungary,1 653,mszdp,MSZDP
+borsod-abauj-zemplen,Borsod-Abaúj-Zemplén,election,2010,hu,Hungary,156 249,fidesz-kdnp,FIDESZ-KDNP
+borsod-abauj-zemplen,Borsod-Abaúj-Zemplén,election,2010,hu,Hungary,64 387,magyar-szocialista-part,MAGYAR SZOCIALISTA PÁRT
+borsod-abauj-zemplen,Borsod-Abaúj-Zemplén,election,2010,hu,Hungary,1 651,munkaspart,MUNKÁSPÁRT
+borsod-abauj-zemplen,Borsod-Abaúj-Zemplén,election,2010,hu,Hungary,92 646,jobbik,JOBBIK
+borsod-abauj-zemplen,Borsod-Abaúj-Zemplén,election,2010,hu,Hungary,704,miep,MIÉP
+csongrad,Csongrád,election,2010,hu,Hungary,0,non-voters,Non voters
+csongrad,Csongrád,election,2010,hu,Hungary,5 347,magyar-demokrata-forum,MAGYAR DEMOKRATA FÓRUM
+csongrad,Csongrád,election,2010,hu,Hungary,15 941,lehet-mas-a-politika,LEHET MÁS A POLITIKA
+csongrad,Csongrád,election,2010,hu,Hungary,5 135,civil-mozgalom,CIVIL MOZGALOM
+csongrad,Csongrád,election,2010,hu,Hungary,582,miep,MIÉP
+csongrad,Csongrád,election,2010,hu,Hungary,105 579,fidesz-kdnp,FIDESZ-KDNP
+csongrad,Csongrád,election,2010,hu,Hungary,42 413,mszp,MSZP
+csongrad,Csongrád,election,2010,hu,Hungary,33 157,jobbik,Jobbik
+fejer,Fejér,election,2010,hu,Hungary,0,non-voters,Non voters
+fejer,Fejér,election,2010,hu,Hungary,4 595,civilek,CIVILEK
+fejer,Fejér,election,2010,hu,Hungary,5 960,magyar-demokrata-forum,Magyar Demokrata Fórum
+fejer,Fejér,election,2010,hu,Hungary,35 897,jobbik,Jobbik
+fejer,Fejér,election,2010,hu,Hungary,15 428,lmp, LMP
+fejer,Fejér,election,2010,hu,Hungary,120 011,fidesz-kdnp,FIDESZ-KDNP
+fejer,Fejér,election,2010,hu,Hungary,39 679,mszp,MSZP
+gyor-moson-sopron,Győr-Moson-Sopron,election,2010,hu,Hungary,0,non-voters,Non voters
+gyor-moson-sopron,Győr-Moson-Sopron,election,2010,hu,Hungary,3 737,civil-mozgalom,CIVIL MOZGALOM
+gyor-moson-sopron,Győr-Moson-Sopron,election,2010,hu,Hungary,14 765,lehet-mas-a-politika,LEHET MÁS A POLITIKA
+gyor-moson-sopron,Győr-Moson-Sopron,election,2010,hu,Hungary,39 390,mszp,MSZP
+gyor-moson-sopron,Győr-Moson-Sopron,election,2010,hu,Hungary,139 391,fidesz-kdnp,FIDESZ-KDNP
+gyor-moson-sopron,Győr-Moson-Sopron,election,2010,hu,Hungary,6 901,magyar-demokrata-forum,MAGYAR DEMOKRATA FÓRUM
+gyor-moson-sopron,Győr-Moson-Sopron,election,2010,hu,Hungary,29 364,jobbik,Jobbik
+hajdu-bihar,Hajdú-Bihar,election,2010,hu,Hungary,0,non-voters,Non voters
+hajdu-bihar,Hajdú-Bihar,election,2010,hu,Hungary,154 999,fidesz-kdnp,FIDESZ-KDNP
+hajdu-bihar,Hajdú-Bihar,election,2010,hu,Hungary,768,mszdp,MSZDP
+hajdu-bihar,Hajdú-Bihar,election,2010,hu,Hungary,13 523,lehet-mas-a-politika,Lehet Más a Politika
+hajdu-bihar,Hajdú-Bihar,election,2010,hu,Hungary,37 580,mszp,MSZP
+hajdu-bihar,Hajdú-Bihar,election,2010,hu,Hungary,6 271,mdf,MDF
+hajdu-bihar,Hajdú-Bihar,election,2010,hu,Hungary,4 002,civil-mozgalom,Civil Mozgalom
+hajdu-bihar,Hajdú-Bihar,election,2010,hu,Hungary,50 473,jobbik,JOBBIK
+heves,Heves,election,2010,hu,Hungary,0,non-voters,Non voters
+heves,Heves,election,2010,hu,Hungary,9 769,lehet-mas-a-politika,LEHET MÁS A POLITIKA
+heves,Heves,election,2010,hu,Hungary,3 536,mdf,MDF
+heves,Heves,election,2010,hu,Hungary,74 034,fidesz-kdnp,FIDESZ-KDNP
+heves,Heves,election,2010,hu,Hungary,34 003,magyar-szocialista-part,MAGYAR SZOCIALISTA PÁRT
+heves,Heves,election,2010,hu,Hungary,40 391,jobbik,JOBBIK
+jasz-nagykun-szolnok,Jász-Nagykun-Szolnok,election,2010,hu,Hungary,0,non-voters,Non voters
+jasz-nagykun-szolnok,Jász-Nagykun-Szolnok,election,2010,hu,Hungary,46 613,jobbik,JOBBIK
+jasz-nagykun-szolnok,Jász-Nagykun-Szolnok,election,2010,hu,Hungary,34 707,mszp,MSZP
+jasz-nagykun-szolnok,Jász-Nagykun-Szolnok,election,2010,hu,Hungary,4 140,magyar-demokrata-forum,MAGYAR DEMOKRATA FÓRUM
+jasz-nagykun-szolnok,Jász-Nagykun-Szolnok,election,2010,hu,Hungary,10 971,lehet-mas-a-politika,LEHET MÁS A POLITIKA
+jasz-nagykun-szolnok,Jász-Nagykun-Szolnok,election,2010,hu,Hungary,95 951,fidesz-kdnp,FIDESZ-KDNP
+jasz-nagykun-szolnok,Jász-Nagykun-Szolnok,election,2010,hu,Hungary,1 775,munkaspart,MUNKÁSPÁRT
+komarom-esztergom,Komárom-Esztergom,election,2010,hu,Hungary,0,non-voters,Non voters
+komarom-esztergom,Komárom-Esztergom,election,2010,hu,Hungary,12 929,lehet-mas-a-politika,LEHET MÁS A POLITIKA
+komarom-esztergom,Komárom-Esztergom,election,2010,hu,Hungary,21 251,jobbik,JOBBIK
+komarom-esztergom,Komárom-Esztergom,election,2010,hu,Hungary,36 128,magyar-szocialista-part,MAGYAR SZOCIALISTA PÁRT
+komarom-esztergom,Komárom-Esztergom,election,2010,hu,Hungary,4 902,magyar-demokrata-forum,Magyar Demokrata Fórum
+komarom-esztergom,Komárom-Esztergom,election,2010,hu,Hungary,79 261,fidesz-kdnp,FIDESZ-KDNP
+nograd,Nógrád,election,2010,hu,Hungary,0,non-voters,Non voters
+nograd,Nógrád,election,2010,hu,Hungary,21 868,jobbik,JOBBIK
+nograd,Nógrád,election,2010,hu,Hungary,21 411,mszp,MSZP
+nograd,Nógrád,election,2010,hu,Hungary,1 441,munkaspart,Munkáspárt
+nograd,Nógrád,election,2010,hu,Hungary,54 444,fidesz-kdnp,FIDESZ-KDNP
+nograd,Nógrád,election,2010,hu,Hungary,5 852,lehet-mas-a-politika,Lehet Más a Politika
+pest,Pest,election,2010,hu,Hungary,0,non-voters,Non voters
+pest,Pest,election,2010,hu,Hungary,52 410,lehet-mas-a-politika,LEHET MÁS A POLITIKA
+pest,Pest,election,2010,hu,Hungary,331 954,fidesz-kdnp,FIDESZ-KDNP
+pest,Pest,election,2010,hu,Hungary,110 329,magyar-szocialista-part,MAGYAR SZOCIALISTA PÁRT
+pest,Pest,election,2010,hu,Hungary,17 255,magyar-demokrata-forum,MAGYAR DEMOKRATA FÓRUM
+pest,Pest,election,2010,hu,Hungary,11 832,civil-mozgalom,CIVIL MOZGALOM
+pest,Pest,election,2010,hu,Hungary,103 689,jobbik,JOBBIK
+somogy,Somogy,election,2010,hu,Hungary,0,non-voters,Non voters
+somogy,Somogy,election,2010,hu,Hungary,31 418,magyar-szocialista-part,Magyar Szocialista Párt
+somogy,Somogy,election,2010,hu,Hungary,94 900,fidesz-kdnp,FIDESZ-KDNP
+somogy,Somogy,election,2010,hu,Hungary,22 652,jobbik,JOBBIK
+somogy,Somogy,election,2010,hu,Hungary,10 173,lehet-mas-a-politika,LEHET MÁS A POLITIKA
+szabolcs-szatmar-bereg,Szabolcs-Szatmár-Bereg,election,2010,hu,Hungary,0,non-voters,Non voters
+szabolcs-szatmar-bereg,Szabolcs-Szatmár-Bereg,election,2010,hu,Hungary,41 062,magyar-szocialista-part,MAGYAR SZOCIALISTA PÁRT
+szabolcs-szatmar-bereg,Szabolcs-Szatmár-Bereg,election,2010,hu,Hungary,739,munkaspart,MUNKÁSPÁRT
+szabolcs-szatmar-bereg,Szabolcs-Szatmár-Bereg,election,2010,hu,Hungary,7 914,lehet-mas-a-politika,LEHET MÁS A POLITIKA
+szabolcs-szatmar-bereg,Szabolcs-Szatmár-Bereg,election,2010,hu,Hungary,148 980,fidesz-kdnp,FIDESZ-KDNP
+szabolcs-szatmar-bereg,Szabolcs-Szatmár-Bereg,election,2010,hu,Hungary,6 760,civil-mozgalom,CIVIL MOZGALOM
+szabolcs-szatmar-bereg,Szabolcs-Szatmár-Bereg,election,2010,hu,Hungary,834,mszdp,MSZDP
+szabolcs-szatmar-bereg,Szabolcs-Szatmár-Bereg,election,2010,hu,Hungary,65 423,jobbik,JOBBIK
+szabolcs-szatmar-bereg,Szabolcs-Szatmár-Bereg,election,2010,hu,Hungary,5 016,mdf,MDF
+tolna,Tolna,election,2010,hu,Hungary,0,non-voters,Non voters
+tolna,Tolna,election,2010,hu,Hungary,21 214,mszp,MSZP
+tolna,Tolna,election,2010,hu,Hungary,6 467,lehet-mas-a-politika,LEHET MÁS A POLITIKA
+tolna,Tolna,election,2010,hu,Hungary,3 017,magyar-demokrata-forum,MAGYAR DEMOKRATA FÓRUM
+tolna,Tolna,election,2010,hu,Hungary,69 604,fidesz-kdnp,FIDESZ-KDNP
+tolna,Tolna,election,2010,hu,Hungary,18 315,jobbik,Jobbik
+vas,Vas,election,2010,hu,Hungary,0,non-voters,Non voters
+vas,Vas,election,2010,hu,Hungary,2 525,civil-mozgalom,CIVIL MOZGALOM
+vas,Vas,election,2010,hu,Hungary,8 907,lehet-mas-a-politika,LEHET MÁS A POLITIKA
+vas,Vas,election,2010,hu,Hungary,23 699,magyar-szocialista-part,MAGYAR SZOCIALISTA PÁRT
+vas,Vas,election,2010,hu,Hungary,87 705,fidesz-kdnp,FIDESZ-KDNP
+vas,Vas,election,2010,hu,Hungary,16 888,jobbik,JOBBIK
+veszprem,Veszprém,election,2010,hu,Hungary,0,non-voters,Non voters
+veszprem,Veszprém,election,2010,hu,Hungary,27 897,jobbik,JOBBIK
+veszprem,Veszprém,election,2010,hu,Hungary,35 779,mszp,MSZP
+veszprem,Veszprém,election,2010,hu,Hungary,4 937,mdf,MDF
+veszprem,Veszprém,election,2010,hu,Hungary,108 048,fidesz-kdnp,FIDESZ - KDNP
+veszprem,Veszprém,election,2010,hu,Hungary,13 601,lehet-mas-a-politika,Lehet Más a Politika
+zala,Zala,election,2010,hu,Hungary,0,non-voters,Non voters
+zala,Zala,election,2010,hu,Hungary,3 942,mdf,MDF
+zala,Zala,election,2010,hu,Hungary,85 262,fidesz-kdnp,FIDESZ - KDNP
+zala,Zala,election,2010,hu,Hungary,862,mszdp,MSZDP
+zala,Zala,election,2010,hu,Hungary,25 107,magyar-szocialista-part,Magyar Szocialista Párt
+zala,Zala,election,2010,hu,Hungary,8 646,lehet-mas-a-politika,Lehet Más a Politika
+zala,Zala,election,2010,hu,Hungary,25 205,jobbik,JOBBIK
