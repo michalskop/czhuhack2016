@@ -1,0 +1,21 @@
+id,latitude,longitude,name,population,kscm,fidesz
+budapest,47.48138955,19.1460727845,Budapest,1740041,0,0
+pest,47.3716234,19.3449835,Pest ,1245048,1,0
+borsod-abauj-zemplen,48.2397936,21.1353474,Borsod-Abaúj-Zemplén,678261,0,0
+szabolcs-szatmar-bereg,48.0297821,22.0040108,Szabolcs-Szatmár-Bereg,551871,0,0
+hajdu-bihar,47.4407848,21.4752281,Hajdú-Bihar,538037,-1,0
+bacs-kiskun,46.5809294,19.5128532,Bács-Kiskun ,522312,0,0
+gyor-moson-sopron,47.6610134,17.3796437,Győr-Moson-Sopron,451827,-1,0
+fejer,47.0939434,18.6088562,Fejér,425581,-1,0
+csongrad,46.4515164,20.2277606,Csongrád,419366,-1,0
+baranya,45.9714436,18.1669246,Baranya,388907,0,0
+jasz-nagykun-szolnok,47.2971598,20.453178,Jász-Nagykun-Szolnok,383128,1,0
+bekes,46.7862993,20.9820736,Békés,357740,0,0
+veszprem,47.1207289,17.5930443,Veszprém,354565,0,0
+somogy,46.439656,17.6212956,Somogy,315850,1,0
+komarom-esztergom,47.6511599,18.2551911,Komárom-Esztergom,310200,1,0
+heves,47.7884409,20.1714412,Heves,305336,-1,0
+zala,46.6713343,16.8894692,Zala,285154,0,0
+vas,47.1371935,16.780898,Vas,256458,0,0
+tolna,46.4883447,18.5050005,Tolna ,229116,0,0
+nograd,47.9873616,19.5472495,Nógrád ,198933,1,0
