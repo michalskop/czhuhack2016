@@ -1,0 +1,232 @@
+statistics_code,statistics_name,value,date,classification,county_code,county_name,country_code,country_name
+0-14,0-14,0.128,2011,age,praha,Praha,cz,Czechia
+15-64,15-64,0.708,2011,age,praha,Praha,cz,Czechia
+65-,65-,0.164,2011,age,praha,Praha,cz,Czechia
+0-14,0-14,0.147,2011,age,benesov,Benešov,cz,Czechia
+15-64,15-64,0.697,2011,age,benesov,Benešov,cz,Czechia
+65-,65-,0.156,2011,age,benesov,Benešov,cz,Czechia
+0-14,0-14,0.155,2011,age,beroun,Beroun,cz,Czechia
+15-64,15-64,0.692,2011,age,beroun,Beroun,cz,Czechia
+65-,65-,0.153,2011,age,beroun,Beroun,cz,Czechia
+0-14,0-14,0.151,2011,age,kladno,Kladno,cz,Czechia
+15-64,15-64,0.695,2011,age,kladno,Kladno,cz,Czechia
+65-,65-,0.154,2011,age,kladno,Kladno,cz,Czechia
+0-14,0-14,0.149,2011,age,kolin,Kolín,cz,Czechia
+15-64,15-64,0.690,2011,age,kolin,Kolín,cz,Czechia
+65-,65-,0.160,2011,age,kolin,Kolín,cz,Czechia
+0-14,0-14,0.138,2011,age,kutna-hora,Kutná Hora,cz,Czechia
+15-64,15-64,0.699,2011,age,kutna-hora,Kutná Hora,cz,Czechia
+65-,65-,0.164,2011,age,kutna-hora,Kutná Hora,cz,Czechia
+0-14,0-14,0.151,2011,age,melnik,Mělník,cz,Czechia
+15-64,15-64,0.703,2011,age,melnik,Mělník,cz,Czechia
+65-,65-,0.146,2011,age,melnik,Mělník,cz,Czechia
+0-14,0-14,0.146,2011,age,mlada-boleslav,Mladá Boleslav,cz,Czechia
+15-64,15-64,0.710,2011,age,mlada-boleslav,Mladá Boleslav,cz,Czechia
+65-,65-,0.143,2011,age,mlada-boleslav,Mladá Boleslav,cz,Czechia
+0-14,0-14,0.159,2011,age,nymburk,Nymburk,cz,Czechia
+15-64,15-64,0.689,2011,age,nymburk,Nymburk,cz,Czechia
+65-,65-,0.153,2011,age,nymburk,Nymburk,cz,Czechia
+0-14,0-14,0.179,2011,age,praha-vychod,Praha-východ,cz,Czechia
+15-64,15-64,0.694,2011,age,praha-vychod,Praha-východ,cz,Czechia
+65-,65-,0.128,2011,age,praha-vychod,Praha-východ,cz,Czechia
+0-14,0-14,0.185,2011,age,praha-zapad,Praha-západ,cz,Czechia
+15-64,15-64,0.691,2011,age,praha-zapad,Praha-západ,cz,Czechia
+65-,65-,0.124,2011,age,praha-zapad,Praha-západ,cz,Czechia
+0-14,0-14,0.144,2011,age,pribram,Příbram,cz,Czechia
+15-64,15-64,0.701,2011,age,pribram,Příbram,cz,Czechia
+65-,65-,0.155,2011,age,pribram,Příbram,cz,Czechia
+0-14,0-14,0.140,2011,age,rakovnik,Rakovník,cz,Czechia
+15-64,15-64,0.708,2011,age,rakovnik,Rakovník,cz,Czechia
+65-,65-,0.152,2011,age,rakovnik,Rakovník,cz,Czechia
+0-14,0-14,0.145,2011,age,ceske-budejovice,České Budějovice,cz,Czechia
+15-64,15-64,0.704,2011,age,ceske-budejovice,České Budějovice,cz,Czechia
+65-,65-,0.152,2011,age,ceske-budejovice,České Budějovice,cz,Czechia
+0-14,0-14,0.159,2011,age,cesky-krumlov,Český Krumlov,cz,Czechia
+15-64,15-64,0.713,2011,age,cesky-krumlov,Český Krumlov,cz,Czechia
+65-,65-,0.128,2011,age,cesky-krumlov,Český Krumlov,cz,Czechia
+0-14,0-14,0.144,2011,age,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+15-64,15-64,0.701,2011,age,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+65-,65-,0.155,2011,age,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+0-14,0-14,0.140,2011,age,pisek,Písek,cz,Czechia
+15-64,15-64,0.687,2011,age,pisek,Písek,cz,Czechia
+65-,65-,0.173,2011,age,pisek,Písek,cz,Czechia
+0-14,0-14,0.151,2011,age,prachatice,Prachatice,cz,Czechia
+15-64,15-64,0.707,2011,age,prachatice,Prachatice,cz,Czechia
+65-,65-,0.142,2011,age,prachatice,Prachatice,cz,Czechia
+0-14,0-14,0.142,2011,age,strakonice,Strakonice,cz,Czechia
+15-64,15-64,0.696,2011,age,strakonice,Strakonice,cz,Czechia
+65-,65-,0.162,2011,age,strakonice,Strakonice,cz,Czechia
+0-14,0-14,0.141,2011,age,tabor,Tábor,cz,Czechia
+15-64,15-64,0.692,2011,age,tabor,Tábor,cz,Czechia
+65-,65-,0.168,2011,age,tabor,Tábor,cz,Czechia
+0-14,0-14,0.149,2011,age,domazlice,Domažlice,cz,Czechia
+15-64,15-64,0.704,2011,age,domazlice,Domažlice,cz,Czechia
+65-,65-,0.147,2011,age,domazlice,Domažlice,cz,Czechia
+0-14,0-14,0.141,2011,age,klatovy,Klatovy,cz,Czechia
+15-64,15-64,0.694,2011,age,klatovy,Klatovy,cz,Czechia
+65-,65-,0.165,2011,age,klatovy,Klatovy,cz,Czechia
+0-14,0-14,0.130,2011,age,plzen-mesto,Plzeň-město,cz,Czechia
+15-64,15-64,0.692,2011,age,plzen-mesto,Plzeň-město,cz,Czechia
+65-,65-,0.177,2011,age,plzen-mesto,Plzeň-město,cz,Czechia
+0-14,0-14,0.145,2011,age,plzen-jih,Plzeň-jih,cz,Czechia
+15-64,15-64,0.696,2011,age,plzen-jih,Plzeň-jih,cz,Czechia
+65-,65-,0.159,2011,age,plzen-jih,Plzeň-jih,cz,Czechia
+0-14,0-14,0.154,2011,age,plzen-sever,Plzeň-sever,cz,Czechia
+15-64,15-64,0.700,2011,age,plzen-sever,Plzeň-sever,cz,Czechia
+65-,65-,0.146,2011,age,plzen-sever,Plzeň-sever,cz,Czechia
+0-14,0-14,0.138,2011,age,rokycany,Rokycany,cz,Czechia
+15-64,15-64,0.695,2011,age,rokycany,Rokycany,cz,Czechia
+65-,65-,0.167,2011,age,rokycany,Rokycany,cz,Czechia
+0-14,0-14,0.150,2011,age,tachov,Tachov,cz,Czechia
+15-64,15-64,0.724,2011,age,tachov,Tachov,cz,Czechia
+65-,65-,0.125,2011,age,tachov,Tachov,cz,Czechia
+0-14,0-14,0.151,2011,age,cheb,Cheb,cz,Czechia
+15-64,15-64,0.711,2011,age,cheb,Cheb,cz,Czechia
+65-,65-,0.138,2011,age,cheb,Cheb,cz,Czechia
+0-14,0-14,0.139,2011,age,karlovy-vary,Karlovy Vary,cz,Czechia
+15-64,15-64,0.705,2011,age,karlovy-vary,Karlovy Vary,cz,Czechia
+65-,65-,0.156,2011,age,karlovy-vary,Karlovy Vary,cz,Czechia
+0-14,0-14,0.153,2011,age,sokolov,Sokolov,cz,Czechia
+15-64,15-64,0.713,2011,age,sokolov,Sokolov,cz,Czechia
+65-,65-,0.135,2011,age,sokolov,Sokolov,cz,Czechia
+0-14,0-14,0.155,2011,age,decin,Děčín,cz,Czechia
+15-64,15-64,0.704,2011,age,decin,Děčín,cz,Czechia
+65-,65-,0.141,2011,age,decin,Děčín,cz,Czechia
+0-14,0-14,0.152,2011,age,chomutov,Chomutov,cz,Czechia
+15-64,15-64,0.722,2011,age,chomutov,Chomutov,cz,Czechia
+65-,65-,0.126,2011,age,chomutov,Chomutov,cz,Czechia
+0-14,0-14,0.151,2011,age,litomerice,Litoměřice,cz,Czechia
+15-64,15-64,0.697,2011,age,litomerice,Litoměřice,cz,Czechia
+65-,65-,0.152,2011,age,litomerice,Litoměřice,cz,Czechia
+0-14,0-14,0.154,2011,age,louny,Louny,cz,Czechia
+15-64,15-64,0.706,2011,age,louny,Louny,cz,Czechia
+65-,65-,0.140,2011,age,louny,Louny,cz,Czechia
+0-14,0-14,0.150,2011,age,most,Most,cz,Czechia
+15-64,15-64,0.712,2011,age,most,Most,cz,Czechia
+65-,65-,0.139,2011,age,most,Most,cz,Czechia
+0-14,0-14,0.154,2011,age,teplice,Teplice,cz,Czechia
+15-64,15-64,0.704,2011,age,teplice,Teplice,cz,Czechia
+65-,65-,0.142,2011,age,teplice,Teplice,cz,Czechia
+0-14,0-14,0.157,2011,age,usti-nad-labem,Ústí nad Labem,cz,Czechia
+15-64,15-64,0.702,2011,age,usti-nad-labem,Ústí nad Labem,cz,Czechia
+65-,65-,0.140,2011,age,usti-nad-labem,Ústí nad Labem,cz,Czechia
+0-14,0-14,0.158,2011,age,ceska-lipa,Česká Lípa,cz,Czechia
+15-64,15-64,0.717,2011,age,ceska-lipa,Česká Lípa,cz,Czechia
+65-,65-,0.125,2011,age,ceska-lipa,Česká Lípa,cz,Czechia
+0-14,0-14,0.147,2011,age,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+15-64,15-64,0.701,2011,age,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+65-,65-,0.153,2011,age,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+0-14,0-14,0.151,2011,age,liberec,Liberec,cz,Czechia
+15-64,15-64,0.702,2011,age,liberec,Liberec,cz,Czechia
+65-,65-,0.146,2011,age,liberec,Liberec,cz,Czechia
+0-14,0-14,0.144,2011,age,semily,Semily,cz,Czechia
+15-64,15-64,0.686,2011,age,semily,Semily,cz,Czechia
+65-,65-,0.170,2011,age,semily,Semily,cz,Czechia
+0-14,0-14,0.140,2011,age,hradec-kralove,Hradec Králové,cz,Czechia
+15-64,15-64,0.687,2011,age,hradec-kralove,Hradec Králové,cz,Czechia
+65-,65-,0.173,2011,age,hradec-kralove,Hradec Králové,cz,Czechia
+0-14,0-14,0.141,2011,age,jicin,Jičín,cz,Czechia
+15-64,15-64,0.695,2011,age,jicin,Jičín,cz,Czechia
+65-,65-,0.163,2011,age,jicin,Jičín,cz,Czechia
+0-14,0-14,0.151,2011,age,nachod,Náchod,cz,Czechia
+15-64,15-64,0.682,2011,age,nachod,Náchod,cz,Czechia
+65-,65-,0.167,2011,age,nachod,Náchod,cz,Czechia
+0-14,0-14,0.152,2011,age,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+15-64,15-64,0.689,2011,age,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+65-,65-,0.159,2011,age,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+0-14,0-14,0.146,2011,age,trutnov,Trutnov,cz,Czechia
+15-64,15-64,0.697,2011,age,trutnov,Trutnov,cz,Czechia
+65-,65-,0.156,2011,age,trutnov,Trutnov,cz,Czechia
+0-14,0-14,0.147,2011,age,chrudim,Chrudim,cz,Czechia
+15-64,15-64,0.694,2011,age,chrudim,Chrudim,cz,Czechia
+65-,65-,0.160,2011,age,chrudim,Chrudim,cz,Czechia
+0-14,0-14,0.140,2011,age,pardubice,Pardubice,cz,Czechia
+15-64,15-64,0.696,2011,age,pardubice,Pardubice,cz,Czechia
+65-,65-,0.165,2011,age,pardubice,Pardubice,cz,Czechia
+0-14,0-14,0.151,2011,age,svitavy,Svitavy,cz,Czechia
+15-64,15-64,0.697,2011,age,svitavy,Svitavy,cz,Czechia
+65-,65-,0.152,2011,age,svitavy,Svitavy,cz,Czechia
+0-14,0-14,0.153,2011,age,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+15-64,15-64,0.696,2011,age,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+65-,65-,0.151,2011,age,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+0-14,0-14,0.144,2011,age,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+15-64,15-64,0.693,2011,age,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+65-,65-,0.163,2011,age,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+0-14,0-14,0.147,2011,age,jihlava,Jihlava,cz,Czechia
+15-64,15-64,0.700,2011,age,jihlava,Jihlava,cz,Czechia
+65-,65-,0.153,2011,age,jihlava,Jihlava,cz,Czechia
+0-14,0-14,0.139,2011,age,pelhrimov,Pelhřimov,cz,Czechia
+15-64,15-64,0.687,2011,age,pelhrimov,Pelhřimov,cz,Czechia
+65-,65-,0.174,2011,age,pelhrimov,Pelhřimov,cz,Czechia
+0-14,0-14,0.144,2011,age,trebic,Třebíč,cz,Czechia
+15-64,15-64,0.702,2011,age,trebic,Třebíč,cz,Czechia
+65-,65-,0.155,2011,age,trebic,Třebíč,cz,Czechia
+0-14,0-14,0.150,2011,age,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+15-64,15-64,0.694,2011,age,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+65-,65-,0.156,2011,age,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+0-14,0-14,0.145,2011,age,blansko,Blansko,cz,Czechia
+15-64,15-64,0.693,2011,age,blansko,Blansko,cz,Czechia
+65-,65-,0.162,2011,age,blansko,Blansko,cz,Czechia
+0-14,0-14,0.131,2011,age,brno-mesto,Brno-město,cz,Czechia
+15-64,15-64,0.691,2011,age,brno-mesto,Brno-město,cz,Czechia
+65-,65-,0.179,2011,age,brno-mesto,Brno-město,cz,Czechia
+0-14,0-14,0.156,2011,age,brno-venkov,Brno-venkov,cz,Czechia
+15-64,15-64,0.688,2011,age,brno-venkov,Brno-venkov,cz,Czechia
+65-,65-,0.156,2011,age,brno-venkov,Brno-venkov,cz,Czechia
+0-14,0-14,0.140,2011,age,breclav,Břeclav,cz,Czechia
+15-64,15-64,0.713,2011,age,breclav,Břeclav,cz,Czechia
+65-,65-,0.148,2011,age,breclav,Břeclav,cz,Czechia
+0-14,0-14,0.135,2011,age,hodonin,Hodonín,cz,Czechia
+15-64,15-64,0.708,2011,age,hodonin,Hodonín,cz,Czechia
+65-,65-,0.157,2011,age,hodonin,Hodonín,cz,Czechia
+0-14,0-14,0.146,2011,age,vyskov,Vyškov,cz,Czechia
+15-64,15-64,0.701,2011,age,vyskov,Vyškov,cz,Czechia
+65-,65-,0.153,2011,age,vyskov,Vyškov,cz,Czechia
+0-14,0-14,0.146,2011,age,znojmo,Znojmo,cz,Czechia
+15-64,15-64,0.710,2011,age,znojmo,Znojmo,cz,Czechia
+65-,65-,0.144,2011,age,znojmo,Znojmo,cz,Czechia
+0-14,0-14,0.141,2011,age,jesenik,Jeseník,cz,Czechia
+15-64,15-64,0.714,2011,age,jesenik,Jeseník,cz,Czechia
+65-,65-,0.145,2011,age,jesenik,Jeseník,cz,Czechia
+0-14,0-14,0.144,2011,age,olomouc,Olomouc,cz,Czechia
+15-64,15-64,0.701,2011,age,olomouc,Olomouc,cz,Czechia
+65-,65-,0.156,2011,age,olomouc,Olomouc,cz,Czechia
+0-14,0-14,0.144,2011,age,prostejov,Prostějov,cz,Czechia
+15-64,15-64,0.691,2011,age,prostejov,Prostějov,cz,Czechia
+65-,65-,0.164,2011,age,prostejov,Prostějov,cz,Czechia
+0-14,0-14,0.141,2011,age,prerov,Přerov,cz,Czechia
+15-64,15-64,0.696,2011,age,prerov,Přerov,cz,Czechia
+65-,65-,0.163,2011,age,prerov,Přerov,cz,Czechia
+0-14,0-14,0.144,2011,age,sumperk,Šumperk,cz,Czechia
+15-64,15-64,0.701,2011,age,sumperk,Šumperk,cz,Czechia
+65-,65-,0.155,2011,age,sumperk,Šumperk,cz,Czechia
+0-14,0-14,0.137,2011,age,kromeriz,Kroměříž,cz,Czechia
+15-64,15-64,0.701,2011,age,kromeriz,Kroměříž,cz,Czechia
+65-,65-,0.162,2011,age,kromeriz,Kroměříž,cz,Czechia
+0-14,0-14,0.139,2011,age,uherske-hradiste,Uherské Hradiště,cz,Czechia
+15-64,15-64,0.697,2011,age,uherske-hradiste,Uherské Hradiště,cz,Czechia
+65-,65-,0.164,2011,age,uherske-hradiste,Uherské Hradiště,cz,Czechia
+0-14,0-14,0.144,2011,age,vsetin,Vsetín,cz,Czechia
+15-64,15-64,0.698,2011,age,vsetin,Vsetín,cz,Czechia
+65-,65-,0.157,2011,age,vsetin,Vsetín,cz,Czechia
+0-14,0-14,0.140,2011,age,zlin,Zlín,cz,Czechia
+15-64,15-64,0.696,2011,age,zlin,Zlín,cz,Czechia
+65-,65-,0.165,2011,age,zlin,Zlín,cz,Czechia
+0-14,0-14,0.146,2011,age,bruntal,Bruntál,cz,Czechia
+15-64,15-64,0.716,2011,age,bruntal,Bruntál,cz,Czechia
+65-,65-,0.138,2011,age,bruntal,Bruntál,cz,Czechia
+0-14,0-14,0.146,2011,age,frydek-mistek,Frýdek-Místek,cz,Czechia
+15-64,15-64,0.703,2011,age,frydek-mistek,Frýdek-Místek,cz,Czechia
+65-,65-,0.151,2011,age,frydek-mistek,Frýdek-Místek,cz,Czechia
+0-14,0-14,0.138,2011,age,karvina,Karviná,cz,Czechia
+15-64,15-64,0.707,2011,age,karvina,Karviná,cz,Czechia
+65-,65-,0.155,2011,age,karvina,Karviná,cz,Czechia
+0-14,0-14,0.150,2011,age,novy-jicin,Nový Jičín,cz,Czechia
+15-64,15-64,0.706,2011,age,novy-jicin,Nový Jičín,cz,Czechia
+65-,65-,0.144,2011,age,novy-jicin,Nový Jičín,cz,Czechia
+0-14,0-14,0.147,2011,age,opava,Opava,cz,Czechia
+15-64,15-64,0.703,2011,age,opava,Opava,cz,Czechia
+65-,65-,0.150,2011,age,opava,Opava,cz,Czechia
+0-14,0-14,0.141,2011,age,ostrava-mesto,Ostrava-město,cz,Czechia
+15-64,15-64,0.701,2011,age,ostrava-mesto,Ostrava-město,cz,Czechia
+65-,65-,0.158,2011,age,ostrava-mesto,Ostrava-město,cz,Czechia
