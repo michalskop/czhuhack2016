@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Czecho-Hungarian Impearial Hack 2016</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootswatch/3.2.0/united/bootstrap.min.css">
+    <link rel="stylesheet" href="//cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+    <script src="//cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <script src="//d3js.org/d3.v3.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+    <style type="text/css">
+      .leaflet-tile-pane {
+		opacity: .4
+      }
+      .leaflet-container {
+        background-color: #fff;
+      }
+      html, body, .row, .column-map{
+		  /*width: 100%;*/
+		  height: 100%;
+		  /*margin: 0;
+		  padding: 0;*/
+		}
+      .map {
+		  width: 100%;
+		  height: 70%;
+	  }
+	  circle {
+        /*fill: #040;
+        stroke: #040;*/
+        cursor: pointer;
+        fill-opacity: 0.8;
+        stroke-opacity: 0.75;
+    }
+
+    svg {
+      width: 100000px;
+      height: 100000px;
+    }
+	  /* this is because of Bootstrap - very important! */
+		svg:not(:root) {
+			overflow: visible;
+		}
+
+    </style>
+</head>
+<body>
+    <div class="navbar navbar-default">
+        <div class="navbar-header">
+          <a class="navbar-brand">Party strongholds - <strong><span style="color:green">real</span></strong> and <strong><span style="color:blue">potential</span></strong>: <strong><span id="party">KSČM</span></strong></a>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-6 column-map">
+            <h1>Czechia</h1>
+            <button id="kscm" class="btn btn-default">KSČM</button>
+            <button id="cssd" class="btn btn-default">ČSSD</button>
+            <button id="kdu-csl" class="btn btn-default">KDU-ČSL</button>
+            <button id="ano" class="btn btn-default">ANO</button>
+            <button id="top-09" class="btn btn-default">TOP 09</button>
+            <div id="map_cz" class="map"></div>
+        </div>
+        <div class="col-sm-6 column-map">
+            <h1>Hungary</h1>
+            <button id="fidesz-kdnp" class="btn btn-default">Fidesz</button>
+            <button id="jobbik" class="btn btn-default">Jobbik</button>
+            <div id="map_hu" class="map"></div>
+        </div>
+    </div>
+
+<script type="text/javascript">
+    //defaults
+vars_cz = {population:"population", "ns":"kscm"}
+vars_hu = {population:"population", "ns":"kscm"}
+
+
+// Create the map
+var map_cz = L.map('map_cz', {'zoomControl':false}).setView([50,15.5], 6);
+// add an OpenStreetMap tile layer
+// also see http://wiki.openstreetmap.org/wiki/Tiles
+L.tileLayer('http://{s}.www.toolserver.org/tiles/bw-mapnik/{z}/{x}/{y}.png', {
+ attribution: 'CC-BY Michal Škop | &copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map_cz);
+L.control.zoom({"position":"topright"}).addTo(map_cz);
+
+//svg
+var svg_cz = d3.select(map_cz.getPanes().overlayPane).append("svg").attr("class", "towns_cz");
+
+// Create the map
+var map_hu = L.map('map_hu', {'zoomControl':false}).setView([47,19.5], 6);
+// add an OpenStreetMap tile layer
+// also see http://wiki.openstreetmap.org/wiki/Tiles
+L.tileLayer('http://{s}.www.toolserver.org/tiles/bw-mapnik/{z}/{x}/{y}.png', {
+ attribution: 'CC-BY Michal Škop | &copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map_hu);
+L.control.zoom({"position":"topright"}).addTo(map_hu);
+
+//svg
+var svg_hu = d3.select(map_hu.getPanes().overlayPane).append("svg").attr("class", "towns_hu");
+
+
+//scale
+var radiusScale = d3.scale.sqrt().domain([0, 1250000]).range([0, 30]);
+
+//keys (columns) of numerical values in data
+ var keys = [];
+
+var color = colorscale([-1,0,1],["blue", "#ccc", "green"]);
+
+d3.csv('cz.csv', function(data) {
+    //keys
+    //does not work for IE<=8:
+    var keys0 = Object.keys(data[0]);
+    //remove lat, lon and non numeric
+
+    for (var k in keys0) {
+      key = keys0[k];
+      if (!((['id','latitude','longitude'].indexOf(key) > -1) || isNaN(parseFloat(data[1][key])))) {
+        keys.push(key);
+      }
+    }
+
+    //mapping
+    nodes = data
+        .map(function(d) {
+    mpoint = projectPoint_cz(d.latitude,d.longitude);
+
+    return {
+          x: mpoint.x,
+          y: mpoint.y,
+          r: radiusScale(d[vars_cz['population']]),
+          value: d   //including whole d
+        };
+      });
+
+      //adding circles
+      var circle = svg_cz.selectAll("svg")
+        .data(nodes)
+        .enter().append("svg:svg")
+          .append("svg:circle")
+          .attr("cx", function (d) {return d.x})
+          .attr("cy", function (d) {return d.y})
+  	    .attr("r", function (d) {return d.r})
+        .attr("class","circle_cz")
+  	    .attr("fill", function(d) {
+            one = parseFloat(d.value[vars_cz['ns']]);
+            return color(one);
+        });
+
+        //on zoom or map movement, http://leafletjs.com/reference.html#events
+        map_cz.on("viewreset", changeit_cz);
+        map_cz.on("moveend", changeit_cz);
+        //map_cz.on("move", hidepoints);   //not needed
+        map_cz.on("zoomstart", hidepoints_cz);
+        $(".towns_cz").show(100);
+
+});
+
+d3.csv('hu.csv', function(data) {
+    //keys
+    //does not work for IE<=8:
+    var keys0 = Object.keys(data[0]);
+    //remove lat, lon and non numeric
+
+    for (var k in keys0) {
+      key = keys0[k];
+      if (!((['id','latitude','longitude'].indexOf(key) > -1) || isNaN(parseFloat(data[1][key])))) {
+        keys.push(key);
+      }
+    }
+
+    //mapping
+    nodes = data
+        .map(function(d) {
+    mpoint = projectPoint_hu(d.latitude,d.longitude);
+
+    return {
+          x: mpoint.x,
+          y: mpoint.y,
+          r: radiusScale(d[vars_hu['population']]),
+          value: d   //including whole d
+        };
+      });
+
+      //adding circles
+      var circle = svg_hu.selectAll("svg")
+        .data(nodes)
+        .enter().append("svg:svg")
+          .append("svg:circle")
+          .attr("cx", function (d) {return d.x})
+          .attr("cy", function (d) {return d.y})
+  	    .attr("r", function (d) {return d.r})
+        .attr("class","circle_hu")
+  	    .attr("fill", function(d) {
+            one = parseFloat(d.value[vars_hu['ns']]);
+            return color(one);
+        });
+
+        //on zoom or map movement, http://leafletjs.com/reference.html#events
+        map_hu.on("viewreset", changeit_hu);
+        map_hu.on("moveend", changeit_hu);
+        //map_cz.on("move", hidepoints);   //not needed
+        map_hu.on("zoomstart", hidepoints_hu);
+        $(".towns_hu").show(100);
+
+});
+
+      function hidepoints_cz() {
+        $(".towns_cz").hide();
+      }
+
+      function hidepoints_hu() {
+        $(".towns_hu").hide();
+      }
+
+      // Use Leaflet to implement a D3 geometric transformation.
+      function projectPoint_cz(x, y) {
+    	  var point = map_cz.latLngToLayerPoint(new L.LatLng(x, y));
+    	  return point;
+      }
+      // Use Leaflet to implement a D3 geometric transformation.
+      function projectPoint_hu(x, y) {
+    	  var point = map_hu.latLngToLayerPoint(new L.LatLng(x, y));
+    	  return point;
+      }
+
+      //helper function matrix to values
+     function matrixVal(s) {
+         return s.split('(')[1].split(')')[0].split(',');
+     }
+
+     // adjust points after map change (zoom, move)
+     function changeit_cz() {
+       //Chromium/Chrome does not support well changes, so:
+       var s = $("#map_cz > .leaflet-map-pane").css("-webkit-transform");  //chromium, opera
+       if (typeof(s) == 'undefined')
+         var s = $("#map_cz > .leaflet-map-pane").css("transform");  //ff
+       var sar = matrixVal(s);
+
+       //if towns in svg: (not used if it is div)
+       $("#map_cz").find(".towns_cz").css('left',-1*parseFloat(sar[4]));
+       $("#map_cz").find(".towns_cz").css('top',-1*parseFloat(sar[5]));
+
+       d3.selectAll(".circle_cz").each(function(d,i) {
+         //set correct x,y
+         mpoint = projectPoint_cz(d.value.latitude,d.value.longitude);
+         $(this)
+           .attr("r",
+             radiusScale(d.value[vars_cz['population']]) * Math.pow(map_cz.getZoom(),3) / 216	//power of 3 to show the results better in small scale
+            )
+            /*.attr("stroke-width",
+              Math.abs(radiusScale(d.value.population.p9)-radiusScale(d.value.population.p6)) * Math.pow(map_cz.getZoom(),3) / 729	//power of 3 to show the results better in small scale
+            )*/
+            .attr("fill", color(parseFloat(d.value[vars_cz['ns']])))
+            .attr("cx", mpoint.x)
+            .attr("cy", mpoint.y);
+
+            //Reposition the SVG to cover the features.
+            //note: if towns is div, next lines are needed; if it is svg, it is different:
+            $(this).attr('transform',"translate(" + sar[4] + "," + sar[5] + ")");
+            /*$(this).parent().css('left',-1*parseFloat(sar[4]));
+            $(this).parent().css('top',-1*parseFloat(sar[5]));*/
+
+
+          });
+      $(".towns_cz").show(300);
+
+  }
+
+  // adjust points after map change (zoom, move)
+  function changeit_hu() {
+    //Chromium/Chrome does not support well changes, so:
+    var s = $("#map_hu > .leaflet-map-pane").css("-webkit-transform");  //chromium, opera
+    if (typeof(s) == 'undefined')
+      var s = $("#map_hu > .leaflet-map-pane").css("transform");  //ff
+    var sar = matrixVal(s);
+
+    //if towns in svg: (not used if it is div)
+    $("#map_hu").find(".towns_hu").css('left',-1*parseFloat(sar[4]));
+    $("#map_hu").find(".towns_hu").css('top',-1*parseFloat(sar[5]));
+
+    d3.selectAll(".circle_hu").each(function(d,i) {
+      //set correct x,y
+      mpoint = projectPoint_hu(d.value.latitude,d.value.longitude);
+      $(this)
+        .attr("r",
+          radiusScale(d.value[vars_hu['population']]) * Math.pow(map_hu.getZoom(),3) / 216	//power of 3 to show the results better in small scale
+         )
+         /*.attr("stroke-width",
+           Math.abs(radiusScale(d.value.population.p9)-radiusScale(d.value.population.p6)) * Math.pow(map_cz.getZoom(),3) / 729	//power of 3 to show the results better in small scale
+         )*/
+         .attr("fill", color(parseFloat(d.value[vars_hu['ns']])))
+         .attr("cx", mpoint.x)
+         .attr("cy", mpoint.y);
+
+         //Reposition the SVG to cover the features.
+         //note: if towns is div, next lines are needed; if it is svg, it is different:
+         $(this).attr('transform',"translate(" + sar[4] + "," + sar[5] + ")");
+         /*$(this).parent().css('left',-1*parseFloat(sar[4]));
+         $(this).parent().css('top',-1*parseFloat(sar[5]));*/
+
+
+       });
+   $(".towns_hu").show(300);
+
+}
+
+     function changesize_cz() {
+       d3.selectAll(".circle_cz").each(function(data,i) {
+         d3.select(this)
+           .transition()
+   		.delay(0)
+   		.duration(300)
+           .attr("r",
+   	       radiusScale(data.value[vars_cz['population']]) * Math.pow(map_cz.getZoom(),3) / 343	//power of 3 to show the results better in small scale
+   	    )
+       });
+     }
+
+     function changesize_hu() {
+       d3.selectAll(".circle_hu").each(function(data,i) {
+         d3.select(this)
+           .transition()
+   		.delay(0)
+   		.duration(300)
+           .attr("r",
+   	       radiusScale(data.value[vars_hu['population']]) * Math.pow(map_hu.getZoom(),3) / 343	//power of 3 to show the results better in small scale
+   	    )
+       });
+     }
+
+     //set color scale
+     function colorscale(domain,range) {
+       return d3.scale.linear()
+               .domain(domain)
+               .range(range);
+     }
+
+$( document ).ready(function() {
+    $("button").click(function(){
+        vars_hu['ns'] = $(this).attr('id');
+        changeit_hu();
+        vars_cz['ns'] = $(this).attr('id');
+        changeit_cz();
+        $("#party").html($(this).attr('id'));
+    });
+});
+
+</script>
+</body>
+</html>

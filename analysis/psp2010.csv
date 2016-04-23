@@ -1,0 +1,5 @@
+statistics_code,statistics_name,value,date,classification,county_code,county_name,country_code,country_name
+no-education,No Education,0.006189550365466492,2011,education,40169,40169,cz,Czechia
+primary,Primary,0.1751778111387296,2011,education,40169,40169,cz,Czechia
+secondary,Secondary,0.6874461644476164,2011,education,40169,40169,cz,Czechia
+tertiary,Tertiary,0.09756847882263185,2011,education,40169,40169,cz,Czechia

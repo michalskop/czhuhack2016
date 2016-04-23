@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Banská Bystrica (region 2013)</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootswatch/3.2.0/cerulean/bootstrap.min.css">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="d3.tip.js"></script>
+    
+    <style type="text/css">
+      .leaflet-tile-pane {
+		opacity: .4
+      }
+      .leaflet-container {
+        background-color: #fff;
+      }
+      html, body{
+		  width: 100%;
+		  height: 100%;
+		  /*margin: 0;
+		  padding: 0;*/
+		}
+      #map {
+		  width: 100%;
+		  height: 70%;
+	  }
+	  circle {
+        /*fill: #040;
+        stroke: #040;*/
+        cursor: pointer;
+        fill-opacity: 0.8;
+        stroke-opacity: 0.75;
+    }
+    
+    svg {
+      width: 100000px;
+      height: 100000px;
+    }
+	  /* this is because of Bootstrap - very important! */
+		svg:not(:root) {
+			overflow: visible;
+		}
+		
+    /* D3 tips */  
+    .d3-tip {
+      line-height: 1;
+      font-weight: bold;
+      padding: 12px;
+      background: rgba(0, 0, 0, 0.8);
+      color: #fff;
+      border-radius: 2px;
+    }
+    /* Creates a small triangle extender for the tooltip */
+    /*.d3-tip:after {
+      box-sizing: border-box;
+      display: inline;
+      font-size: 10px;
+      width: 100%;
+      line-height: 1;
+      color: rgba(0, 0, 0, 0.8);
+      content: "\25BC";
+      position: absolute;
+      text-align: center;
+    }*/
+    /* Style northward tooltips differently */
+    .d3-tip.n:after {
+      margin: -1px 0 0 0;
+      top: 100%;
+      left: 0;
+    }
+    .stronger {
+      color: yellow;
+    }
+    /*overwrite bootstrap*/
+        .navbar {
+          margin-bottom: 0;
+        }
+		
+		
+    </style>
+  </head>
+  <body>
+    <div class="navbar navbar-default">
+        <div class="navbar-header">
+          <a class="navbar-brand">Banská Bystrica region, 2013</a>
+        </div>
+    </div>
+    <div style="position:fixed;top:52px;z-index:1000;">
+      <div class="alert alert-info" >Results by electoral districts.</div>
+    </div>
+      
+  
+    <div id="map"></div>
+    <!--<div>Size: <div class="btn-group btn-group-xs" data-toggle="buttons" id="buttons-size"></div></div>
+    <div>Plus: <div class="btn-group btn-group-xs" data-toggle="buttons" id="buttons-plus"></div></div>
+    <div>Minus: <div class="btn-group btn-group-xs" data-toggle="buttons" id="buttons-minus"></div></div>-->
+    
+    <div class="form-group">
+      <label for="select-size-wrap" class="col-sm-1 control-label">Size</label>
+      <div id="select-size-wrap" class="col-sm-11">
+        <select id="select-size" class="form-control switch">
+        </select>
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="select-plus-wrap" class="col-sm-1 control-label">Green</label>
+      <div id="select-plus-wrap" class="col-sm-11">
+        <select id="select-plus" class="form-control switch">
+        </select>
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="select-minus-wrap" class="col-sm-1 control-label">Red</label>
+      <div id="select-minus-wrap" class="col-sm-11">
+        <select id="select-minus" class="form-control switch">
+        </select>
+      </div>
+    </div>
+      
+      
+<script type="text/javascript">
+  //leaflet + d3:
+  // http://bost.ocks.org/mike/leaflet/
+  // http://stackoverflow.com/questions/21216347/achieving-animated-zoom-with-d3-and-leaflet
+
+  //defaults
+  var vars = {population: 'voted2', ns: ['Maňka2','Kotleba2'], name: 'name'};
+
+  // Create the map
+  var map = L.map('map', {'zoomControl':false}).setView([48.6500,19.1499], 11);
+  // add an OpenStreetMap tile layer
+  // also see http://wiki.openstreetmap.org/wiki/Tiles
+  L.tileLayer('http://{s}.www.toolserver.org/tiles/bw-mapnik/{z}/{x}/{y}.png', {
+    attribution: 'CC-BY Michal Škop | &copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+  L.control.zoom({"position":"topright"}).addTo(map);
+  
+  //svg
+  var svg = d3.select(map.getPanes().overlayPane).append("svg").attr("class", "towns");
+  
+  //scale
+  var radiusScale = d3.scale.sqrt().domain([0, 25000]).range([0, 50]);
+  
+  //keys (columns) of numerical values in data
+  var keys = [];
+  
+  var color = colorscale([0,0.5,1],["red", "yellow", "green"]);
+  
+  /* Initialize tooltip */
+  var tip = changetooltip();	
+  /*var tip = d3.tip().attr('class', 'd3-tip').html(function(d) { 
+    return '<span class="stronger">' + d['name'] + "</span><br>";
+  });*/
+  
+	/* Invoke the tip in the context of your visualization */
+    svg.call(tip);
+	
+	// Add tooltip div
+    var div = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 1e-6);
+  
+  //data
+  d3.csv('data2.csv', function(data) {
+    //keys
+    //does not work for IE<=8:
+    var keys0 = Object.keys(data[0]);
+    //remove lat, lon and non numeric
+
+    for (var k in keys0) {
+      key = keys0[k];
+      if (!((['id','lat','lon'].indexOf(key) > -1) || isNaN(parseFloat(data[1][key])))) {
+        keys.push(key);
+      }
+    }
+    
+    //add buttons
+    /*addButtons(keys,'size','info');
+    addButtons(keys,'plus','success');
+    addButtons(keys,'minus','danger');*/
+    addSelects(keys,'size',0);
+    addSelects(keys,'plus',1);
+    addSelects(keys,'minus',2);
+    $(".switch").on("change",function() {
+      changeitems(name2id(this.id),name2id($(this).children(":selected").attr("id")));
+      //changeitems(name2id(this.name),name2id(this.id))
+    });
+    
+   
+   //mapping
+   nodes = data
+     .map(function(d) {
+       mpoint = projectPoint(d.lat,d.lon);
+       
+       return {
+         x: mpoint.x,
+         y: mpoint.y,
+         r: radiusScale(d[vars['population']]),
+         name: d[vars['name']],
+         value: d   //including whole d
+       };
+     });
+    
+    //adding circles
+    var circle = svg.selectAll("svg")
+      .data(nodes)
+      .enter().append("svg:svg")
+        .append("svg:circle")
+        .attr("cx", function (d) {return d.x})
+        .attr("cy", function (d) {return d.y})
+	    .attr("r", function (d) {return d.r})
+	    .attr("fill", function(d) {
+          one = parseFloat(d.value[vars['ns'][0]]);
+          two = parseFloat(d.value[vars['ns'][1]]);
+          return color(two/(one+two));
+        })
+        .on("mouseover", tip.show)
+	    .on("mouseout", tip.hide);
+    
+
+    
+    //on zoom or map movement, http://leafletjs.com/reference.html#events
+    map.on("viewreset", changeit);
+    map.on("moveend", changeit);
+    //map.on("move", hidepoints);   //not needed
+    map.on("zoomstart", hidepoints);
+    $(".towns").show(100);
+    
+  });
+
+  function hidepoints() {
+    $(".towns").hide();
+  }
+
+  // Use Leaflet to implement a D3 geometric transformation.
+  function projectPoint(x, y) {
+	  var point = map.latLngToLayerPoint(new L.LatLng(x, y));
+	  return point;
+  }
+    
+  //helper function matrix to values
+  function matrixVal(s) {
+      return s.split('(')[1].split(')')[0].split(',');
+  } 
+
+  // adjust points after map change (zoom, move)
+  function changeit() {
+  	     //Chromium/Chrome does not support well changes, so:
+	     var s = $(".leaflet-map-pane").css("-webkit-transform");  //chromium, opera
+	     if (typeof(s) == 'undefined')
+	       var s = $(".leaflet-map-pane").css("transform");  //ff
+	     var sar = matrixVal(s);	 
+	  	 
+	  	 //if towns in svg: (not used if it is div)
+	  	 $(".towns").css('left',-1*parseFloat(sar[4]));
+	     $(".towns").css('top',-1*parseFloat(sar[5]));
+	  	 
+	     d3.selectAll("circle").each(function(d,i) { 
+	       //set correct x,y
+	       mpoint = projectPoint(d.value.lat,d.value.lon);
+	       $(this)
+	         .attr("r",
+	           radiusScale(d.value[vars['population']]) * Math.pow(map.getZoom(),3) / 729	//power of 3 to show the results better in small scale
+	          )
+	          /*.attr("stroke-width",
+	            Math.abs(radiusScale(d.value.population.p9)-radiusScale(d.value.population.p6)) * Math.pow(map.getZoom(),3) / 729	//power of 3 to show the results better in small scale
+	          )*/
+	          .attr("cx", mpoint.x)
+	          .attr("cy", mpoint.y);          
+	          
+	          //Reposition the SVG to cover the features.
+	          //note: if towns is div, next lines are needed; if it is svg, it is different:
+	          $(this).attr('transform',"translate(" + sar[4] + "," + sar[5] + ")");
+	          /*$(this).parent().css('left',-1*parseFloat(sar[4]));
+	          $(this).parent().css('top',-1*parseFloat(sar[5]));*/
+	          
+
+	        });
+	    $(".towns").show(300);
+      
+    }
+
+  //
+  function changeitems(change, id) {
+    //alert(change);
+    //alert(id);
+    if (change == 'size') {
+      vars['population'] = keys[id];
+      changesize();
+    }
+    if (change == 'plus') {
+      vars['ns'][1] = keys[id];
+      changecolor();
+    }
+    if (change == 'minus') {
+      vars['ns'][0] = keys[id];
+      changecolor();
+    }
+  }
+  
+  function changecolor() {
+    domain = [0,0.5,1];
+    range = ["red", "yellow", "green"];
+    color = colorscale(domain,range);
+    d3.selectAll("circle").each(function(data,i) {
+      
+      d3.select(this)
+        .attr("stroke-width", 30)
+        .attr("fill", function(d) {
+          one = parseFloat(d.value[vars['ns'][0]]);
+          two = parseFloat(d.value[vars['ns'][1]]);
+          return color(two/(one+two));
+        })
+    });
+  }
+  
+  function changesize() {
+    d3.selectAll("circle").each(function(data,i) {
+      d3.select(this)
+        .transition()            
+		.delay(0)            
+		.duration(300)
+        .attr("r",
+	       radiusScale(data.value[vars['population']]) * Math.pow(map.getZoom(),3) / 729	//power of 3 to show the results better in small scale
+	    )
+    });
+  }
+  
+  function changetooltip() {
+    tip = d3.tip().attr('class', 'd3-tip').html(function(d) { 
+      html = '<span class="stronger">' + d.value[vars['name']] + "</span><br>";
+      html += vars['population'] + ': ' + d.value[vars['population']] + '<br>';
+      html += vars['ns'][1] + ': ' + d.value[vars['ns'][1]] + '<br>';
+      html += vars['ns'][0] + ': ' + d.value[vars['ns'][0]] + '<br>';
+      return html;
+    });
+    return tip;
+  }
+  
+  //set color scale
+  function colorscale(domain,range) {
+    return d3.scale.linear()
+            .domain(domain)
+            .range(range);
+  }
+
+  //option-a-1 => a-1
+  function name2id(n) {
+    ar = n.split("-");
+    ar.splice(0,1);
+    return ar.join('-');
+  }
+  
+  //add buttons
+  /*function addButtons(keys,id,btype) {
+    for (k in keys) {
+      key = keys[k];
+      $("#buttons-"+id).append('<label class="btn btn-'+btype+' "><input type="radio" name="options-'+id+'" id="option-'+k+'" class="switch">'+key+'</label>');
+    }
+    $('.btn').button();
+    
+  }*/
+  function addSelects(keys,id,selected) {
+    for (k in keys) {
+      key = keys[k];
+      if (selected == k) sel = 'selected'; else sel = '';
+      $("#select-"+id).append('<option id="option-'+k+'" '+sel+' class="switch">'+key+'</option>');
+    }
+  }
+  
+</script>
+
+  </body>
+</html>

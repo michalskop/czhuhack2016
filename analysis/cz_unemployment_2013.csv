@@ -1,0 +1,78 @@
+statistics_code,statistics_name,value,date,classification,county_code,county_name,country_code,country_name
+unemployment,Unemployment,6.67,2013,unemployment,benesov,Benešov,cz,Czechia
+unemployment,Unemployment,7.17,2013,unemployment,beroun,Beroun,cz,Czechia
+unemployment,Unemployment,9.37,2013,unemployment,blansko,Blansko,cz,Czechia
+unemployment,Unemployment,8.93,2013,unemployment,brno-mesto,Brno-město,cz,Czechia
+unemployment,Unemployment,8.24,2013,unemployment,brno-venkov,Brno-venkov,cz,Czechia
+unemployment,Unemployment,17.97,2013,unemployment,bruntal,Bruntál,cz,Czechia
+unemployment,Unemployment,11.45,2013,unemployment,breclav,Břeclav,cz,Czechia
+unemployment,Unemployment,11.87,2013,unemployment,ceska-lipa,Česká Lípa,cz,Czechia
+unemployment,Unemployment,6.77,2013,unemployment,ceske-budejovice,České Budějovice,cz,Czechia
+unemployment,Unemployment,10.76,2013,unemployment,cesky-krumlov,Český Krumlov,cz,Czechia
+unemployment,Unemployment,14.77,2013,unemployment,decin,Děčín,cz,Czechia
+unemployment,Unemployment,7.75,2013,unemployment,domazlice,Domažlice,cz,Czechia
+unemployment,Unemployment,9.34,2013,unemployment,frydek-mistek,Frýdek-Místek,cz,Czechia
+unemployment,Unemployment,10.06,2013,unemployment,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+unemployment,Unemployment,14.92,2013,unemployment,hodonin,Hodonín,cz,Czechia
+unemployment,Unemployment,8.22,2013,unemployment,hradec-kralove,Hradec Králové,cz,Czechia
+unemployment,Unemployment,9.05,2013,unemployment,cheb,Cheb,cz,Czechia
+unemployment,Unemployment,15.09,2013,unemployment,chomutov,Chomutov,cz,Czechia
+unemployment,Unemployment,10.26,2013,unemployment,chrudim,Chrudim,cz,Czechia
+unemployment,Unemployment,9.33,2013,unemployment,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+unemployment,Unemployment,16.44,2013,unemployment,jesenik,Jeseník,cz,Czechia
+unemployment,Unemployment,8.36,2013,unemployment,jicin,Jičín,cz,Czechia
+unemployment,Unemployment,9.19,2013,unemployment,jihlava,Jihlava,cz,Czechia
+unemployment,Unemployment,8.17,2013,unemployment,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+unemployment,Unemployment,10.14,2013,unemployment,karlovy-vary,Karlovy Vary,cz,Czechia
+unemployment,Unemployment,14.43,2013,unemployment,karvina,Karviná,cz,Czechia
+unemployment,Unemployment,9.20,2013,unemployment,kladno,Kladno,cz,Czechia
+unemployment,Unemployment,9.07,2013,unemployment,klatovy,Klatovy,cz,Czechia
+unemployment,Unemployment,10.28,2013,unemployment,kolin,Kolín,cz,Czechia
+unemployment,Unemployment,11.59,2013,unemployment,kromeriz,Kroměříž,cz,Czechia
+unemployment,Unemployment,10.48,2013,unemployment,kutna-hora,Kutná Hora,cz,Czechia
+unemployment,Unemployment,9.85,2013,unemployment,liberec,Liberec,cz,Czechia
+unemployment,Unemployment,11.55,2013,unemployment,litomerice,Litoměřice,cz,Czechia
+unemployment,Unemployment,13.29,2013,unemployment,louny,Louny,cz,Czechia
+unemployment,Unemployment,8.51,2013,unemployment,melnik,Mělník,cz,Czechia
+unemployment,Unemployment,5.07,2013,unemployment,mlada-boleslav,Mladá Boleslav,cz,Czechia
+unemployment,Unemployment,16.02,2013,unemployment,most,Most,cz,Czechia
+unemployment,Unemployment,8.10,2013,unemployment,nachod,Náchod,cz,Czechia
+unemployment,Unemployment,9.67,2013,unemployment,novy-jicin,Nový Jičín,cz,Czechia
+unemployment,Unemployment,9.32,2013,unemployment,nymburk,Nymburk,cz,Czechia
+unemployment,Unemployment,10.52,2013,unemployment,olomouc,Olomouc,cz,Czechia
+unemployment,Unemployment,11.23,2013,unemployment,opava,Opava,cz,Czechia
+unemployment,Unemployment,12.77,2013,unemployment,ostrava-mesto,Ostrava-město,cz,Czechia
+unemployment,Unemployment,7.16,2013,unemployment,pardubice,Pardubice,cz,Czechia
+unemployment,Unemployment,6.74,2013,unemployment,pelhrimov,Pelhřimov,cz,Czechia
+unemployment,Unemployment,7.86,2013,unemployment,pisek,Písek,cz,Czechia
+unemployment,Unemployment,5.76,2013,unemployment,plzen-jih,Plzeň-jih,cz,Czechia
+unemployment,Unemployment,6.26,2013,unemployment,plzen-mesto,Plzeň-město,cz,Czechia
+unemployment,Unemployment,7.29,2013,unemployment,plzen-sever,Plzeň-sever,cz,Czechia
+unemployment,Unemployment,6.67,2013,unemployment,praha,Praha,cz,Czechia
+unemployment,Unemployment,3.58,2013,unemployment,praha-vychod,Praha-východ,cz,Czechia
+unemployment,Unemployment,4.44,2013,unemployment,praha-zapad,Praha-západ,cz,Czechia
+unemployment,Unemployment,7.54,2013,unemployment,prachatice,Prachatice,cz,Czechia
+unemployment,Unemployment,10.88,2013,unemployment,prostejov,Prostějov,cz,Czechia
+unemployment,Unemployment,12.76,2013,unemployment,prerov,Přerov,cz,Czechia
+unemployment,Unemployment,10.30,2013,unemployment,pribram,Příbram,cz,Czechia
+unemployment,Unemployment,9.42,2013,unemployment,rakovnik,Rakovník,cz,Czechia
+unemployment,Unemployment,6.10,2013,unemployment,rokycany,Rokycany,cz,Czechia
+unemployment,Unemployment,7.30,2013,unemployment,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+unemployment,Unemployment,10.04,2013,unemployment,semily,Semily,cz,Czechia
+unemployment,Unemployment,13.82,2013,unemployment,sokolov,Sokolov,cz,Czechia
+unemployment,Unemployment,9.61,2013,unemployment,strakonice,Strakonice,cz,Czechia
+unemployment,Unemployment,11.53,2013,unemployment,svitavy,Svitavy,cz,Czechia
+unemployment,Unemployment,12.82,2013,unemployment,sumperk,Šumperk,cz,Czechia
+unemployment,Unemployment,9.83,2013,unemployment,tabor,Tábor,cz,Czechia
+unemployment,Unemployment,10.68,2013,unemployment,tachov,Tachov,cz,Czechia
+unemployment,Unemployment,12.97,2013,unemployment,teplice,Teplice,cz,Czechia
+unemployment,Unemployment,10.82,2013,unemployment,trutnov,Trutnov,cz,Czechia
+unemployment,Unemployment,13.40,2013,unemployment,trebic,Třebíč,cz,Czechia
+unemployment,Unemployment,10.26,2013,unemployment,uherske-hradiste,Uherské Hradiště,cz,Czechia
+unemployment,Unemployment,14.13,2013,unemployment,usti-nad-labem,Ústí nad Labem,cz,Czechia
+unemployment,Unemployment,9.04,2013,unemployment,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+unemployment,Unemployment,11.95,2013,unemployment,vsetin,Vsetín,cz,Czechia
+unemployment,Unemployment,8.74,2013,unemployment,vyskov,Vyškov,cz,Czechia
+unemployment,Unemployment,8.76,2013,unemployment,zlin,Zlín,cz,Czechia
+unemployment,Unemployment,15.13,2013,unemployment,znojmo,Znojmo,cz,Czechia
+unemployment,Unemployment,10.62,2013,unemployment,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
