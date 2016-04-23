@@ -1,0 +1,20 @@
+statistics_code,statistics_name,classification,value,county_code,county_name,date,country_code,country_name
+no-education,No Education,age,117588,bacs-kiskun,Bács-Kiskun,2011,hu,Hungary
+no-education,No Education,age,74545,baranya,Baranya,2011,hu,Hungary
+no-education,No Education,age,86262,bekes,Békés,2011,hu,Hungary
+no-education,No Education,age,157654,borsod-abauj-zemplen,Borsod-Abaúj-Zemplén,2011,hu,Hungary
+no-education,No Education,age,77356,csongrad,Csongrád,2011,hu,Hungary
+no-education,No Education,age,79499,fejer,Fejér,2011,hu,Hungary
+no-education,No Education,age,72690,gyor-moson-sopron,Győr-Moson-Sopron,2011,hu,Hungary
+no-education,No Education,age,118846,hajdu-bihar,Hajdú-Bihar,2011,hu,Hungary
+no-education,No Education,age,68896,heves,Heves,2011,hu,Hungary
+no-education,No Education,age,92611,jasz-nagykun-szolnok,Jász-Nagykun-Szolnok,2011,hu,Hungary
+no-education,No Education,age,56704,komarom-esztergom,Komárom-Esztergom,2011,hu,Hungary
+no-education,No Education,age,48014,nograd,Nógrád,2011,hu,Hungary
+no-education,No Education,age,195726,pest,Pest,2011,hu,Hungary
+no-education,No Education,age,69461,somogy,Somogy,2011,hu,Hungary
+no-education,No Education,age,140075,szabolcs-szatmar-bereg,Szabolcs-Szatmár-Bereg,2011,hu,Hungary
+no-education,No Education,age,53665,tolna,Tolna,2011,hu,Hungary
+no-education,No Education,age,46581,vas,Vas,2011,hu,Hungary
+no-education,No Education,age,58178,veszprem,Veszprém,2011,hu,Hungary
+no-education,No Education,age,67511,zala,Zala,2011,hu,Hungary
