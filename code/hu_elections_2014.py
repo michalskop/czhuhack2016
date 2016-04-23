@@ -88,15 +88,16 @@ def jegyzekben_megjelent(content):
 
 def get_parteredmenyek(content):
     results = list()
-    soup = BeautifulSoup(content)
-
+    soup = BeautifulSoup(content, from_encoding='utf-8')
+    soup.prettify(formatter=lambda s: s.replace(u'\xa0', ' '))
     jegyzokonyv = soup.find(text='Jegyzőkönyv')
     voter_table = jegyzokonyv.find_next('table')
 
     voter_data = voter_table.find_all('td')
     total = voter_data[0].text
     voters = list(voter_data[1])
-    non_voters = int(total) - int(voters[0])
+    #non_voters = int(total) - int(voters[0].replace(' ', ''))
+    non_voters = 0
 
     nonvoter = dict()
     nonvoter['statistics_code'] = 'non-voters'
@@ -105,7 +106,6 @@ def get_parteredmenyek(content):
     results.append(nonvoter)
 
     jelolt_table = soup.find('p', text='A szavazatok száma pártlistánként').find_next('table')
-    assert jelolt_table is not None
     #print type(jelolt_table)
 
     rows = jelolt_table.find_all('tr')
@@ -119,13 +119,12 @@ def get_parteredmenyek(content):
         party['value'] = cells[2].text
         results.append(party)
 
-
     return results
 
 
 def create_csv():
 
-    keys = ['county_code', 'szavazokor', 'part', 'szavazat']
+    keys = ['county_code', 'county_name', 'classification', 'date', 'country_code', 'country_name', 'value', 'statistics_code', 'statistics_name']
 
     writer = unicodecsv.DictWriter(sys.stdout, fieldnames=keys)
 
@@ -138,8 +137,13 @@ def create_csv():
                 results = get_parteredmenyek(data[megye][telepules][szavazokor])
                 #results = jegyzekben_megjelent(data[megye][telepules][szavazor])
                 for result in results:
-                    result['county_code'] = megye
-                    result['county_name'] = slugify(m.COUNTIES[megye])
+                    result['county_code'] = slugify(m.COUNTIES[megye])
+                    result['county_name'] = m.COUNTIES[megye]
+                    result['classification'] = 'election'
+                    result['date'] = 2014
+                    result['country_code'] = 'hu'
+                    result['country_name'] = 'Hungary'
+
                     #result['telepules'] = telepules
                     #result['szavazokor'] = szavazokor
                     writer.writerow(result)
