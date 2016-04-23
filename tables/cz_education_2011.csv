@@ -1,0 +1,313 @@
+statistics_code,statistics_name,value,date,classification,county_code,county_name,country_code,country_name
+no-education,No Education,0.006189550365466492,2011,education,benesov,Benešov,cz,Czechia
+primary,Primary,0.1751778111387296,2011,education,benesov,Benešov,cz,Czechia
+secondary,Secondary,0.6874461644476164,2011,education,benesov,Benešov,cz,Czechia
+tertiary,Tertiary,0.09756847882263185,2011,education,benesov,Benešov,cz,Czechia
+no-education,No Education,0.0038927039214879996,2011,education,beroun,Beroun,cz,Czechia
+primary,Primary,0.16645421275545869,2011,education,beroun,Beroun,cz,Czechia
+secondary,Secondary,0.6796332086023273,2011,education,beroun,Beroun,cz,Czechia
+tertiary,Tertiary,0.10441767068273092,2011,education,beroun,Beroun,cz,Czechia
+no-education,No Education,0.003978456491865774,2011,education,blansko,Blansko,cz,Czechia
+primary,Primary,0.17065251119287203,2011,education,blansko,Blansko,cz,Czechia
+secondary,Secondary,0.685502460215435,2011,education,blansko,Blansko,cz,Czechia
+tertiary,Tertiary,0.11046588944545414,2011,education,blansko,Blansko,cz,Czechia
+no-education,No Education,0.0026398857336298875,2011,education,brno-mesto,Brno-město,cz,Czechia
+primary,Primary,0.12899212191580278,2011,education,brno-mesto,Brno-město,cz,Czechia
+secondary,Secondary,0.574785379368506,2011,education,brno-mesto,Brno-město,cz,Czechia
+tertiary,Tertiary,0.23634549541657635,2011,education,brno-mesto,Brno-město,cz,Czechia
+no-education,No Education,0.0031695357089539383,2011,education,brno-venkov,Brno-venkov,cz,Czechia
+primary,Primary,0.17544987884564592,2011,education,brno-venkov,Brno-venkov,cz,Czechia
+secondary,Secondary,0.6599696827019144,2011,education,brno-venkov,Brno-venkov,cz,Czechia
+tertiary,Tertiary,0.1258340127929811,2011,education,brno-venkov,Brno-venkov,cz,Czechia
+no-education,No Education,0.00938331011776624,2011,education,bruntal,Bruntál,cz,Czechia
+primary,Primary,0.22207167278713436,2011,education,bruntal,Bruntál,cz,Czechia
+secondary,Secondary,0.6498417120425478,2011,education,bruntal,Bruntál,cz,Czechia
+tertiary,Tertiary,0.0764340888945169,2011,education,bruntal,Bruntál,cz,Czechia
+no-education,No Education,0.005335365853658537,2011,education,breclav,Břeclav,cz,Czechia
+primary,Primary,0.2244973632168754,2011,education,breclav,Břeclav,cz,Czechia
+secondary,Secondary,0.649390243902439,2011,education,breclav,Břeclav,cz,Czechia
+tertiary,Tertiary,0.08540705339485827,2011,education,breclav,Břeclav,cz,Czechia
+no-education,No Education,0.006679288326532532,2011,education,ceska-lipa,Česká Lípa,cz,Czechia
+primary,Primary,0.2042592222392079,2011,education,ceska-lipa,Česká Lípa,cz,Czechia
+secondary,Secondary,0.6641658533143616,2011,education,ceska-lipa,Česká Lípa,cz,Czechia
+tertiary,Tertiary,0.06885076259128164,2011,education,ceska-lipa,Česká Lípa,cz,Czechia
+no-education,No Education,0.003434272535846786,2011,education,ceske-budejovice,České Budějovice,cz,Czechia
+primary,Primary,0.15797653664895217,2011,education,ceske-budejovice,České Budějovice,cz,Czechia
+secondary,Secondary,0.6538278351549183,2011,education,ceske-budejovice,České Budějovice,cz,Czechia
+tertiary,Tertiary,0.14513561616364185,2011,education,ceske-budejovice,České Budějovice,cz,Czechia
+no-education,No Education,0.0064424890006285354,2011,education,cesky-krumlov,Český Krumlov,cz,Czechia
+primary,Primary,0.22008563796354494,2011,education,cesky-krumlov,Český Krumlov,cz,Czechia
+secondary,Secondary,0.6368046825895664,2011,education,cesky-krumlov,Český Krumlov,cz,Czechia
+tertiary,Tertiary,0.0792543997485858,2011,education,cesky-krumlov,Český Krumlov,cz,Czechia
+no-education,No Education,0.010319414834962876,2011,education,decin,Děčín,cz,Czechia
+primary,Primary,0.22492281114460044,2011,education,decin,Děčín,cz,Czechia
+secondary,Secondary,0.6424777622583254,2011,education,decin,Děčín,cz,Czechia
+tertiary,Tertiary,0.061741895170183046,2011,education,decin,Děčín,cz,Czechia
+no-education,No Education,0.004004947287826138,2011,education,domazlice,Domažlice,cz,Czechia
+primary,Primary,0.20397746235545872,2011,education,domazlice,Domažlice,cz,Czechia
+secondary,Secondary,0.6778765926536702,2011,education,domazlice,Domažlice,cz,Czechia
+tertiary,Tertiary,0.06947798260596423,2011,education,domazlice,Domažlice,cz,Czechia
+no-education,No Education,0.0047549398855877886,2011,education,frydek-mistek,Frýdek-Místek,cz,Czechia
+primary,Primary,0.18058606610608824,2011,education,frydek-mistek,Frýdek-Místek,cz,Czechia
+secondary,Secondary,0.6633423500245653,2011,education,frydek-mistek,Frýdek-Místek,cz,Czechia
+tertiary,Tertiary,0.11722451561167614,2011,education,frydek-mistek,Frýdek-Místek,cz,Czechia
+no-education,No Education,0.004832234722704069,2011,education,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+primary,Primary,0.17698369430539723,2011,education,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+secondary,Secondary,0.701925459681816,2011,education,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+tertiary,Tertiary,0.08776081677157159,2011,education,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+no-education,No Education,0.003654329207396423,2011,education,hodonin,Hodonín,cz,Czechia
+primary,Primary,0.21587022970069303,2011,education,hodonin,Hodonín,cz,Czechia
+secondary,Secondary,0.662235571830645,2011,education,hodonin,Hodonín,cz,Czechia
+tertiary,Tertiary,0.08665224101927792,2011,education,hodonin,Hodonín,cz,Czechia
+no-education,No Education,0.004107830551989731,2011,education,hradec-kralove,Hradec Králové,cz,Czechia
+primary,Primary,0.15375124803879617,2011,education,hradec-kralove,Hradec Králové,cz,Czechia
+secondary,Secondary,0.6539224076451291,2011,education,hradec-kralove,Hradec Králové,cz,Czechia
+tertiary,Tertiary,0.1426330052774212,2011,education,hradec-kralove,Hradec Králové,cz,Czechia
+no-education,No Education,0.009543622415810688,2011,education,cheb,Cheb,cz,Czechia
+primary,Primary,0.22470419971395136,2011,education,cheb,Cheb,cz,Czechia
+secondary,Secondary,0.6164738005460928,2011,education,cheb,Cheb,cz,Czechia
+tertiary,Tertiary,0.06752047848134182,2011,education,cheb,Cheb,cz,Czechia
+no-education,No Education,0.009252662186362674,2011,education,chomutov,Chomutov,cz,Czechia
+primary,Primary,0.23064258342801025,2011,education,chomutov,Chomutov,cz,Czechia
+secondary,Secondary,0.6229034680633918,2011,education,chomutov,Chomutov,cz,Czechia
+tertiary,Tertiary,0.06449904681211607,2011,education,chomutov,Chomutov,cz,Czechia
+no-education,No Education,0.006360311655271109,2011,education,chrudim,Chrudim,cz,Czechia
+primary,Primary,0.18703859346250823,2011,education,chrudim,Chrudim,cz,Czechia
+secondary,Secondary,0.6839606569293324,2011,education,chrudim,Chrudim,cz,Czechia
+tertiary,Tertiary,0.08495559139540694,2011,education,chrudim,Chrudim,cz,Czechia
+no-education,No Education,0.005775511829841472,2011,education,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+primary,Primary,0.185679386069731,2011,education,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+secondary,Secondary,0.6588597679173637,2011,education,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+tertiary,Tertiary,0.09481133328022517,2011,education,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+no-education,No Education,0.010349405588075554,2011,education,jesenik,Jeseník,cz,Czechia
+primary,Primary,0.21950998732725846,2011,education,jesenik,Jeseník,cz,Czechia
+secondary,Secondary,0.6437149236618188,2011,education,jesenik,Jeseník,cz,Czechia
+tertiary,Tertiary,0.07920463460261903,2011,education,jesenik,Jeseník,cz,Czechia
+no-education,No Education,0.004069606312995026,2011,education,jicin,Jičín,cz,Czechia
+primary,Primary,0.17868343130533718,2011,education,jicin,Jičín,cz,Czechia
+secondary,Secondary,0.6769987018101725,2011,education,jicin,Jičín,cz,Czechia
+tertiary,Tertiary,0.08613270709045029,2011,education,jicin,Jičín,cz,Czechia
+no-education,No Education,0.003630650332278817,2011,education,jihlava,Jihlava,cz,Czechia
+primary,Primary,0.17849635873373107,2011,education,jihlava,Jihlava,cz,Czechia
+secondary,Secondary,0.6837300154992675,2011,education,jihlava,Jihlava,cz,Czechia
+tertiary,Tertiary,0.09889806577634344,2011,education,jihlava,Jihlava,cz,Czechia
+no-education,No Education,0.005684974869826996,2011,education,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+primary,Primary,0.20859981653035647,2011,education,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+secondary,Secondary,0.6663178159360182,2011,education,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+tertiary,Tertiary,0.08502913549620786,2011,education,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+no-education,No Education,0.00775682600688606,2011,education,karlovy-vary,Karlovy Vary,cz,Czechia
+primary,Primary,0.20164744975578508,2011,education,karlovy-vary,Karlovy Vary,cz,Czechia
+secondary,Secondary,0.6228481063335736,2011,education,karlovy-vary,Karlovy Vary,cz,Czechia
+tertiary,Tertiary,0.08495476018896629,2011,education,karlovy-vary,Karlovy Vary,cz,Czechia
+no-education,No Education,0.005804811513555889,2011,education,karvina,Karviná,cz,Czechia
+primary,Primary,0.2133778021470099,2011,education,karvina,Karviná,cz,Czechia
+secondary,Secondary,0.6453083437934738,2011,education,karvina,Karviná,cz,Czechia
+tertiary,Tertiary,0.09192084430326401,2011,education,karvina,Karviná,cz,Czechia
+no-education,No Education,0.005601765404854863,2011,education,kladno,Kladno,cz,Czechia
+primary,Primary,0.18823112633124958,2011,education,kladno,Kladno,cz,Czechia
+secondary,Secondary,0.6543880495671364,2011,education,kladno,Kladno,cz,Czechia
+tertiary,Tertiary,0.10325994700833253,2011,education,kladno,Kladno,cz,Czechia
+no-education,No Education,0.0033317014795474324,2011,education,klatovy,Klatovy,cz,Czechia
+primary,Primary,0.18880548302872063,2011,education,klatovy,Klatovy,cz,Czechia
+secondary,Secondary,0.672350957354221,2011,education,klatovy,Klatovy,cz,Czechia
+tertiary,Tertiary,0.08971116187989556,2011,education,klatovy,Klatovy,cz,Czechia
+no-education,No Education,0.005387904703726329,2011,education,kolin,Kolín,cz,Czechia
+primary,Primary,0.18085522296884546,2011,education,kolin,Kolín,cz,Czechia
+secondary,Secondary,0.678094074526573,2011,education,kolin,Kolín,cz,Czechia
+tertiary,Tertiary,0.0891386682956628,2011,education,kolin,Kolín,cz,Czechia
+no-education,No Education,0.005370663849269238,2011,education,kromeriz,Kroměříž,cz,Czechia
+primary,Primary,0.18453953160767742,2011,education,kromeriz,Kroměříž,cz,Czechia
+secondary,Secondary,0.6759662792745201,2011,education,kromeriz,Kroměříž,cz,Czechia
+tertiary,Tertiary,0.10292304983271702,2011,education,kromeriz,Kroměříž,cz,Czechia
+no-education,No Education,0.0055141250078998925,2011,education,kutna-hora,Kutná Hora,cz,Czechia
+primary,Primary,0.18351450420274285,2011,education,kutna-hora,Kutná Hora,cz,Czechia
+secondary,Secondary,0.6808601403020919,2011,education,kutna-hora,Kutná Hora,cz,Czechia
+tertiary,Tertiary,0.08994817670479681,2011,education,kutna-hora,Kutná Hora,cz,Czechia
+no-education,No Education,0.0053237888207357765,2011,education,liberec,Liberec,cz,Czechia
+primary,Primary,0.17695194051756366,2011,education,liberec,Liberec,cz,Czechia
+secondary,Secondary,0.6420738545892583,2011,education,liberec,Liberec,cz,Czechia
+tertiary,Tertiary,0.11570413857081539,2011,education,liberec,Liberec,cz,Czechia
+no-education,No Education,0.007685772824946279,2011,education,litomerice,Litoměřice,cz,Czechia
+primary,Primary,0.19695167657788215,2011,education,litomerice,Litoměřice,cz,Czechia
+secondary,Secondary,0.6519914047273999,2011,education,litomerice,Litoměřice,cz,Czechia
+tertiary,Tertiary,0.08337414422067863,2011,education,litomerice,Litoměřice,cz,Czechia
+no-education,No Education,0.008387543252595156,2011,education,louny,Louny,cz,Czechia
+primary,Primary,0.22202076124567474,2011,education,louny,Louny,cz,Czechia
+secondary,Secondary,0.6420069204152249,2011,education,louny,Louny,cz,Czechia
+tertiary,Tertiary,0.07526643598615917,2011,education,louny,Louny,cz,Czechia
+no-education,No Education,0.004673947238326368,2011,education,melnik,Mělník,cz,Czechia
+primary,Primary,0.1784301829131275,2011,education,melnik,Mělník,cz,Czechia
+secondary,Secondary,0.6600265156622175,2011,education,melnik,Mělník,cz,Czechia
+tertiary,Tertiary,0.0883331086243315,2011,education,melnik,Mělník,cz,Czechia
+no-education,No Education,0.004383058484957495,2011,education,mlada-boleslav,Mladá Boleslav,cz,Czechia
+primary,Primary,0.16708635477213776,2011,education,mlada-boleslav,Mladá Boleslav,cz,Czechia
+secondary,Secondary,0.6708824810193688,2011,education,mlada-boleslav,Mladá Boleslav,cz,Czechia
+tertiary,Tertiary,0.0918738285021868,2011,education,mlada-boleslav,Mladá Boleslav,cz,Czechia
+no-education,No Education,0.008452801694755277,2011,education,most,Most,cz,Czechia
+primary,Primary,0.23196962864304216,2011,education,most,Most,cz,Czechia
+secondary,Secondary,0.6104474950971652,2011,education,most,Most,cz,Czechia
+tertiary,Tertiary,0.0747957589168668,2011,education,most,Most,cz,Czechia
+no-education,No Education,0.0043213725195106745,2011,education,nachod,Náchod,cz,Czechia
+primary,Primary,0.18781845935544902,2011,education,nachod,Náchod,cz,Czechia
+secondary,Secondary,0.681852385354632,2011,education,nachod,Náchod,cz,Czechia
+tertiary,Tertiary,0.08242856835723346,2011,education,nachod,Náchod,cz,Czechia
+no-education,No Education,0.0041460755524784934,2011,education,novy-jicin,Nový Jičín,cz,Czechia
+primary,Primary,0.18947804012382521,2011,education,novy-jicin,Nový Jičín,cz,Czechia
+secondary,Secondary,0.6730727910807649,2011,education,novy-jicin,Nový Jičín,cz,Czechia
+tertiary,Tertiary,0.10048463723828395,2011,education,novy-jicin,Nový Jičín,cz,Czechia
+no-education,No Education,0.0037243947858473,2011,education,nymburk,Nymburk,cz,Czechia
+primary,Primary,0.16853511304413032,2011,education,nymburk,Nymburk,cz,Czechia
+secondary,Secondary,0.6808018696961744,2011,education,nymburk,Nymburk,cz,Czechia
+tertiary,Tertiary,0.10162098658967918,2011,education,nymburk,Nymburk,cz,Czechia
+no-education,No Education,0.00430767983296338,2011,education,olomouc,Olomouc,cz,Czechia
+primary,Primary,0.17074122500278732,2011,education,olomouc,Olomouc,cz,Czechia
+secondary,Secondary,0.6457820212647348,2011,education,olomouc,Olomouc,cz,Czechia
+tertiary,Tertiary,0.1445251923252349,2011,education,olomouc,Olomouc,cz,Czechia
+no-education,No Education,0.0070090950554020336,2011,education,opava,Opava,cz,Czechia
+primary,Primary,0.19493332975612374,2011,education,opava,Opava,cz,Czechia
+secondary,Secondary,0.6550854505942639,2011,education,opava,Opava,cz,Czechia
+tertiary,Tertiary,0.10761811498940252,2011,education,opava,Opava,cz,Czechia
+no-education,No Education,0.005191198461867123,2011,education,ostrava-mesto,Ostrava-město,cz,Czechia
+primary,Primary,0.18641315958128604,2011,education,ostrava-mesto,Ostrava-město,cz,Czechia
+secondary,Secondary,0.6141458377839493,2011,education,ostrava-mesto,Ostrava-město,cz,Czechia
+tertiary,Tertiary,0.143562629067863,2011,education,ostrava-mesto,Ostrava-město,cz,Czechia
+no-education,No Education,0.0029493036749150695,2011,education,pardubice,Pardubice,cz,Czechia
+primary,Primary,0.15192359374030967,2011,education,pardubice,Pardubice,cz,Czechia
+secondary,Secondary,0.6700156423349114,2011,education,pardubice,Pardubice,cz,Czechia
+tertiary,Tertiary,0.127137039257437,2011,education,pardubice,Pardubice,cz,Czechia
+no-education,No Education,0.006344582018289229,2011,education,pelhrimov,Pelhřimov,cz,Czechia
+primary,Primary,0.18561139435137977,2011,education,pelhrimov,Pelhřimov,cz,Czechia
+secondary,Secondary,0.6899732944889536,2011,education,pelhrimov,Pelhřimov,cz,Czechia
+tertiary,Tertiary,0.08767500202314478,2011,education,pelhrimov,Pelhřimov,cz,Czechia
+no-education,No Education,0.004536054966313121,2011,education,pisek,Písek,cz,Czechia
+primary,Primary,0.1764391968514442,2011,education,pisek,Písek,cz,Czechia
+secondary,Secondary,0.6804916283103195,2011,education,pisek,Písek,cz,Czechia
+tertiary,Tertiary,0.10179440997932093,2011,education,pisek,Písek,cz,Czechia
+no-education,No Education,0.006690463286549926,2011,education,plzen-jih,Plzeň-jih,cz,Czechia
+primary,Primary,0.20177913995776411,2011,education,plzen-jih,Plzeň-jih,cz,Czechia
+secondary,Secondary,0.660823412883814,2011,education,plzen-jih,Plzeň-jih,cz,Czechia
+tertiary,Tertiary,0.07454820684370854,2011,education,plzen-jih,Plzeň-jih,cz,Czechia
+no-education,No Education,0.003094164940918504,2011,education,plzen-mesto,Plzeň-město,cz,Czechia
+primary,Primary,0.14030941649409184,2011,education,plzen-mesto,Plzeň-město,cz,Czechia
+secondary,Secondary,0.6377573395054209,2011,education,plzen-mesto,Plzeň-město,cz,Czechia
+tertiary,Tertiary,0.15568278718479717,2011,education,plzen-mesto,Plzeň-město,cz,Czechia
+no-education,No Education,0.0036378525646073166,2011,education,plzen-sever,Plzeň-sever,cz,Czechia
+primary,Primary,0.206711916723098,2011,education,plzen-sever,Plzeň-sever,cz,Czechia
+secondary,Secondary,0.6687664372667286,2011,education,plzen-sever,Plzeň-sever,cz,Czechia
+tertiary,Tertiary,0.08376509866297108,2011,education,plzen-sever,Plzeň-sever,cz,Czechia
+no-education,No Education,0.0022077272246304163,2011,education,praha,Praha,cz,Czechia
+primary,Primary,0.10162270641173485,2011,education,praha,Praha,cz,Czechia
+secondary,Secondary,0.5559365623660523,2011,education,praha,Praha,cz,Czechia
+tertiary,Tertiary,0.23608154422538546,2011,education,praha,Praha,cz,Czechia
+no-education,No Education,0.0023690444853908922,2011,education,praha-vychod,Praha-východ,cz,Czechia
+primary,Primary,0.1361039282783395,2011,education,praha-vychod,Praha-východ,cz,Czechia
+secondary,Secondary,0.635500054193828,2011,education,praha-vychod,Praha-východ,cz,Czechia
+tertiary,Tertiary,0.1651750460647539,2011,education,praha-vychod,Praha-východ,cz,Czechia
+no-education,No Education,0.003037757650303776,2011,education,praha-zapad,Praha-západ,cz,Czechia
+primary,Primary,0.12965447836296545,2011,education,praha-zapad,Praha-západ,cz,Czechia
+secondary,Secondary,0.6031719408103172,2011,education,praha-zapad,Praha-západ,cz,Czechia
+tertiary,Tertiary,0.208039807670804,2011,education,praha-zapad,Praha-západ,cz,Czechia
+no-education,No Education,0.00612369871402327,2011,education,prachatice,Prachatice,cz,Czechia
+primary,Primary,0.20010363182439117,2011,education,prachatice,Prachatice,cz,Czechia
+secondary,Secondary,0.6689198737575958,2011,education,prachatice,Prachatice,cz,Czechia
+tertiary,Tertiary,0.08521362287436997,2011,education,prachatice,Prachatice,cz,Czechia
+no-education,No Education,0.00418850440009983,2011,education,prostejov,Prostějov,cz,Czechia
+primary,Primary,0.17468016536996647,2011,education,prostejov,Prostějov,cz,Czechia
+secondary,Secondary,0.6836160031251017,2011,education,prostejov,Prostějov,cz,Czechia
+tertiary,Tertiary,0.10049155245938995,2011,education,prostejov,Prostějov,cz,Czechia
+no-education,No Education,0.006346733983224571,2011,education,prerov,Přerov,cz,Czechia
+primary,Primary,0.18543384268335258,2011,education,prerov,Přerov,cz,Czechia
+secondary,Secondary,0.6709455648951312,2011,education,prerov,Přerov,cz,Czechia
+tertiary,Tertiary,0.1041347763425267,2011,education,prerov,Přerov,cz,Czechia
+no-education,No Education,0.004076269695935111,2011,education,pribram,Příbram,cz,Czechia
+primary,Primary,0.18795327808642934,2011,education,pribram,Příbram,cz,Czechia
+secondary,Secondary,0.6766090402143663,2011,education,pribram,Příbram,cz,Czechia
+tertiary,Tertiary,0.09382662404171452,2011,education,pribram,Příbram,cz,Czechia
+no-education,No Education,0.006961047754057085,2011,education,rakovnik,Rakovník,cz,Czechia
+primary,Primary,0.1962423037048008,2011,education,rakovnik,Rakovník,cz,Czechia
+secondary,Secondary,0.6567293654655861,2011,education,rakovnik,Rakovník,cz,Czechia
+tertiary,Tertiary,0.08294014345259505,2011,education,rakovnik,Rakovník,cz,Czechia
+no-education,No Education,0.0044175432601957386,2011,education,rokycany,Rokycany,cz,Czechia
+primary,Primary,0.18055792839186782,2011,education,rokycany,Rokycany,cz,Czechia
+secondary,Secondary,0.6826446684401923,2011,education,rokycany,Rokycany,cz,Czechia
+tertiary,Tertiary,0.08547091987406341,2011,education,rokycany,Rokycany,cz,Czechia
+no-education,No Education,0.006954545454545455,2011,education,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+primary,Primary,0.17616666666666667,2011,education,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+secondary,Secondary,0.6905909090909091,2011,education,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+tertiary,Tertiary,0.08833333333333333,2011,education,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+no-education,No Education,0.0038547565792604577,2011,education,semily,Semily,cz,Czechia
+primary,Primary,0.1838068497279462,2011,education,semily,Semily,cz,Czechia
+secondary,Secondary,0.6819746506131125,2011,education,semily,Semily,cz,Czechia
+tertiary,Tertiary,0.09130855502149463,2011,education,semily,Semily,cz,Czechia
+no-education,No Education,0.008392721956822512,2011,education,sokolov,Sokolov,cz,Czechia
+primary,Primary,0.2531782702900253,2011,education,sokolov,Sokolov,cz,Czechia
+secondary,Secondary,0.6211136345837576,2011,education,sokolov,Sokolov,cz,Czechia
+tertiary,Tertiary,0.05245777534132143,2011,education,sokolov,Sokolov,cz,Czechia
+no-education,No Education,0.006473191999201252,2011,education,strakonice,Strakonice,cz,Czechia
+primary,Primary,0.18324624754551203,2011,education,strakonice,Strakonice,cz,Czechia
+secondary,Secondary,0.6757579791659734,2011,education,strakonice,Strakonice,cz,Czechia
+tertiary,Tertiary,0.08892734715612208,2011,education,strakonice,Strakonice,cz,Czechia
+no-education,No Education,0.004681006530574965,2011,education,svitavy,Svitavy,cz,Czechia
+primary,Primary,0.2030529296250628,2011,education,svitavy,Svitavy,cz,Czechia
+secondary,Secondary,0.6764396949353793,2011,education,svitavy,Svitavy,cz,Czechia
+tertiary,Tertiary,0.08166643832488468,2011,education,svitavy,Svitavy,cz,Czechia
+no-education,No Education,0.004985679431420388,2011,education,sumperk,Šumperk,cz,Czechia
+primary,Primary,0.2066983615726588,2011,education,sumperk,Šumperk,cz,Czechia
+secondary,Secondary,0.6650144170033848,2011,education,sumperk,Šumperk,cz,Czechia
+tertiary,Tertiary,0.09106338659749076,2011,education,sumperk,Šumperk,cz,Czechia
+no-education,No Education,0.0029024232930986824,2011,education,tabor,Tábor,cz,Czechia
+primary,Primary,0.17521652999170736,2011,education,tabor,Tábor,cz,Czechia
+secondary,Secondary,0.6815396664516723,2011,education,tabor,Tábor,cz,Czechia
+tertiary,Tertiary,0.10857596977794158,2011,education,tabor,Tábor,cz,Czechia
+no-education,No Education,0.006885186690144024,2011,education,tachov,Tachov,cz,Czechia
+primary,Primary,0.2361280418980541,2011,education,tachov,Tachov,cz,Czechia
+secondary,Secondary,0.6278161542281818,2011,education,tachov,Tachov,cz,Czechia
+tertiary,Tertiary,0.05770012190166599,2011,education,tachov,Tachov,cz,Czechia
+no-education,No Education,0.007626150012179355,2011,education,teplice,Teplice,cz,Czechia
+primary,Primary,0.22246997320541886,2011,education,teplice,Teplice,cz,Czechia
+secondary,Secondary,0.6229459049260807,2011,education,teplice,Teplice,cz,Czechia
+tertiary,Tertiary,0.071764507485619,2011,education,teplice,Teplice,cz,Czechia
+no-education,No Education,0.00481254827401818,2011,education,trutnov,Trutnov,cz,Czechia
+primary,Primary,0.19601726972055533,2011,education,trutnov,Trutnov,cz,Czechia
+secondary,Secondary,0.6715782385677223,2011,education,trutnov,Trutnov,cz,Czechia
+tertiary,Tertiary,0.07998138355811697,2011,education,trutnov,Trutnov,cz,Czechia
+no-education,No Education,0.0034520995041529804,2011,education,trebic,Třebíč,cz,Czechia
+primary,Primary,0.19770069251208236,2011,education,trebic,Třebíč,cz,Czechia
+secondary,Secondary,0.673703370504425,2011,education,trebic,Třebíč,cz,Czechia
+tertiary,Tertiary,0.0947967445655585,2011,education,trebic,Třebíč,cz,Czechia
+no-education,No Education,0.00548393462031769,2011,education,uherske-hradiste,Uherské Hradiště,cz,Czechia
+primary,Primary,0.2043361725918374,2011,education,uherske-hradiste,Uherské Hradiště,cz,Czechia
+secondary,Secondary,0.6577926135429342,2011,education,uherske-hradiste,Uherské Hradiště,cz,Czechia
+tertiary,Tertiary,0.10572401091853849,2011,education,uherske-hradiste,Uherské Hradiště,cz,Czechia
+no-education,No Education,0.0067773263996326865,2011,education,usti-nad-labem,Ústí nad Labem,cz,Czechia
+primary,Primary,0.19364787846726622,2011,education,usti-nad-labem,Ústí nad Labem,cz,Czechia
+secondary,Secondary,0.6250112290017666,2011,education,usti-nad-labem,Ústí nad Labem,cz,Czechia
+tertiary,Tertiary,0.09991316238633755,2011,education,usti-nad-labem,Ústí nad Labem,cz,Czechia
+no-education,No Education,0.004430778797902937,2011,education,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+primary,Primary,0.18719824496247225,2011,education,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+secondary,Secondary,0.6817007971947038,2011,education,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+tertiary,Tertiary,0.08777778737443967,2011,education,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+no-education,No Education,0.0041229138549656015,2011,education,vsetin,Vsetín,cz,Czechia
+primary,Primary,0.189431844366174,2011,education,vsetin,Vsetín,cz,Czechia
+secondary,Secondary,0.6697883406300404,2011,education,vsetin,Vsetín,cz,Czechia
+tertiary,Tertiary,0.1056074920175121,2011,education,vsetin,Vsetín,cz,Czechia
+no-education,No Education,0.003627473126137738,2011,education,vyskov,Vyškov,cz,Czechia
+primary,Primary,0.19059514476673886,2011,education,vyskov,Vyškov,cz,Czechia
+secondary,Secondary,0.6642262055036607,2011,education,vyskov,Vyškov,cz,Czechia
+tertiary,Tertiary,0.10772133565420747,2011,education,vyskov,Vyškov,cz,Czechia
+no-education,No Education,0.0031404847588730913,2011,education,zlin,Zlín,cz,Czechia
+primary,Primary,0.18418271022612712,2011,education,zlin,Zlín,cz,Czechia
+secondary,Secondary,0.6515528291857346,2011,education,zlin,Zlín,cz,Czechia
+tertiary,Tertiary,0.1278311714496942,2011,education,zlin,Zlín,cz,Czechia
+no-education,No Education,0.007775346155464837,2011,education,znojmo,Znojmo,cz,Czechia
+primary,Primary,0.2295042296199655,2011,education,znojmo,Znojmo,cz,Czechia
+secondary,Secondary,0.6469214258659147,2011,education,znojmo,Znojmo,cz,Czechia
+tertiary,Tertiary,0.07859517697066622,2011,education,znojmo,Znojmo,cz,Czechia
+no-education,No Education,0.003669005448221789,2011,education,zdar-nad-sazavou,"Žďár nad Sázavou 
+",cz,Czechia
+primary,Primary,0.1854305301461571,2011,education,zdar-nad-sazavou,"Žďár nad Sázavou 
+",cz,Czechia
+secondary,Secondary,0.6823043364628777,2011,education,zdar-nad-sazavou,"Žďár nad Sázavou 
+",cz,Czechia
+tertiary,Tertiary,0.10223960113387347,2011,education,zdar-nad-sazavou,"Žďár nad Sázavou 
+",cz,Czechia

@@ -1,0 +1,79 @@
+statistics_code,statistics_name,value,date,classification,county_code,county_name,country_code,country_name
+religious,Religious,0.15021108538744382,2011,religion,benesov,Benešov,cz,Czechia
+religious,Religious,0.0677924791086351,2011,religion,beroun,Beroun,cz,Czechia
+religious,Religious,0.24037915767964582,2011,religion,blansko,Blansko,cz,Czechia
+religious,Religious,0.16804823885176193,2011,religion,brno-mesto,Brno-město,cz,Czechia
+religious,Religious,0.20612215220552593,2011,religion,brno-venkov,Brno-venkov,cz,Czechia
+religious,Religious,0.10340586667817418,2011,religion,bruntal,Bruntál,cz,Czechia
+religious,Religious,0.21340447406672103,2011,religion,breclav,Břeclav,cz,Czechia
+religious,Religious,0.051510580015085954,2011,religion,ceska-lipa,Česká Lípa,cz,Czechia
+religious,Religious,0.13754545162016926,2011,religion,ceske-budejovice,České Budějovice,cz,Czechia
+religious,Religious,0.12119108995968009,2011,religion,cesky-krumlov,Český Krumlov,cz,Czechia
+religious,Religious,0.05138395144138969,2011,religion,decin,Děčín,cz,Czechia
+religious,Religious,0.13136201314955112,2011,religion,domazlice,Domažlice,cz,Czechia
+religious,Religious,0.2671547392133079,2011,religion,frydek-mistek,Frýdek-Místek,cz,Czechia
+religious,Religious,0.17043633314582293,2011,religion,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+religious,Religious,0.3101647903410018,2011,religion,hodonin,Hodonín,cz,Czechia
+religious,Religious,0.09724519091853609,2011,religion,hradec-kralove,Hradec Králové,cz,Czechia
+religious,Religious,0.0798554131370027,2011,religion,cheb,Cheb,cz,Czechia
+religious,Religious,0.051933167972363435,2011,religion,chomutov,Chomutov,cz,Czechia
+religious,Religious,0.1505537844358957,2011,religion,chrudim,Chrudim,cz,Czechia
+religious,Religious,0.0667687074829932,2011,religion,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+religious,Religious,0.11413393847185332,2011,religion,jesenik,Jeseník,cz,Czechia
+religious,Religious,0.08597023914079947,2011,religion,jicin,Jičín,cz,Czechia
+religious,Religious,0.18288666509835147,2011,religion,jihlava,Jihlava,cz,Czechia
+religious,Religious,0.1313076685356055,2011,religion,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+religious,Religious,0.07257072570725707,2011,religion,karlovy-vary,Karlovy Vary,cz,Czechia
+religious,Religious,0.16687597993712802,2011,religion,karvina,Karviná,cz,Czechia
+religious,Religious,0.05946510998180089,2011,religion,kladno,Kladno,cz,Czechia
+religious,Religious,0.1417306301472132,2011,religion,klatovy,Klatovy,cz,Czechia
+religious,Religious,0.07997833355902542,2011,religion,kolin,Kolín,cz,Czechia
+religious,Religious,0.22641116236774053,2011,religion,kromeriz,Kroměříž,cz,Czechia
+religious,Religious,0.10668355947904747,2011,religion,kutna-hora,Kutná Hora,cz,Czechia
+religious,Religious,0.07157489492459294,2011,religion,liberec,Liberec,cz,Czechia
+religious,Religious,0.06383976534388376,2011,religion,litomerice,Litoměřice,cz,Czechia
+religious,Religious,0.06018241363524316,2011,religion,louny,Louny,cz,Czechia
+religious,Religious,0.06592839602900849,2011,religion,melnik,Mělník,cz,Czechia
+religious,Religious,0.06538949854034078,2011,religion,mlada-boleslav,Mladá Boleslav,cz,Czechia
+religious,Religious,0.04224558264370387,2011,religion,most,Most,cz,Czechia
+religious,Religious,0.1399817434961205,2011,religion,nachod,Náchod,cz,Czechia
+religious,Religious,0.17246782014398207,2011,religion,novy-jicin,Nový Jičín,cz,Czechia
+religious,Religious,0.09191222966991273,2011,religion,nymburk,Nymburk,cz,Czechia
+religious,Religious,0.15394430748932328,2011,religion,olomouc,Olomouc,cz,Czechia
+religious,Religious,0.2756448007135547,2011,religion,opava,Opava,cz,Czechia
+religious,Religious,0.1256771098528302,2011,religion,ostrava-mesto,Ostrava-město,cz,Czechia
+religious,Religious,0.09368672924719308,2011,religion,pardubice,Pardubice,cz,Czechia
+religious,Religious,0.20435520204688934,2011,religion,pelhrimov,Pelhřimov,cz,Czechia
+religious,Religious,0.14548344143292813,2011,religion,pisek,Písek,cz,Czechia
+religious,Religious,0.08136049624132459,2011,religion,plzen-jih,Plzeň-jih,cz,Czechia
+religious,Religious,0.08853200031907256,2011,religion,plzen-mesto,Plzeň-město,cz,Czechia
+religious,Religious,0.061369095276220975,2011,religion,plzen-sever,Plzeň-sever,cz,Czechia
+religious,Religious,0.10955661903095533,2011,religion,praha,Praha,cz,Czechia
+religious,Religious,0.08536011097959859,2011,religion,praha-vychod,Praha-východ,cz,Czechia
+religious,Religious,0.09497755865611021,2011,religion,praha-zapad,Praha-západ,cz,Czechia
+religious,Religious,0.1506498700259948,2011,religion,prachatice,Prachatice,cz,Czechia
+religious,Religious,0.18022603584309144,2011,religion,prostejov,Prostějov,cz,Czechia
+religious,Religious,0.19237865346473762,2011,religion,prerov,Přerov,cz,Czechia
+religious,Religious,0.12452134449014324,2011,religion,pribram,Příbram,cz,Czechia
+religious,Religious,0.05209753968686924,2011,religion,rakovnik,Rakovník,cz,Czechia
+religious,Religious,0.06700661637658561,2011,religion,rokycany,Rokycany,cz,Czechia
+religious,Religious,0.12195968083876191,2011,religion,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+religious,Religious,0.10762855784253787,2011,religion,semily,Semily,cz,Czechia
+religious,Religious,0.06143773412923378,2011,religion,sokolov,Sokolov,cz,Czechia
+religious,Religious,0.13019803398962543,2011,religion,strakonice,Strakonice,cz,Czechia
+religious,Religious,0.18632379291975398,2011,religion,svitavy,Svitavy,cz,Czechia
+religious,Religious,0.16236737318526945,2011,religion,sumperk,Šumperk,cz,Czechia
+religious,Religious,0.13598378084359392,2011,religion,tabor,Tábor,cz,Czechia
+religious,Religious,0.06762717414334418,2011,religion,tachov,Tachov,cz,Czechia
+religious,Religious,0.05110041594288355,2011,religion,teplice,Teplice,cz,Czechia
+religious,Religious,0.07969604143043309,2011,religion,trutnov,Trutnov,cz,Czechia
+religious,Religious,0.24129533632367292,2011,religion,trebic,Třebíč,cz,Czechia
+religious,Religious,0.3778124933730128,2011,religion,uherske-hradiste,Uherské Hradiště,cz,Czechia
+religious,Religious,0.05117231112765166,2011,religion,usti-nad-labem,Ústí nad Labem,cz,Czechia
+religious,Religious,0.14329482304767477,2011,religion,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+religious,Religious,0.2825235219772504,2011,religion,vsetin,Vsetín,cz,Czechia
+religious,Religious,0.18807995099484992,2011,religion,vyskov,Vyškov,cz,Czechia
+religious,Religious,0.2733768006383604,2011,religion,zlin,Zlín,cz,Czechia
+religious,Religious,0.1768360567426827,2011,religion,znojmo,Znojmo,cz,Czechia
+religious,Religious,0.3200419727177335,2011,religion,zdar-nad-sazavou,"Žďár nad Sázavou 
+",cz,Czechia

@@ -1,0 +1,2080 @@
+statistics_code,statistics_name,value,date,classification,county_code,county_name,country_code,country_name
+non-voters,Non voters,0.36279842656661776,2010,election,benesov,Benešov,cz,Czechia
+obcane,Občané,0.0015318905866621663,2010,election,benesov,Benešov,cz,Czechia
+liberalove,Liberálové,0.00019473185423671605,2010,election,benesov,Benešov,cz,Czechia
+vv,VV,0.06131456983733399,2010,election,benesov,Benešov,cz,Czechia
+kons,KONS,0.0001687676070051539,2010,election,benesov,Benešov,cz,Czechia
+kscm,KSČM,0.06980487868205482,2010,election,benesov,Benešov,cz,Czechia
+kc,KČ,0.0010775162601098288,2010,election,benesov,Benešov,cz,Czechia
+csns,ČSNS,0.0,2010,election,benesov,Benešov,cz,Czechia
+cssd,ČSSD,0.14811304833244623,2010,election,benesov,Benešov,cz,Czechia
+np,NP,0.0,2010,election,benesov,Benešov,cz,Czechia
+spr-rsc,SPR-RSČ,0.0007399810460995209,2010,election,benesov,Benešov,cz,Czechia
+moravane,Moravané,0.0,2010,election,benesov,Benešov,cz,Czechia
+stop,STOP,0.00040244583208921315,2010,election,benesov,Benešov,cz,Czechia
+spoz,SPOZ,0.023887107453037168,2010,election,benesov,Benešov,cz,Czechia
+top-09,TOP 09,0.1089070350127874,2010,election,benesov,Benešov,cz,Czechia
+es,ES,0.0,2010,election,benesov,Benešov,cz,Czechia
+kdu-csl,KDU-ČSL,0.02621090758026198,2010,election,benesov,Benešov,cz,Czechia
+pb,PB,0.0034532448817977644,2010,election,benesov,Benešov,cz,Czechia
+csns,ČSNS,0.0007659452933310831,2010,election,benesov,Benešov,cz,Czechia
+zeleni,Zelení,0.013008087863012632,2010,election,benesov,Benešov,cz,Czechia
+suverenita,Suverenita,0.02562671201755183,2010,election,benesov,Benešov,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,benesov,Benešov,cz,Czechia
+pirati,Piráti,0.0053875813005491435,2010,election,benesov,Benešov,cz,Czechia
+dsss,DSSS,0.0047384751197600905,2010,election,benesov,Benešov,cz,Czechia
+svobodni,Svobodní,0.005504420413091174,2010,election,benesov,Benešov,cz,Czechia
+kh,KH,0.0,2010,election,benesov,Benešov,cz,Czechia
+ods,ODS,0.13636422646016436,2010,election,benesov,Benešov,cz,Czechia
+non-voters,Non voters,0.3490489740901602,2010,election,beroun,Beroun,cz,Czechia
+obcane,Občané,0.0021566571813688784,2010,election,beroun,Beroun,cz,Czechia
+liberalove,Liberálové,0.00025460536168938144,2010,election,beroun,Beroun,cz,Czechia
+vv,VV,0.06568818331586042,2010,election,beroun,Beroun,cz,Czechia
+kons,KONS,0.00010483750187209824,2010,election,beroun,Beroun,cz,Czechia
+kscm,KSČM,0.08102441216115022,2010,election,beroun,Beroun,cz,Czechia
+kc,KČ,0.0010483750187209825,2010,election,beroun,Beroun,cz,Czechia
+csns,ČSNS,0.0,2010,election,beroun,Beroun,cz,Czechia
+cssd,ČSSD,0.13739703459637562,2010,election,beroun,Beroun,cz,Czechia
+np,NP,0.0,2010,election,beroun,Beroun,cz,Czechia
+spr-rsc,SPR-RSČ,0.001168189306574809,2010,election,beroun,Beroun,cz,Czechia
+moravane,Moravané,0.0,2010,election,beroun,Beroun,cz,Czechia
+stop,STOP,0.00044930357945184964,2010,election,beroun,Beroun,cz,Czechia
+spoz,SPOZ,0.023588437921222106,2010,election,beroun,Beroun,cz,Czechia
+top-09,TOP 09,0.11373371274524487,2010,election,beroun,Beroun,cz,Czechia
+es,ES,0.0,2010,election,beroun,Beroun,cz,Czechia
+kdu-csl,KDU-ČSL,0.010034446607757975,2010,election,beroun,Beroun,cz,Czechia
+pb,PB,0.003205032200089861,2010,election,beroun,Beroun,cz,Czechia
+csns,ČSNS,0.0007638160850681444,2010,election,beroun,Beroun,cz,Czechia
+zeleni,Zelení,0.015006739553691778,2010,election,beroun,Beroun,cz,Czechia
+suverenita,Suverenita,0.028336079077429983,2010,election,beroun,Beroun,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,beroun,Beroun,cz,Czechia
+pirati,Piráti,0.005137037591732814,2010,election,beroun,Beroun,cz,Czechia
+dsss,DSSS,0.0055414108132394784,2010,election,beroun,Beroun,cz,Czechia
+svobodni,Svobodní,0.00561629474314812,2010,election,beroun,Beroun,cz,Czechia
+kh,KH,0.0,2010,election,beroun,Beroun,cz,Czechia
+ods,ODS,0.15069642054815036,2010,election,beroun,Beroun,cz,Czechia
+non-voters,Non voters,0.33152015314757965,2010,election,blansko,Blansko,cz,Czechia
+obcane,Občané,0.001342375888594474,2010,election,blansko,Blansko,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,blansko,Blansko,cz,Czechia
+vv,VV,0.07324703218200282,2010,election,blansko,Blansko,cz,Czechia
+kons,KONS,0.0009688452065507943,2010,election,blansko,Blansko,cz,Czechia
+kscm,KSČM,0.09093137541000829,2010,election,blansko,Blansko,cz,Czechia
+kc,KČ,0.0006886971950180345,2010,election,blansko,Blansko,cz,Czechia
+csns,ČSNS,0.0,2010,election,blansko,Blansko,cz,Czechia
+cssd,ČSSD,0.17252448376892457,2010,election,blansko,Blansko,cz,Czechia
+np,NP,0.0,2010,election,blansko,Blansko,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,blansko,Blansko,cz,Czechia
+moravane,Moravané,0.0037119611528090676,2010,election,blansko,Blansko,cz,Czechia
+stop,STOP,0.00022178384246343484,2010,election,blansko,Blansko,cz,Czechia
+spoz,SPOZ,0.031108102113950202,2010,election,blansko,Blansko,cz,Czechia
+top-09,TOP 09,0.07411082188422884,2010,election,blansko,Blansko,cz,Czechia
+es,ES,0.0,2010,election,blansko,Blansko,cz,Czechia
+kdu-csl,KDU-ČSL,0.06927826868528873,2010,election,blansko,Blansko,cz,Czechia
+pb,PB,0.0027080974448166783,2010,election,blansko,Blansko,cz,Czechia
+csns,ČSNS,0.0005719688568793846,2010,election,blansko,Blansko,cz,Czechia
+zeleni,Zelení,0.01337706755068928,2010,election,blansko,Blansko,cz,Czechia
+suverenita,Suverenita,0.016867244861034913,2010,election,blansko,Blansko,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,blansko,Blansko,cz,Czechia
+pirati,Piráti,0.004797534697498512,2010,election,blansko,Blansko,cz,Czechia
+dsss,DSSS,0.005217756714797651,2010,election,blansko,Blansko,cz,Czechia
+svobodni,Svobodní,0.003198356464999008,2010,election,blansko,Blansko,cz,Czechia
+kh,KH,0.0,2010,election,blansko,Blansko,cz,Czechia
+ods,ODS,0.10360807293186566,2010,election,blansko,Blansko,cz,Czechia
+non-voters,Non voters,0.41321840908368057,2010,election,breclav,Břeclav,cz,Czechia
+obcane,Občané,0.001304029770045482,2010,election,breclav,Břeclav,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,breclav,Břeclav,cz,Czechia
+vv,VV,0.0552251306680237,2010,election,breclav,Břeclav,cz,Czechia
+kons,KONS,0.0009647699924726737,2010,election,breclav,Břeclav,cz,Czechia
+kscm,KSČM,0.07925956553544734,2010,election,breclav,Břeclav,cz,Czechia
+kc,KČ,0.0012404185617505804,2010,election,breclav,Břeclav,cz,Czechia
+csns,ČSNS,0.0,2010,election,breclav,Břeclav,cz,Czechia
+cssd,ČSSD,0.1341136308217508,2010,election,breclav,Břeclav,cz,Czechia
+np,NP,0.0,2010,election,breclav,Břeclav,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,breclav,Břeclav,cz,Czechia
+moravane,Moravané,0.006700380607062965,2010,election,breclav,Břeclav,cz,Czechia
+stop,STOP,0.000243842965130456,2010,election,breclav,Břeclav,cz,Czechia
+spoz,SPOZ,0.02157480148002078,2010,election,breclav,Břeclav,cz,Czechia
+top-09,TOP 09,0.08668087316985253,2010,election,breclav,Břeclav,cz,Czechia
+es,ES,0.0,2010,election,breclav,Břeclav,cz,Czechia
+kdu-csl,KDU-ČSL,0.04777201742947107,2010,election,breclav,Břeclav,cz,Czechia
+pb,PB,0.0025974576720418138,2010,election,breclav,Břeclav,cz,Czechia
+csns,ČSNS,0.0004982877983100622,2010,election,breclav,Břeclav,cz,Czechia
+zeleni,Zelení,0.00982793168156229,2010,election,breclav,Břeclav,cz,Czechia
+suverenita,Suverenita,0.018160999968194397,2010,election,breclav,Břeclav,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,breclav,Břeclav,cz,Czechia
+pirati,Piráti,0.0035622276645144875,2010,election,breclav,Břeclav,cz,Czechia
+dsss,DSSS,0.00530093402457513,2010,election,breclav,Břeclav,cz,Czechia
+svobodni,Svobodní,0.002724680088631617,2010,election,breclav,Břeclav,cz,Czechia
+kh,KH,0.0,2010,election,breclav,Břeclav,cz,Czechia
+ods,ODS,0.10902961101746128,2010,election,breclav,Břeclav,cz,Czechia
+non-voters,Non voters,0.3649905775133459,2010,election,brno-mesto,Brno-město,cz,Czechia
+obcane,Občané,0.0013267113315643848,2010,election,brno-mesto,Brno-město,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,brno-mesto,Brno-město,cz,Czechia
+vv,VV,0.057439352590080865,2010,election,brno-mesto,Brno-město,cz,Czechia
+kons,KONS,0.00040652199945797067,2010,election,brno-mesto,Brno-město,cz,Czechia
+kscm,KSČM,0.04807358993590188,2010,election,brno-mesto,Brno-město,cz,Czechia
+kc,KČ,0.0005420293326106276,2010,election,brno-mesto,Brno-město,cz,Czechia
+csns,ČSNS,0.0,2010,election,brno-mesto,Brno-město,cz,Czechia
+cssd,ČSSD,0.13522686448636417,2010,election,brno-mesto,Brno-město,cz,Czechia
+np,NP,0.0,2010,election,brno-mesto,Brno-město,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,brno-mesto,Brno-město,cz,Czechia
+moravane,Moravané,0.003989587994680549,2010,election,brno-mesto,Brno-město,cz,Czechia
+stop,STOP,0.00018277733308963022,2010,election,brno-mesto,Brno-město,cz,Czechia
+spoz,SPOZ,0.027274789963633615,2010,election,brno-mesto,Brno-město,cz,Czechia
+top-09,TOP 09,0.12644409849807453,2010,election,brno-mesto,Brno-město,cz,Czechia
+es,ES,0.0,2010,election,brno-mesto,Brno-město,cz,Czechia
+kdu-csl,KDU-ČSL,0.04045366594606178,2010,election,brno-mesto,Brno-město,cz,Czechia
+pb,PB,0.0017237793310349609,2010,election,brno-mesto,Brno-město,cz,Czechia
+csns,ČSNS,0.00041597599944536535,2010,election,brno-mesto,Brno-město,cz,Czechia
+zeleni,Zelení,0.022128662637161782,2010,election,brno-mesto,Brno-město,cz,Czechia
+suverenita,Suverenita,0.014861687980184416,2010,election,brno-mesto,Brno-město,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,brno-mesto,Brno-město,cz,Czechia
+pirati,Piráti,0.005076797993230936,2010,election,brno-mesto,Brno-město,cz,Czechia
+dsss,DSSS,0.005332055992890592,2010,election,brno-mesto,Brno-město,cz,Czechia
+svobodni,Svobodní,0.004506406660658125,2010,election,brno-mesto,Brno-město,cz,Czechia
+kh,KH,0.0,2010,election,brno-mesto,Brno-město,cz,Czechia
+ods,ODS,0.13960406648052792,2010,election,brno-mesto,Brno-město,cz,Czechia
+non-voters,Non voters,0.33329803733486146,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+obcane,Občané,0.0017627236883903156,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+vv,VV,0.06798632176247454,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+kons,KONS,0.00034880751431045113,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+kscm,KSČM,0.07665045126972164,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+kc,KČ,0.000971678075579114,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+csns,ČSNS,0.0,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+cssd,ČSSD,0.15163783814085594,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+np,NP,0.0,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+moravane,Moravané,0.0052321127146567675,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+stop,STOP,0.00034880751431045113,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+spoz,SPOZ,0.028820220869901027,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+top-09,TOP 09,0.10465471170436072,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+es,ES,0.0,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+kdu-csl,KDU-ČSL,0.05808890854391549,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+pb,PB,0.0026035989461030105,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+csns,ČSNS,0.0005979557388179163,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+zeleni,Zelení,0.012843590973359825,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+suverenita,Suverenita,0.01852417049213003,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+pirati,Piráti,0.004771188499317957,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+dsss,DSSS,0.005998243505017222,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+svobodni,Svobodní,0.003612649255358244,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+kh,KH,0.0,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+ods,ODS,0.12124798345655789,2010,election,brno-venkov,Brno-venkov,cz,Czechia
+non-voters,Non voters,0.44752799094225687,2010,election,bruntal,Bruntál,cz,Czechia
+obcane,Občané,0.00265442193986665,2010,election,bruntal,Bruntál,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,bruntal,Bruntál,cz,Czechia
+vv,VV,0.06595798213611775,2010,election,bruntal,Bruntál,cz,Czechia
+kons,KONS,0.000629009938357026,2010,election,bruntal,Bruntál,cz,Czechia
+kscm,KSČM,0.09442697194615675,2010,election,bruntal,Bruntál,cz,Czechia
+kc,KČ,0.0,2010,election,bruntal,Bruntál,cz,Czechia
+csns,ČSNS,0.0,2010,election,bruntal,Bruntál,cz,Czechia
+cssd,ČSSD,0.15888791042898479,2010,election,bruntal,Bruntál,cz,Czechia
+np,NP,0.0,2010,election,bruntal,Bruntál,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,bruntal,Bruntál,cz,Czechia
+moravane,Moravané,0.0025412001509623854,2010,election,bruntal,Bruntál,cz,Czechia
+stop,STOP,0.0004151465593156372,2010,election,bruntal,Bruntál,cz,Czechia
+spoz,SPOZ,0.022078248836331613,2010,election,bruntal,Bruntál,cz,Czechia
+top-09,TOP 09,0.047439929550886904,2010,election,bruntal,Bruntál,cz,Czechia
+es,ES,0.0,2010,election,bruntal,Bruntál,cz,Czechia
+kdu-csl,KDU-ČSL,0.015297521700842873,2010,election,bruntal,Bruntál,cz,Czechia
+pb,PB,0.0023776575669895586,2010,election,bruntal,Bruntál,cz,Czechia
+csns,ČSNS,0.0,2010,election,bruntal,Bruntál,cz,Czechia
+zeleni,Zelení,0.0082274499937099,2010,election,bruntal,Bruntál,cz,Czechia
+suverenita,Suverenita,0.02586488866524091,2010,election,bruntal,Bruntál,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,bruntal,Bruntál,cz,Czechia
+pirati,Piráti,0.004390489369732042,2010,election,bruntal,Bruntál,cz,Czechia
+dsss,DSSS,0.00943514907535539,2010,election,bruntal,Bruntál,cz,Czechia
+svobodni,Svobodní,0.0021889545854824506,2010,election,bruntal,Bruntál,cz,Czechia
+kh,KH,0.0,2010,election,bruntal,Bruntál,cz,Czechia
+ods,ODS,0.0896590766134105,2010,election,bruntal,Bruntál,cz,Czechia
+non-voters,Non voters,0.4534798710404257,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+obcane,Občané,0.0021453312079772763,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+vv,VV,0.07254575308316455,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+kons,KONS,0.0010067476059781632,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+kscm,KSČM,0.076632668959814,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+kc,KČ,0.0,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+csns,ČSNS,0.0,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+cssd,ČSSD,0.12080971271737959,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+np,NP,0.0004674185313470043,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+spr-rsc,SPR-RSČ,0.0031880340855975167,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+moravane,Moravané,0.0,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+stop,STOP,0.00037153780696813166,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+spoz,SPOZ,0.024018121456907605,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+top-09,TOP 09,0.07804690964440236,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+es,ES,0.0,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+kdu-csl,KDU-ČSL,0.0056809329194482065,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+pb,PB,0.004266692234859835,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+csns,ČSNS,0.0,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+zeleni,Zelení,0.0118053141891487,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+suverenita,Suverenita,0.029255606026103526,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+pirati,Piráti,0.007358845596078478,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+dsss,DSSS,0.009156609178182342,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+svobodni,Svobodní,0.0037393482507760345,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+kh,KH,0.0,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+ods,ODS,0.096024545465441,2010,election,ceska-lipa,Česká Lípa,cz,Czechia
+non-voters,Non voters,0.35270065422052016,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+obcane,Občané,0.002799053241848838,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+vv,VV,0.07276208712302537,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+kons,KONS,0.00035902345619913834,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+kscm,KSČM,0.06948433593957769,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+kc,KČ,0.0,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+csns,ČSNS,0.0,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+cssd,ČSSD,0.12018642625392266,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+np,NP,0.0,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+moravane,Moravané,0.0,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+stop,STOP,0.000425509281421201,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+spoz,SPOZ,0.027465294399234084,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+top-09,TOP 09,0.12315834264134887,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+es,ES,0.0003457262911547258,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+kdu-csl,KDU-ČSL,0.023728791021754164,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+pb,PB,0.003430668581458433,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+csns,ČSNS,0.0,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+zeleni,Zelení,0.013935428966544332,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+suverenita,Suverenita,0.023775331099409606,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+pirati,Piráti,0.004880059571299399,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+dsss,DSSS,0.00751289825009308,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+svobodni,Svobodní,0.00685468858039466,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+kh,KH,0.0,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+ods,ODS,0.1461956810807936,2010,election,ceske-budejovice,České Budějovice,cz,Czechia
+non-voters,Non voters,0.4088626353270489,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+obcane,Občané,0.002078788128267402,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+vv,VV,0.07463055201086732,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+kons,KONS,0.0003910591528423826,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+kscm,KSČM,0.0747334623142469,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+kc,KČ,0.0,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+csns,ČSNS,0.0,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+cssd,ČSSD,0.11647388136500227,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+np,NP,0.0,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+moravane,Moravané,0.0,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+stop,STOP,0.0005145515168978719,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+spoz,SPOZ,0.0256040834808381,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+top-09,TOP 09,0.10169596179969538,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+es,ES,0.0004939694562219569,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+kdu-csl,KDU-ČSL,0.02099370188943317,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+pb,PB,0.003581278557609188,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+csns,ČSNS,0.0,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+zeleni,Zelení,0.010764417733503479,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+suverenita,Suverenita,0.023257728563783806,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+pirati,Piráti,0.005639484625200675,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+dsss,DSSS,0.009344255546865353,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+svobodni,Svobodní,0.004219322438562549,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+kh,KH,0.0,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+ods,ODS,0.11672086609311325,2010,election,cesky-krumlov,Český Krumlov,cz,Czechia
+non-voters,Non voters,0.47176880587352094,2010,election,cheb,Cheb,cz,Czechia
+obcane,Občané,0.0023692439081504746,2010,election,cheb,Cheb,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,cheb,Cheb,cz,Czechia
+vv,VV,0.058074025097455816,2010,election,cheb,Cheb,cz,Czechia
+kons,KONS,0.000440789564307065,2010,election,cheb,Cheb,cz,Czechia
+kscm,KSČM,0.08121547722357673,2010,election,cheb,Cheb,cz,Czechia
+kc,KČ,0.0,2010,election,cheb,Cheb,cz,Czechia
+csns,ČSNS,0.0,2010,election,cheb,Cheb,cz,Czechia
+cssd,ČSSD,0.1241235863740926,2010,election,cheb,Cheb,cz,Czechia
+np,NP,0.0,2010,election,cheb,Cheb,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,cheb,Cheb,cz,Czechia
+moravane,Moravané,0.0,2010,election,cheb,Cheb,cz,Czechia
+stop,STOP,0.00088157912861413,2010,election,cheb,Cheb,cz,Czechia
+spoz,SPOZ,0.018278992244858603,2010,election,cheb,Cheb,cz,Czechia
+top-09,TOP 09,0.07489290191054727,2010,election,cheb,Cheb,cz,Czechia
+es,ES,0.0,2010,election,cheb,Cheb,cz,Czechia
+kdu-csl,KDU-ČSL,0.010523850847831178,2010,election,cheb,Cheb,cz,Czechia
+pb,PB,0.004063528795955756,2010,election,cheb,Cheb,cz,Czechia
+csns,ČSNS,0.0,2010,election,cheb,Cheb,cz,Czechia
+zeleni,Zelení,0.011970191605713734,2010,election,cheb,Cheb,cz,Czechia
+suverenita,Suverenita,0.02655757124950067,2010,election,cheb,Cheb,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,cheb,Cheb,cz,Czechia
+pirati,Piráti,0.007135281072220615,2010,election,cheb,Cheb,cz,Czechia
+dsss,DSSS,0.009022411394410238,2010,election,cheb,Cheb,cz,Czechia
+svobodni,Svobodní,0.006047081835337548,2010,election,cheb,Cheb,cz,Czechia
+kh,KH,0.0,2010,election,cheb,Cheb,cz,Czechia
+ods,ODS,0.09263468187390664,2010,election,cheb,Cheb,cz,Czechia
+non-voters,Non voters,0.4895578007612443,2010,election,chomutov,Chomutov,cz,Czechia
+obcane,Občané,0.0,2010,election,chomutov,Chomutov,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,chomutov,Chomutov,cz,Czechia
+vv,VV,0.055399453976604694,2010,election,chomutov,Chomutov,cz,Czechia
+kons,KONS,0.0003188457782826169,2010,election,chomutov,Chomutov,cz,Czechia
+kscm,KSČM,0.07241784739243937,2010,election,chomutov,Chomutov,cz,Czechia
+kc,KČ,0.0,2010,election,chomutov,Chomutov,cz,Czechia
+csns,ČSNS,0.0,2010,election,chomutov,Chomutov,cz,Czechia
+cssd,ČSSD,0.14240449572547378,2010,election,chomutov,Chomutov,cz,Czechia
+np,NP,0.0,2010,election,chomutov,Chomutov,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,chomutov,Chomutov,cz,Czechia
+moravane,Moravané,0.0,2010,election,chomutov,Chomutov,cz,Czechia
+stop,STOP,0.00034873756999661225,2010,election,chomutov,Chomutov,cz,Czechia
+spoz,SPOZ,0.030101034255993305,2010,election,chomutov,Chomutov,cz,Czechia
+top-09,TOP 09,0.06880094059504593,2010,election,chomutov,Chomutov,cz,Czechia
+es,ES,0.0,2010,election,chomutov,Chomutov,cz,Czechia
+kdu-csl,KDU-ČSL,0.004344273729100656,2010,election,chomutov,Chomutov,cz,Czechia
+pb,PB,0.0038460772005340666,2010,election,chomutov,Chomutov,cz,Czechia
+csns,ČSNS,0.0,2010,election,chomutov,Chomutov,cz,Czechia
+zeleni,Zelení,0.01428827643928977,2010,election,chomutov,Chomutov,cz,Czechia
+suverenita,Suverenita,0.01971861860066559,2010,election,chomutov,Chomutov,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,chomutov,Chomutov,cz,Czechia
+pirati,Piráti,0.0036667264502500945,2010,election,chomutov,Chomutov,cz,Czechia
+dsss,DSSS,0.011896933102170144,2010,election,chomutov,Chomutov,cz,Czechia
+svobodni,Svobodní,0.004214742631673343,2010,election,chomutov,Chomutov,cz,Czechia
+kh,KH,0.0,2010,election,chomutov,Chomutov,cz,Czechia
+ods,ODS,0.07867519579123573,2010,election,chomutov,Chomutov,cz,Czechia
+non-voters,Non voters,0.35425017440554313,2010,election,chrudim,Chrudim,cz,Czechia
+obcane,Občané,0.0011942345665874451,2010,election,chrudim,Chrudim,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,chrudim,Chrudim,cz,Czechia
+vv,VV,0.07016423681316732,2010,election,chrudim,Chrudim,cz,Czechia
+kons,KONS,0.0005320847078854954,2010,election,chrudim,Chrudim,cz,Czechia
+kscm,KSČM,0.08291062159317986,2010,election,chrudim,Chrudim,cz,Czechia
+kc,KČ,0.0,2010,election,chrudim,Chrudim,cz,Czechia
+csns,ČSNS,0.0,2010,election,chrudim,Chrudim,cz,Czechia
+cssd,ČSSD,0.14770671490901352,2010,election,chrudim,Chrudim,cz,Czechia
+np,NP,0.0,2010,election,chrudim,Chrudim,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,chrudim,Chrudim,cz,Czechia
+moravane,Moravané,0.0,2010,election,chrudim,Chrudim,cz,Czechia
+stop,STOP,0.0005793811263642061,2010,election,chrudim,Chrudim,cz,Czechia
+spoz,SPOZ,0.041041467134901206,2010,election,chrudim,Chrudim,cz,Czechia
+top-09,TOP 09,0.08586664774809928,2010,election,chrudim,Chrudim,cz,Czechia
+es,ES,0.0,2010,election,chrudim,Chrudim,cz,Czechia
+kdu-csl,KDU-ČSL,0.03920873091885117,2010,election,chrudim,Chrudim,cz,Czechia
+pb,PB,0.002873257422581675,2010,election,chrudim,Chrudim,cz,Czechia
+csns,ČSNS,0.0,2010,election,chrudim,Chrudim,cz,Czechia
+zeleni,Zelení,0.010499804902273775,2010,election,chrudim,Chrudim,cz,Czechia
+suverenita,Suverenita,0.023979284168706323,2010,election,chrudim,Chrudim,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,chrudim,Chrudim,cz,Czechia
+pirati,Piráti,0.00523807834651721,2010,election,chrudim,Chrudim,cz,Czechia
+dsss,DSSS,0.007437361805777257,2010,election,chrudim,Chrudim,cz,Czechia
+svobodni,Svobodní,0.0064559611223440104,2010,election,chrudim,Chrudim,cz,Czechia
+kh,KH,0.0,2010,election,chrudim,Chrudim,cz,Czechia
+ods,ODS,0.12006195830820711,2010,election,chrudim,Chrudim,cz,Czechia
+non-voters,Non voters,0.44521001722538756,2010,election,decin,Děčín,cz,Czechia
+obcane,Občané,0.0,2010,election,decin,Děčín,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,decin,Děčín,cz,Czechia
+vv,VV,0.06700865055178028,2010,election,decin,Děčín,cz,Czechia
+kons,KONS,0.00047322493327528443,2010,election,decin,Děčín,cz,Czechia
+kscm,KSČM,0.06837153835961308,2010,election,decin,Děčín,cz,Czechia
+kc,KČ,0.0,2010,election,decin,Děčín,cz,Czechia
+csns,ČSNS,0.0,2010,election,decin,Děčín,cz,Czechia
+cssd,ČSSD,0.14283821385981185,2010,election,decin,Děčín,cz,Czechia
+np,NP,0.0,2010,election,decin,Děčín,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,decin,Děčín,cz,Czechia
+moravane,Moravané,0.0,2010,election,decin,Děčín,cz,Czechia
+stop,STOP,0.0005205474266028129,2010,election,decin,Děčín,cz,Czechia
+spoz,SPOZ,0.026699350735391546,2010,election,decin,Děčín,cz,Czechia
+top-09,TOP 09,0.07579170531336955,2010,election,decin,Děčín,cz,Czechia
+es,ES,0.0,2010,election,decin,Děčín,cz,Czechia
+kdu-csl,KDU-ČSL,0.008044823865679835,2010,election,decin,Děčín,cz,Czechia
+pb,PB,0.003104355562285866,2010,election,decin,Děčín,cz,Czechia
+csns,ČSNS,0.0,2010,election,decin,Děčín,cz,Czechia
+zeleni,Zelení,0.011158643926631207,2010,election,decin,Děčín,cz,Czechia
+suverenita,Suverenita,0.03251055291601204,2010,election,decin,Děčín,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,decin,Děčín,cz,Czechia
+pirati,Piráti,0.0048363588180734066,2010,election,decin,Děčín,cz,Czechia
+dsss,DSSS,0.01244581574513998,2010,election,decin,Děčín,cz,Czechia
+svobodni,Svobodní,0.006369607601885328,2010,election,decin,Děčín,cz,Czechia
+kh,KH,0.0,2010,election,decin,Děčín,cz,Czechia
+ods,ODS,0.09461659315906036,2010,election,decin,Děčín,cz,Czechia
+non-voters,Non voters,0.4076700705030884,2010,election,domazlice,Domažlice,cz,Czechia
+obcane,Občané,0.0012062475303121684,2010,election,domazlice,Domažlice,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,domazlice,Domažlice,cz,Czechia
+vv,VV,0.05095355947008298,2010,election,domazlice,Domažlice,cz,Czechia
+kons,KONS,0.00020797371212278768,2010,election,domazlice,Domažlice,cz,Czechia
+kscm,KSČM,0.08300230850820456,2010,election,domazlice,Domažlice,cz,Czechia
+kc,KČ,0.001601397583345465,2010,election,domazlice,Domažlice,cz,Czechia
+csns,ČSNS,0.0,2010,election,domazlice,Domažlice,cz,Czechia
+cssd,ČSSD,0.14695422498596178,2010,election,domazlice,Domažlice,cz,Czechia
+np,NP,0.0,2010,election,domazlice,Domažlice,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,domazlice,Domažlice,cz,Czechia
+moravane,Moravané,0.0,2010,election,domazlice,Domažlice,cz,Czechia
+stop,STOP,0.000623921136368363,2010,election,domazlice,Domažlice,cz,Czechia
+spoz,SPOZ,0.023251461015327664,2010,election,domazlice,Domažlice,cz,Czechia
+top-09,TOP 09,0.07717904456876651,2010,election,domazlice,Domažlice,cz,Czechia
+es,ES,0.0,2010,election,domazlice,Domažlice,cz,Czechia
+kdu-csl,KDU-ČSL,0.020381423788033193,2010,election,domazlice,Domažlice,cz,Czechia
+pb,PB,0.0029324293409313065,2010,election,domazlice,Domažlice,cz,Czechia
+csns,ČSNS,0.0008734895909157083,2010,election,domazlice,Domažlice,cz,Czechia
+zeleni,Zelení,0.007403864151571241,2010,election,domazlice,Domažlice,cz,Czechia
+suverenita,Suverenita,0.03348376765176882,2010,election,domazlice,Domažlice,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,domazlice,Domažlice,cz,Czechia
+pirati,Piráti,0.005490506000041594,2010,election,domazlice,Domažlice,cz,Czechia
+dsss,DSSS,0.00640559033338186,2010,election,domazlice,Domažlice,cz,Czechia
+svobodni,Svobodní,0.0023501029469875007,2010,election,domazlice,Domažlice,cz,Czechia
+kh,KH,0.0,2010,election,domazlice,Domažlice,cz,Czechia
+ods,ODS,0.1280286171827881,2010,election,domazlice,Domažlice,cz,Czechia
+non-voters,Non voters,0.3972118319162966,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+obcane,Občané,0.0015405533153991142,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+vv,VV,0.07299538417548303,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+kons,KONS,0.0029702334755232923,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+kscm,KSČM,0.06482578326048773,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+kc,KČ,0.0,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+csns,ČSNS,0.0,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+cssd,ČSSD,0.1759907099966738,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+np,NP,0.0,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+moravane,Moravané,0.0016047430368740772,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+stop,STOP,0.0004143154749747618,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+spoz,SPOZ,0.02676711385505961,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+top-09,TOP 09,0.06494249184498765,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+es,ES,0.0,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+kdu-csl,KDU-ČSL,0.04231269731045067,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+pb,PB,0.0024333739868236007,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+csns,ČSNS,0.0,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+zeleni,Zelení,0.01059130404336891,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+suverenita,Suverenita,0.018562500364714327,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+pirati,Piráti,0.004160661037422608,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+dsss,DSSS,0.004709191384572292,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+svobodni,Svobodní,0.0024567157037235876,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+kh,KH,0.0,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+ods,ODS,0.10551039581716433,2010,election,frydek-mistek,Frýdek-Místek,cz,Czechia
+non-voters,Non voters,0.3426057337496452,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+obcane,Občané,0.0013676360539829175,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+vv,VV,0.061582329110004386,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+kons,KONS,0.0002838489923360772,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+kscm,KSČM,0.0942894743632751,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+kc,KČ,0.0,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+csns,ČSNS,0.0,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+cssd,ČSSD,0.1601166361313963,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+np,NP,0.0,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+moravane,Moravané,0.0,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+stop,STOP,0.0004902846231259516,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+spoz,SPOZ,0.03131370474543906,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+top-09,TOP 09,0.08888344128196526,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+es,ES,0.0,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+kdu-csl,KDU-ČSL,0.03878409413464764,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+pb,PB,0.0033287745464867236,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+csns,ČSNS,0.0,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+zeleni,Zelení,0.01374087167445101,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+suverenita,Suverenita,0.022540190436869403,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+pirati,Piráti,0.006115655562150027,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+dsss,DSSS,0.005818904342889583,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+svobodni,Svobodní,0.00583180656981395,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+kh,KH,0.0,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+ods,ODS,0.12290661368152143,2010,election,havlickuv-brod,Havlíčkův Brod,cz,Czechia
+non-voters,Non voters,0.3952377634828112,2010,election,hodonin,Hodonín,cz,Czechia
+obcane,Občané,0.001416595062817863,2010,election,hodonin,Hodonín,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,hodonin,Hodonín,cz,Czechia
+vv,VV,0.057584976351377506,2010,election,hodonin,Hodonín,cz,Czechia
+kons,KONS,0.0005186440940371411,2010,election,hodonin,Hodonín,cz,Czechia
+kscm,KSČM,0.08338558479056841,2010,election,hodonin,Hodonín,cz,Czechia
+kc,KČ,0.0011611434941130026,2010,election,hodonin,Hodonín,cz,Czechia
+csns,ČSNS,0.0,2010,election,hodonin,Hodonín,cz,Czechia
+cssd,ČSSD,0.14898245125132564,2010,election,hodonin,Hodonín,cz,Czechia
+np,NP,0.0,2010,election,hodonin,Hodonín,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,hodonin,Hodonín,cz,Czechia
+moravane,Moravané,0.006486921653777974,2010,election,hodonin,Hodonín,cz,Czechia
+stop,STOP,0.0003328611349790607,2010,election,hodonin,Hodonín,cz,Czechia
+spoz,SPOZ,0.02372603206304235,2010,election,hodonin,Hodonín,cz,Czechia
+top-09,TOP 09,0.0704968920059141,2010,election,hodonin,Hodonín,cz,Czechia
+es,ES,0.0,2010,election,hodonin,Hodonín,cz,Czechia
+kdu-csl,KDU-ČSL,0.07257920933869008,2010,election,hodonin,Hodonín,cz,Czechia
+pb,PB,0.0025158109039115054,2010,election,hodonin,Hodonín,cz,Czechia
+csns,ČSNS,0.0003870478313710008,2010,election,hodonin,Hodonín,cz,Czechia
+zeleni,Zelení,0.010543182926546062,2010,election,hodonin,Hodonín,cz,Czechia
+suverenita,Suverenita,0.01439817932700123,2010,election,hodonin,Hodonín,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,hodonin,Hodonín,cz,Czechia
+pirati,Piráti,0.004288489971590689,2010,election,hodonin,Hodonín,cz,Czechia
+dsss,DSSS,0.0049232484150391305,2010,election,hodonin,Hodonín,cz,Czechia
+svobodni,Svobodní,0.0025777385569308656,2010,election,hodonin,Hodonín,cz,Czechia
+kh,KH,0.0,2010,election,hodonin,Hodonín,cz,Czechia
+ods,ODS,0.09845722734415518,2010,election,hodonin,Hodonín,cz,Czechia
+non-voters,Non voters,0.3254299688885846,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+obcane,Občané,0.001414846762967527,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+vv,VV,0.0719670173356762,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+kons,KONS,0.00041076196344218524,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+kscm,KSČM,0.07221803853555753,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+kc,KČ,0.0,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+csns,ČSNS,0.0,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+cssd,ČSSD,0.13387036656701887,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+np,NP,0.0,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+moravane,Moravané,0.0,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+stop,STOP,0.0002738413089614568,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+spoz,SPOZ,0.02710268288415752,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+top-09,TOP 09,0.1525904627157451,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+es,ES,0.0003270882301484068,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+kdu-csl,KDU-ČSL,0.019275385469675877,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+pb,PB,0.002928580665282247,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+csns,ČSNS,0.0,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+zeleni,Zelení,0.016316377992286805,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+suverenita,Suverenita,0.025931250618044622,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+pirati,Piráti,0.004647695549318059,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+dsss,DSSS,0.005841947924511079,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+svobodni,Svobodní,0.006701505366528985,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+kh,KH,0.0,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+ods,ODS,0.1327521812220929,2010,election,hradec-kralove,Hradec Králové,cz,Czechia
+non-voters,Non voters,0.3764402121102751,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+obcane,Občané,0.0021932868763708045,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+vv,VV,0.07782003942363752,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+kons,KONS,0.0005830256253643911,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+kscm,KSČM,0.05658124878536328,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+kc,KČ,0.0,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+csns,ČSNS,0.0,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+cssd,ČSSD,0.10816513506760321,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+np,NP,0.0005830256253643911,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+spr-rsc,SPR-RSČ,0.0021655237513534525,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+moravane,Moravané,0.0,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+stop,STOP,0.00020822343763013965,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+spoz,SPOZ,0.022765762514228603,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+top-09,TOP 09,0.13390155195868847,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+es,ES,0.0,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+kdu-csl,KDU-ČSL,0.007884727504927955,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+pb,PB,0.003928482189955301,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+csns,ČSNS,0.0,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+zeleni,Zelení,0.013312418445820262,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+suverenita,Suverenita,0.02545878564091174,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+pirati,Piráti,0.008606568755379105,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+dsss,DSSS,0.008537160942835726,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+svobodni,Svobodní,0.004108942502568089,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+kh,KH,0.0,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+ods,ODS,0.14675587884172242,2010,election,jablonec-nad-nisou,Jablonec nad Nisou,cz,Czechia
+non-voters,Non voters,0.4190134582320508,2010,election,jesenik,Jeseník,cz,Czechia
+obcane,Občané,0.0016600462441453726,2010,election,jesenik,Jeseník,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,jesenik,Jeseník,cz,Czechia
+vv,VV,0.0678543902294421,2010,election,jesenik,Jeseník,cz,Czechia
+kons,KONS,0.0008596668050038536,2010,election,jesenik,Jeseník,cz,Czechia
+kscm,KSČM,0.08777494515918657,2010,election,jesenik,Jeseník,cz,Czechia
+kc,KČ,0.001452540463627201,2010,election,jesenik,Jeseník,cz,Czechia
+csns,ČSNS,0.0,2010,election,jesenik,Jeseník,cz,Czechia
+cssd,ČSSD,0.1498191735341199,2010,election,jesenik,Jeseník,cz,Czechia
+np,NP,0.0,2010,election,jesenik,Jeseník,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,jesenik,Jeseník,cz,Czechia
+moravane,Moravané,0.0037054603663959212,2010,election,jesenik,Jeseník,cz,Czechia
+stop,STOP,0.00029643682931167366,2010,election,jesenik,Jeseník,cz,Czechia
+spoz,SPOZ,0.027835418272366158,2010,election,jesenik,Jeseník,cz,Czechia
+top-09,TOP 09,0.08578881840279837,2010,election,jesenik,Jeseník,cz,Czechia
+es,ES,0.0,2010,election,jesenik,Jeseník,cz,Czechia
+kdu-csl,KDU-ČSL,0.020039129661469143,2010,election,jesenik,Jeseník,cz,Czechia
+pb,PB,0.003349736171221913,2010,election,jesenik,Jeseník,cz,Czechia
+csns,ČSNS,0.0,2010,election,jesenik,Jeseník,cz,Czechia
+zeleni,Zelení,0.01295428944092014,2010,election,jesenik,Jeseník,cz,Czechia
+suverenita,Suverenita,0.01710440505128357,2010,election,jesenik,Jeseník,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,jesenik,Jeseník,cz,Czechia
+pirati,Piráti,0.0056322997569218,2010,election,jesenik,Jeseník,cz,Czechia
+dsss,DSSS,0.00913025434279955,2010,election,jesenik,Jeseník,cz,Czechia
+svobodni,Svobodní,0.004683701903124444,2010,election,jesenik,Jeseník,cz,Czechia
+kh,KH,0.0,2010,election,jesenik,Jeseník,cz,Czechia
+ods,ODS,0.08104582913381159,2010,election,jesenik,Jeseník,cz,Czechia
+non-voters,Non voters,0.3633263701155075,2010,election,jicin,Jičín,cz,Czechia
+obcane,Občané,0.0013056033423445564,2010,election,jicin,Jičín,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,jicin,Jičín,cz,Czechia
+vv,VV,0.08222229048906365,2010,election,jicin,Jičín,cz,Czechia
+kons,KONS,0.0005529614155812239,2010,election,jicin,Jičín,cz,Czechia
+kscm,KSČM,0.07131666257065618,2010,election,jicin,Jičín,cz,Czechia
+kc,KČ,0.0,2010,election,jicin,Jičín,cz,Czechia
+csns,ČSNS,0.0,2010,election,jicin,Jičín,cz,Czechia
+cssd,ČSSD,0.13080609486360284,2010,election,jicin,Jičín,cz,Czechia
+np,NP,0.0,2010,election,jicin,Jičín,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,jicin,Jičín,cz,Czechia
+moravane,Moravané,0.0,2010,election,jicin,Jičín,cz,Czechia
+stop,STOP,0.0003225608257557139,2010,election,jicin,Jičín,cz,Czechia
+spoz,SPOZ,0.021473334971737527,2010,election,jicin,Jičín,cz,Czechia
+top-09,TOP 09,0.12900897026296387,2010,election,jicin,Jičín,cz,Czechia
+es,ES,0.0002611206684689113,2010,election,jicin,Jičín,cz,Czechia
+kdu-csl,KDU-ČSL,0.019461169820594742,2010,election,jicin,Jičín,cz,Czechia
+pb,PB,0.003824649791103465,2010,election,jicin,Jičín,cz,Czechia
+csns,ČSNS,0.0,2010,election,jicin,Jičín,cz,Czechia
+zeleni,Zelení,0.014868518063406243,2010,election,jicin,Jičín,cz,Czechia
+suverenita,Suverenita,0.026711108380437453,2010,election,jicin,Jičín,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,jicin,Jičín,cz,Czechia
+pirati,Piráti,0.003978250184320472,2010,election,jicin,Jičín,cz,Czechia
+dsss,DSSS,0.006528016711722782,2010,election,jicin,Jičín,cz,Czechia
+svobodni,Svobodní,0.004884492504300811,2010,election,jicin,Jičín,cz,Czechia
+kh,KH,0.0,2010,election,jicin,Jičín,cz,Czechia
+ods,ODS,0.11914782501843205,2010,election,jicin,Jičín,cz,Czechia
+non-voters,Non voters,0.3585521205530527,2010,election,jihlava,Jihlava,cz,Czechia
+obcane,Občané,0.0013093943496304845,2010,election,jihlava,Jihlava,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,jihlava,Jihlava,cz,Czechia
+vv,VV,0.06723407088483987,2010,election,jihlava,Jihlava,cz,Czechia
+kons,KONS,0.0005881178011052176,2010,election,jihlava,Jihlava,cz,Czechia
+kscm,KSČM,0.08230320246787545,2010,election,jihlava,Jihlava,cz,Czechia
+kc,KČ,0.0,2010,election,jihlava,Jihlava,cz,Czechia
+csns,ČSNS,0.0,2010,election,jihlava,Jihlava,cz,Czechia
+cssd,ČSSD,0.13506735613306997,2010,election,jihlava,Jihlava,cz,Czechia
+np,NP,0.0,2010,election,jihlava,Jihlava,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,jihlava,Jihlava,cz,Czechia
+moravane,Moravané,0.0,2010,election,jihlava,Jihlava,cz,Czechia
+stop,STOP,0.0003883796799751437,2010,election,jihlava,Jihlava,cz,Czechia
+spoz,SPOZ,0.039814465478594734,2010,election,jihlava,Jihlava,cz,Czechia
+top-09,TOP 09,0.1056725626400941,2010,election,jihlava,Jihlava,cz,Czechia
+es,ES,0.0,2010,election,jihlava,Jihlava,cz,Czechia
+kdu-csl,KDU-ČSL,0.038804678310659355,2010,election,jihlava,Jihlava,cz,Czechia
+pb,PB,0.0029405890055260882,2010,election,jihlava,Jihlava,cz,Czechia
+csns,ČSNS,0.0,2010,election,jihlava,Jihlava,cz,Czechia
+zeleni,Zelení,0.014203599724805255,2010,election,jihlava,Jihlava,cz,Czechia
+suverenita,Suverenita,0.01764353403315653,2010,election,jihlava,Jihlava,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,jihlava,Jihlava,cz,Czechia
+pirati,Piráti,0.005792405512772143,2010,election,jihlava,Jihlava,cz,Czechia
+dsss,DSSS,0.006191881755032291,2010,election,jihlava,Jihlava,cz,Czechia
+svobodni,Svobodní,0.007956235158347943,2010,election,jihlava,Jihlava,cz,Czechia
+kh,KH,0.0,2010,election,jihlava,Jihlava,cz,Czechia
+ods,ODS,0.11553740651146274,2010,election,jihlava,Jihlava,cz,Czechia
+non-voters,Non voters,0.3774644209426818,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+obcane,Občané,0.0023501762632197414,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+vv,VV,0.06669277973625799,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+kons,KONS,0.000339469904687296,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+kscm,KSČM,0.08871915393654524,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+kc,KČ,0.0,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+csns,ČSNS,0.0,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+cssd,ČSSD,0.14738216477346913,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+np,NP,0.0,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+moravane,Moravané,0.0,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+stop,STOP,0.000796448622535579,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+spoz,SPOZ,0.024167645906776343,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+top-09,TOP 09,0.08742655699177439,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+es,ES,0.00023501762632197415,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+kdu-csl,KDU-ČSL,0.024402663533098317,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+pb,PB,0.0035383209296252775,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+csns,ČSNS,0.0,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+zeleni,Zelení,0.011568089828959394,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+suverenita,Suverenita,0.024702963833398615,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+pirati,Piráti,0.005953779866823345,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+dsss,DSSS,0.0050920485703094395,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+svobodni,Svobodní,0.0053923488706097405,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+kh,KH,0.0,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+ods,ODS,0.12377594986290638,2010,election,jindrichuv-hradec,Jindřichův Hradec,cz,Czechia
+non-voters,Non voters,0.43463760972386817,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+obcane,Občané,0.005893889022893879,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+vv,VV,0.06659465355049134,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+kons,KONS,0.0007446016381236039,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+kscm,KSČM,0.06199070821054398,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+kc,KČ,0.0,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+csns,ČSNS,0.0,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+cssd,ČSSD,0.11983891434983693,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+np,NP,0.0,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+moravane,Moravané,0.0,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+stop,STOP,0.0005768040858703974,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+spoz,SPOZ,0.02091176994955586,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+top-09,TOP 09,0.10948790284521724,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+es,ES,0.0,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+kdu-csl,KDU-ČSL,0.009711283336654327,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+pb,PB,0.0038803183958554003,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+csns,ČSNS,0.0,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+zeleni,Zelení,0.012060449068199218,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+suverenita,Suverenita,0.026470063867943327,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+pirati,Piráti,0.005327572284039307,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+dsss,DSSS,0.009753232724717628,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+svobodni,Svobodní,0.004467609828741623,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+kh,KH,0.0,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+ods,ODS,0.1076526171174478,2010,election,karlovy-vary,Karlovy Vary,cz,Czechia
+non-voters,Non voters,0.46895116776681917,2010,election,karvina,Karviná,cz,Czechia
+obcane,Občané,0.0012493128779171455,2010,election,karvina,Karviná,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,karvina,Karviná,cz,Czechia
+vv,VV,0.05529685945457271,2010,election,karvina,Karviná,cz,Czechia
+kons,KONS,0.0013810585995884081,2010,election,karvina,Karviná,cz,Czechia
+kscm,KSČM,0.07976976299398966,2010,election,karvina,Karviná,cz,Czechia
+kc,KČ,0.0,2010,election,karvina,Karviná,cz,Czechia
+csns,ČSNS,0.0,2010,election,karvina,Karviná,cz,Czechia
+cssd,ČSSD,0.19290753721816636,2010,election,karvina,Karviná,cz,Czechia
+np,NP,0.0,2010,election,karvina,Karviná,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,karvina,Karviná,cz,Czechia
+moravane,Moravané,0.0011811685391216649,2010,election,karvina,Karviná,cz,Czechia
+stop,STOP,0.00021806188414553814,2010,election,karvina,Karviná,cz,Czechia
+spoz,SPOZ,0.025990250816596328,2010,election,karvina,Karviná,cz,Czechia
+top-09,TOP 09,0.039460115118503,2010,election,karvina,Karviná,cz,Czechia
+es,ES,0.0,2010,election,karvina,Karviná,cz,Czechia
+kdu-csl,KDU-ČSL,0.01674987847592915,2010,election,karvina,Karviná,cz,Czechia
+pb,PB,0.0017172373376461128,2010,election,karvina,Karviná,cz,Czechia
+csns,ČSNS,0.0,2010,election,karvina,Karviná,cz,Czechia
+zeleni,Zelení,0.008340867068566833,2010,election,karvina,Karviná,cz,Czechia
+suverenita,Suverenita,0.022037879166458448,2010,election,karvina,Karviná,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,karvina,Karviná,cz,Czechia
+pirati,Piráti,0.003711594986393847,2010,election,karvina,Karviná,cz,Czechia
+dsss,DSSS,0.007246014691919444,2010,election,karvina,Karviná,cz,Czechia
+svobodni,Svobodní,0.0018308112356385806,2010,election,karvina,Karviná,cz,Czechia
+kh,KH,0.0,2010,election,karvina,Karviná,cz,Czechia
+ods,ODS,0.07196042176802758,2010,election,karvina,Karviná,cz,Czechia
+non-voters,Non voters,0.4073437376218015,2010,election,kladno,Kladno,cz,Czechia
+obcane,Občané,0.0020121999524677176,2010,election,kladno,Kladno,cz,Czechia
+liberalove,Liberálové,0.00027727164699358316,2010,election,kladno,Kladno,cz,Czechia
+vv,VV,0.061926641844252554,2010,election,kladno,Kladno,cz,Czechia
+kons,KONS,0.0004357125881327735,2010,election,kladno,Kladno,cz,Czechia
+kscm,KSČM,0.07983046819298106,2010,election,kladno,Kladno,cz,Czechia
+kc,KČ,0.0011249306820882517,2010,election,kladno,Kladno,cz,Czechia
+csns,ČSNS,0.0,2010,election,kladno,Kladno,cz,Czechia
+cssd,ČSSD,0.13036520636932583,2010,election,kladno,Kladno,cz,Czechia
+np,NP,0.0,2010,election,kladno,Kladno,cz,Czechia
+spr-rsc,SPR-RSČ,0.001330903905569199,2010,election,kladno,Kladno,cz,Czechia
+moravane,Moravané,0.0,2010,election,kladno,Kladno,cz,Czechia
+stop,STOP,0.00044363463518973305,2010,election,kladno,Kladno,cz,Czechia
+spoz,SPOZ,0.024273152182523964,2010,election,kladno,Kladno,cz,Czechia
+top-09,TOP 09,0.09402677651905253,2010,election,kladno,Kladno,cz,Czechia
+es,ES,0.0,2010,election,kladno,Kladno,cz,Czechia
+kdu-csl,KDU-ČSL,0.007256595104174919,2010,election,kladno,Kladno,cz,Czechia
+pb,PB,0.003319337716866038,2010,election,kladno,Kladno,cz,Czechia
+csns,ČSNS,0.0005070110116454092,2010,election,kladno,Kladno,cz,Czechia
+zeleni,Zelení,0.01167709736195833,2010,election,kladno,Kladno,cz,Czechia
+suverenita,Suverenita,0.022997702606353483,2010,election,kladno,Kladno,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,kladno,Kladno,cz,Czechia
+pirati,Piráti,0.004848292798859225,2010,election,kladno,Kladno,cz,Czechia
+dsss,DSSS,0.0072803612453457974,2010,election,kladno,Kladno,cz,Czechia
+svobodni,Svobodní,0.0055137447516438245,2010,election,kladno,Kladno,cz,Czechia
+kh,KH,0.0,2010,election,kladno,Kladno,cz,Czechia
+ods,ODS,0.1332092212627743,2010,election,kladno,Kladno,cz,Czechia
+non-voters,Non voters,0.38309522485963643,2010,election,klatovy,Klatovy,cz,Czechia
+obcane,Občané,0.0013480460281283006,2010,election,klatovy,Klatovy,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,klatovy,Klatovy,cz,Czechia
+vv,VV,0.058132747790316304,2010,election,klatovy,Klatovy,cz,Czechia
+kons,KONS,0.00026405025293234753,2010,election,klatovy,Klatovy,cz,Czechia
+kscm,KSČM,0.08011840569236756,2010,election,klatovy,Klatovy,cz,Czechia
+kc,KČ,0.0010284062482628273,2010,election,klatovy,Klatovy,cz,Czechia
+csns,ČSNS,0.0,2010,election,klatovy,Klatovy,cz,Czechia
+cssd,ČSSD,0.13584690644282618,2010,election,klatovy,Klatovy,cz,Czechia
+np,NP,0.0,2010,election,klatovy,Klatovy,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,klatovy,Klatovy,cz,Czechia
+moravane,Moravané,0.0,2010,election,klatovy,Klatovy,cz,Czechia
+stop,STOP,0.0005003057423981322,2010,election,klatovy,Klatovy,cz,Czechia
+spoz,SPOZ,0.02291678247818111,2010,election,klatovy,Klatovy,cz,Czechia
+top-09,TOP 09,0.10666240480293512,2010,election,klatovy,Klatovy,cz,Czechia
+es,ES,0.0,2010,election,klatovy,Klatovy,cz,Czechia
+kdu-csl,KDU-ČSL,0.02329201178497971,2010,election,klatovy,Klatovy,cz,Czechia
+pb,PB,0.004433264772916783,2010,election,klatovy,Klatovy,cz,Czechia
+csns,ČSNS,0.0005975874145311024,2010,election,klatovy,Klatovy,cz,Czechia
+zeleni,Zelení,0.00976985935849686,2010,election,klatovy,Klatovy,cz,Czechia
+suverenita,Suverenita,0.03113013508255045,2010,election,klatovy,Klatovy,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,klatovy,Klatovy,cz,Czechia
+pirati,Piráti,0.005892489854911334,2010,election,klatovy,Klatovy,cz,Czechia
+dsss,DSSS,0.005447773639446329,2010,election,klatovy,Klatovy,cz,Czechia
+svobodni,Svobodní,0.003418755906387237,2010,election,klatovy,Klatovy,cz,Czechia
+kh,KH,0.0,2010,election,klatovy,Klatovy,cz,Czechia
+ods,ODS,0.12610484184779588,2010,election,klatovy,Klatovy,cz,Czechia
+non-voters,Non voters,0.3806174643770552,2010,election,kolin,Kolín,cz,Czechia
+obcane,Občané,0.0014484054491361762,2010,election,kolin,Kolín,cz,Czechia
+liberalove,Liberálové,0.00030012004801920766,2010,election,kolin,Kolín,cz,Czechia
+vv,VV,0.06264679784957461,2010,election,kolin,Kolín,cz,Czechia
+kons,KONS,0.000378412234459001,2010,election,kolin,Kolín,cz,Czechia
+kscm,KSČM,0.07753536197087531,2010,election,kolin,Kolín,cz,Czechia
+kc,KČ,0.0008742627485776919,2010,election,kolin,Kolín,cz,Czechia
+csns,ČSNS,0.0,2010,election,kolin,Kolín,cz,Czechia
+cssd,ČSSD,0.1490161281904066,2010,election,kolin,Kolín,cz,Czechia
+np,NP,0.0,2010,election,kolin,Kolín,cz,Czechia
+spr-rsc,SPR-RSČ,0.0010960906101571063,2010,election,kolin,Kolín,cz,Czechia
+moravane,Moravané,0.0,2010,election,kolin,Kolín,cz,Czechia
+stop,STOP,0.0003262174434991388,2010,election,kolin,Kolín,cz,Czechia
+spoz,SPOZ,0.028367868886685108,2010,election,kolin,Kolín,cz,Czechia
+top-09,TOP 09,0.09000991701028237,2010,election,kolin,Kolín,cz,Czechia
+es,ES,0.0,2010,election,kolin,Kolín,cz,Czechia
+kdu-csl,KDU-ČSL,0.010699932146771752,2010,election,kolin,Kolín,cz,Czechia
+pb,PB,0.0035883918784905267,2010,election,kolin,Kolín,cz,Czechia
+csns,ČSNS,0.00040450962993893207,2010,election,kolin,Kolín,cz,Czechia
+zeleni,Zelení,0.01278772378516624,2010,election,kolin,Kolín,cz,Czechia
+suverenita,Suverenita,0.026710684273709484,2010,election,kolin,Kolín,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,kolin,Kolín,cz,Czechia
+pirati,Piráti,0.004893261652487082,2010,election,kolin,Kolín,cz,Czechia
+dsss,DSSS,0.0063025210084033615,2010,election,kolin,Kolín,cz,Czechia
+svobodni,Svobodní,0.005454355655305601,2010,election,kolin,Kolín,cz,Czechia
+kh,KH,0.0,2010,election,kolin,Kolín,cz,Czechia
+ods,ODS,0.13654157315099952,2010,election,kolin,Kolín,cz,Czechia
+non-voters,Non voters,0.3704419795800685,2010,election,kromeriz,Kroměříž,cz,Czechia
+obcane,Občané,0.0018995285098877242,2010,election,kromeriz,Kroměříž,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,kromeriz,Kroměříž,cz,Czechia
+vv,VV,0.06613298960912678,2010,election,kromeriz,Kroměříž,cz,Czechia
+kons,KONS,0.000214827629094445,2010,election,kromeriz,Kroměříž,cz,Czechia
+kscm,KSČM,0.08539963592370227,2010,election,kromeriz,Kroměříž,cz,Czechia
+kc,KČ,0.0,2010,election,kromeriz,Kroměříž,cz,Czechia
+csns,ČSNS,0.0,2010,election,kromeriz,Kroměříž,cz,Czechia
+cssd,ČSSD,0.14889816039709192,2010,election,kromeriz,Kroměříž,cz,Czechia
+np,NP,0.0,2010,election,kromeriz,Kroměříž,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,kromeriz,Kroměříž,cz,Czechia
+moravane,Moravané,0.006795337109776919,2010,election,kromeriz,Kroměříž,cz,Czechia
+stop,STOP,0.0006105627353210542,2010,election,kromeriz,Kroměříž,cz,Czechia
+spoz,SPOZ,0.03770790226473548,2010,election,kromeriz,Kroměříž,cz,Czechia
+top-09,TOP 09,0.0697963660210531,2010,election,kromeriz,Kroměříž,cz,Czechia
+es,ES,0.0,2010,election,kromeriz,Kroměříž,cz,Czechia
+kdu-csl,KDU-ČSL,0.05036011894666621,2010,election,kromeriz,Kroměříž,cz,Czechia
+pb,PB,0.002238730029510532,2010,election,kromeriz,Kroměříž,cz,Czechia
+csns,ČSNS,0.0,2010,election,kromeriz,Kroměříž,cz,Czechia
+zeleni,Zelení,0.010040364980835114,2010,election,kromeriz,Kroměříž,cz,Czechia
+suverenita,Suverenita,0.018271655190348585,2010,election,kromeriz,Kroměříž,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,kromeriz,Kroměříž,cz,Czechia
+pirati,Piráti,0.005065409359700598,2010,election,kromeriz,Kroměříž,cz,Czechia
+dsss,DSSS,0.008310437230758794,2010,election,kromeriz,Kroměříž,cz,Czechia
+svobodni,Svobodní,0.0027701457435862645,2010,election,kromeriz,Kroměříž,cz,Czechia
+kh,KH,0.0,2010,election,kromeriz,Kroměříž,cz,Czechia
+ods,ODS,0.11504584873873568,2010,election,kromeriz,Kroměříž,cz,Czechia
+non-voters,Non voters,0.37187133440169173,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+obcane,Občané,0.002643361033554164,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+liberalove,Liberálové,0.00031389912273455697,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+vv,VV,0.055741875795073434,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+kons,KONS,0.0004460671744122652,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+kscm,KSČM,0.08093641064613656,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+kc,KČ,0.0008095293165259628,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+csns,ČSNS,0.0,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+cssd,ČSSD,0.17695650018999157,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+np,NP,0.0,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+spr-rsc,SPR-RSČ,0.0010243024005022385,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+moravane,Moravané,0.0,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+stop,STOP,0.00047910918733169223,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+spoz,SPOZ,0.027259660658527318,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+top-09,TOP 09,0.0818450660014208,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+es,ES,0.0,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+kdu-csl,KDU-ČSL,0.01630623337573725,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+pb,PB,0.003832873498653538,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+csns,ČSNS,0.0004460671744122652,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+zeleni,Zelení,0.010226502998562672,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+suverenita,Suverenita,0.026648383419517918,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+pirati,Piráti,0.00487369690561549,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+dsss,DSSS,0.006360587486989707,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+svobodni,Svobodní,0.003998083563250673,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+kh,KH,0.0,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+ods,ODS,0.12698045564935817,2010,election,kutna-hora,Kutná Hora,cz,Czechia
+non-voters,Non voters,0.3838198200879471,2010,election,liberec,Liberec,cz,Czechia
+obcane,Občané,0.0017113222568620303,2010,election,liberec,Liberec,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,liberec,Liberec,cz,Czechia
+vv,VV,0.07756010089360783,2010,election,liberec,Liberec,cz,Czechia
+kons,KONS,0.0006250046503322197,2010,election,liberec,Liberec,cz,Czechia
+kscm,KSČM,0.05946472816017977,2010,election,liberec,Liberec,cz,Czechia
+kc,KČ,0.0,2010,election,liberec,Liberec,cz,Czechia
+csns,ČSNS,0.0,2010,election,liberec,Liberec,cz,Czechia
+cssd,ČSSD,0.12416759053266765,2010,election,liberec,Liberec,cz,Czechia
+np,NP,0.0005580398663680533,2010,election,liberec,Liberec,cz,Czechia
+spr-rsc,SPR-RSČ,0.0019122166087545294,2010,election,liberec,Liberec,cz,Czechia
+moravane,Moravané,0.0,2010,election,liberec,Liberec,cz,Czechia
+stop,STOP,0.0003199428567176839,2010,election,liberec,Liberec,cz,Czechia
+spoz,SPOZ,0.02472488634588055,2010,election,liberec,Liberec,cz,Czechia
+top-09,TOP 09,0.12754559185708228,2010,election,liberec,Liberec,cz,Czechia
+es,ES,0.0,2010,election,liberec,Liberec,cz,Czechia
+kdu-csl,KDU-ČSL,0.010215849820311164,2010,election,liberec,Liberec,cz,Czechia
+pb,PB,0.0035491335501008194,2010,election,liberec,Liberec,cz,Czechia
+csns,ČSNS,0.0,2010,election,liberec,Liberec,cz,Czechia
+zeleni,Zelení,0.017209949478790766,2010,election,liberec,Liberec,cz,Czechia
+suverenita,Suverenita,0.028065685012537294,2010,election,liberec,Liberec,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,liberec,Liberec,cz,Czechia
+pirati,Piráti,0.005677125573850996,2010,election,liberec,Liberec,cz,Czechia
+dsss,DSSS,0.007462853146228766,2010,election,liberec,Liberec,cz,Czechia
+svobodni,Svobodní,0.004181578731984613,2010,election,liberec,Liberec,cz,Czechia
+kh,KH,0.0,2010,election,liberec,Liberec,cz,Czechia
+ods,ODS,0.12122858056979591,2010,election,liberec,Liberec,cz,Czechia
+non-voters,Non voters,0.4049047413202315,2010,election,litomerice,Litoměřice,cz,Czechia
+obcane,Občané,0.0,2010,election,litomerice,Litoměřice,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,litomerice,Litoměřice,cz,Czechia
+vv,VV,0.06059232237181988,2010,election,litomerice,Litoměřice,cz,Czechia
+kons,KONS,0.0003373854734467089,2010,election,litomerice,Litoměřice,cz,Czechia
+kscm,KSČM,0.08784674264868683,2010,election,litomerice,Litoměřice,cz,Czechia
+kc,KČ,0.0,2010,election,litomerice,Litoměřice,cz,Czechia
+csns,ČSNS,0.0,2010,election,litomerice,Litoměřice,cz,Czechia
+cssd,ČSSD,0.13507016563518087,2010,election,litomerice,Litoměřice,cz,Czechia
+np,NP,0.0,2010,election,litomerice,Litoměřice,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,litomerice,Litoměřice,cz,Czechia
+moravane,Moravané,0.0,2010,election,litomerice,Litoměřice,cz,Czechia
+stop,STOP,0.0004111885457631765,2010,election,litomerice,Litoměřice,cz,Czechia
+spoz,SPOZ,0.032800193996647235,2010,election,litomerice,Litoměřice,cz,Czechia
+top-09,TOP 09,0.0824591183695847,2010,election,litomerice,Litoměřice,cz,Czechia
+es,ES,0.0,2010,election,litomerice,Litoměřice,cz,Czechia
+kdu-csl,KDU-ČSL,0.008455723428258143,2010,election,litomerice,Litoměřice,cz,Czechia
+pb,PB,0.0028466899322066065,2010,election,litomerice,Litoměřice,cz,Czechia
+csns,ČSNS,0.0,2010,election,litomerice,Litoměřice,cz,Czechia
+zeleni,Zelení,0.01369574156272734,2010,election,litomerice,Litoměřice,cz,Czechia
+suverenita,Suverenita,0.030290889537887333,2010,election,litomerice,Litoměřice,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,litomerice,Litoměřice,cz,Czechia
+pirati,Piráti,0.0056512066802323745,2010,election,litomerice,Litoměřice,cz,Czechia
+dsss,DSSS,0.009119951079106351,2010,election,litomerice,Litoměřice,cz,Czechia
+svobodni,Svobodní,0.005387624279102133,2010,election,litomerice,Litoměřice,cz,Czechia
+kh,KH,0.0,2010,election,litomerice,Litoměřice,cz,Czechia
+ods,ODS,0.12013031513911879,2010,election,litomerice,Litoměřice,cz,Czechia
+non-voters,Non voters,0.4334857484722875,2010,election,louny,Louny,cz,Czechia
+obcane,Občané,0.0,2010,election,louny,Louny,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,louny,Louny,cz,Czechia
+vv,VV,0.054427873452701454,2010,election,louny,Louny,cz,Czechia
+kons,KONS,0.00045582097631155364,2010,election,louny,Louny,cz,Czechia
+kscm,KSČM,0.09565118299787759,2010,election,louny,Louny,cz,Czechia
+kc,KČ,0.0,2010,election,louny,Louny,cz,Czechia
+csns,ČSNS,0.0,2010,election,louny,Louny,cz,Czechia
+cssd,ČSSD,0.14288563166816232,2010,election,louny,Louny,cz,Czechia
+np,NP,0.0,2010,election,louny,Louny,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,louny,Louny,cz,Czechia
+moravane,Moravané,0.0,2010,election,louny,Louny,cz,Czechia
+stop,STOP,0.0003845989487628734,2010,election,louny,Louny,cz,Czechia
+spoz,SPOZ,0.030668205062461717,2010,election,louny,Louny,cz,Czechia
+top-09,TOP 09,0.06588037548252923,2010,election,louny,Louny,cz,Czechia
+es,ES,0.0,2010,election,louny,Louny,cz,Czechia
+kdu-csl,KDU-ČSL,0.007022491916299873,2010,election,louny,Louny,cz,Czechia
+pb,PB,0.004016922353745567,2010,election,louny,Louny,cz,Czechia
+csns,ČSNS,0.0,2010,election,louny,Louny,cz,Czechia
+zeleni,Zelení,0.011395524407788842,2010,election,louny,Louny,cz,Czechia
+suverenita,Suverenita,0.03170804666467245,2010,election,louny,Louny,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,louny,Louny,cz,Czechia
+pirati,Piráti,0.0032334800507100836,2010,election,louny,Louny,cz,Czechia
+dsss,DSSS,0.015113314245829951,2010,election,louny,Louny,cz,Czechia
+svobodni,Svobodní,0.005170719200034187,2010,election,louny,Louny,cz,Czechia
+kh,KH,0.0,2010,election,louny,Louny,cz,Czechia
+ods,ODS,0.0985000640998248,2010,election,louny,Louny,cz,Czechia
+non-voters,Non voters,0.40068914901292463,2010,election,melnik,Mělník,cz,Czechia
+obcane,Občané,0.0016420156986652402,2010,election,melnik,Mělník,cz,Czechia
+liberalove,Liberálové,0.0002363507445048452,2010,election,melnik,Mělník,cz,Czechia
+vv,VV,0.07121621117317047,2010,election,melnik,Mělník,cz,Czechia
+kons,KONS,0.0002736692831108734,2010,election,melnik,Mělník,cz,Czechia
+kscm,KSČM,0.06838000223911232,2010,election,melnik,Mělník,cz,Czechia
+kc,KČ,0.0007339312592518877,2010,election,melnik,Mělník,cz,Czechia
+csns,ČSNS,0.0,2010,election,melnik,Mělník,cz,Czechia
+cssd,ČSSD,0.11797634004652378,2010,election,melnik,Mělník,cz,Czechia
+np,NP,0.0,2010,election,melnik,Mělník,cz,Czechia
+spr-rsc,SPR-RSČ,0.0013061488512109865,2010,election,melnik,Mělník,cz,Czechia
+moravane,Moravané,0.0,2010,election,melnik,Mělník,cz,Czechia
+stop,STOP,0.0003731853860602819,2010,election,melnik,Mělník,cz,Czechia
+spoz,SPOZ,0.02353555834753511,2010,election,melnik,Mělník,cz,Czechia
+top-09,TOP 09,0.09718991404296608,2010,election,melnik,Mělník,cz,Czechia
+es,ES,0.0,2010,election,melnik,Mělník,cz,Czechia
+kdu-csl,KDU-ČSL,0.00906840488126485,2010,election,melnik,Mělník,cz,Czechia
+pb,PB,0.0030601201656943115,2010,election,melnik,Mělník,cz,Czechia
+csns,ČSNS,0.00034830636032292975,2010,election,melnik,Mělník,cz,Czechia
+zeleni,Zelení,0.01364614561693764,2010,election,melnik,Mělník,cz,Czechia
+suverenita,Suverenita,0.02960604062744903,2010,election,melnik,Mělník,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,melnik,Mělník,cz,Czechia
+pirati,Piráti,0.00480165196730896,2010,election,melnik,Mělník,cz,Czechia
+dsss,DSSS,0.007824453594397244,2010,election,melnik,Mělník,cz,Czechia
+svobodni,Svobodní,0.0048389705059149885,2010,election,melnik,Mělník,cz,Czechia
+kh,KH,0.0,2010,election,melnik,Mělník,cz,Czechia
+ods,ODS,0.14325343019567355,2010,election,melnik,Mělník,cz,Czechia
+non-voters,Non voters,0.3688185864680824,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+obcane,Občané,0.0012535455153878023,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+liberalove,Liberálové,0.0003186980123867294,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+vv,VV,0.07332178938310688,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+kons,KONS,0.0002018420745115953,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+kscm,KSČM,0.06575802322246184,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+kc,KČ,0.0008498613663646118,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+csns,ČSNS,0.0,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+cssd,ČSSD,0.13573348347550807,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+np,NP,0.0,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+spr-rsc,SPR-RSČ,0.0026664400369689695,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+moravane,Moravané,0.0,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+stop,STOP,0.0004036841490231906,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+spoz,SPOZ,0.019525564892226954,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+top-09,TOP 09,0.09545005470982545,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+es,ES,0.0,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+kdu-csl,KDU-ČSL,0.007723115166838409,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+pb,PB,0.002772672707764546,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+csns,ČSNS,0.0004886702856596517,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+zeleni,Zelení,0.013098488309094578,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+suverenita,Suverenita,0.036055368468018656,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+pirati,Piráti,0.004408655838016424,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+dsss,DSSS,0.006416453316052819,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+svobodni,Svobodní,0.004206813763504828,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+kh,KH,0.0,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+ods,ODS,0.16052818883919562,2010,election,mlada-boleslav,Mladá Boleslav,cz,Czechia
+non-voters,Non voters,0.46783248370652386,2010,election,most,Most,cz,Czechia
+obcane,Občané,0.0,2010,election,most,Most,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,most,Most,cz,Czechia
+vv,VV,0.07325073670172721,2010,election,most,Most,cz,Czechia
+kons,KONS,0.0003118883224710159,2010,election,most,Most,cz,Czechia
+kscm,KSČM,0.07669226301864877,2010,election,most,Most,cz,Czechia
+kc,KČ,0.0,2010,election,most,Most,cz,Czechia
+csns,ČSNS,0.0,2010,election,most,Most,cz,Czechia
+cssd,ČSSD,0.13822030070336194,2010,election,most,Most,cz,Czechia
+np,NP,0.0,2010,election,most,Most,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,most,Most,cz,Czechia
+moravane,Moravané,0.0,2010,election,most,Most,cz,Czechia
+stop,STOP,0.0003333978619517756,2010,election,most,Most,cz,Czechia
+spoz,SPOZ,0.026800886193026608,2010,election,most,Most,cz,Czechia
+top-09,TOP 09,0.054849325675937276,2010,election,most,Most,cz,Czechia
+es,ES,0.0,2010,election,most,Most,cz,Czechia
+kdu-csl,KDU-ČSL,0.003398507237960035,2010,election,most,Most,cz,Czechia
+pb,PB,0.002344539803402809,2010,election,most,Most,cz,Czechia
+csns,ČSNS,0.0,2010,election,most,Most,cz,Czechia
+zeleni,Zelení,0.016411778623819664,2010,election,most,Most,cz,Czechia
+suverenita,Suverenita,0.030995246391774752,2010,election,most,Most,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,most,Most,cz,Czechia
+pirati,Piráti,0.0037426598696521907,2010,election,most,Most,cz,Czechia
+dsss,DSSS,0.02116538684906756,2010,election,most,Most,cz,Czechia
+svobodni,Svobodní,0.004689079606805618,2010,election,most,Most,cz,Czechia
+kh,KH,0.0,2010,election,most,Most,cz,Czechia
+ods,ODS,0.07896151943386892,2010,election,most,Most,cz,Czechia
+non-voters,Non voters,0.36570675701110483,2010,election,nachod,Náchod,cz,Czechia
+obcane,Občané,0.0027014758472558983,2010,election,nachod,Náchod,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,nachod,Náchod,cz,Czechia
+vv,VV,0.08465362429556803,2010,election,nachod,Náchod,cz,Czechia
+kons,KONS,0.0004207216483431317,2010,election,nachod,Náchod,cz,Czechia
+kscm,KSČM,0.05755029284441049,2010,election,nachod,Náchod,cz,Czechia
+kc,KČ,0.0,2010,election,nachod,Náchod,cz,Czechia
+csns,ČSNS,0.0,2010,election,nachod,Náchod,cz,Czechia
+cssd,ČSSD,0.12052568062798241,2010,election,nachod,Náchod,cz,Czechia
+np,NP,0.0,2010,election,nachod,Náchod,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,nachod,Náchod,cz,Czechia
+moravane,Moravané,0.0,2010,election,nachod,Náchod,cz,Czechia
+stop,STOP,0.0003210770474197584,2010,election,nachod,Náchod,cz,Czechia
+spoz,SPOZ,0.022641467654255377,2010,election,nachod,Náchod,cz,Czechia
+top-09,TOP 09,0.11164623952347738,2010,election,nachod,Náchod,cz,Czechia
+es,ES,0.000431793270667951,2010,election,nachod,Náchod,cz,Czechia
+kdu-csl,KDU-ČSL,0.03939283223170691,2010,election,nachod,Náchod,cz,Czechia
+pb,PB,0.004716511110373003,2010,election,nachod,Náchod,cz,Czechia
+csns,ČSNS,0.0,2010,election,nachod,Náchod,cz,Czechia
+zeleni,Zelení,0.01429346442134166,2010,election,nachod,Náchod,cz,Czechia
+suverenita,Suverenita,0.02186645409151803,2010,election,nachod,Náchod,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,nachod,Náchod,cz,Czechia
+pirati,Piráti,0.005081874647092038,2010,election,nachod,Náchod,cz,Czechia
+dsss,DSSS,0.011093765569468894,2010,election,nachod,Náchod,cz,Czechia
+svobodni,Svobodní,0.005546882784734447,2010,election,nachod,Náchod,cz,Czechia
+kh,KH,0.0,2010,election,nachod,Náchod,cz,Czechia
+ods,ODS,0.13140908537327975,2010,election,nachod,Náchod,cz,Czechia
+non-voters,Non voters,0.3882724152269447,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+obcane,Občané,0.0015164980309985243,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+vv,VV,0.079200332651181,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+kons,KONS,0.0004973461284457526,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+kscm,KSČM,0.07389258954268615,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+kc,KČ,0.0,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+csns,ČSNS,0.0,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+cssd,ČSSD,0.14890216957057015,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+np,NP,0.0,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+moravane,Moravané,0.003008536416335782,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+stop,STOP,0.00029351574793519826,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+spoz,SPOZ,0.02494883857449185,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+top-09,TOP 09,0.06348093370620704,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+es,ES,0.0,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+kdu-csl,KDU-ČSL,0.040366568556310184,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+pb,PB,0.0026497949466372066,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+csns,ČSNS,0.0,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+zeleni,Zelení,0.015385117120936641,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+suverenita,Suverenita,0.023978605963261613,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+pirati,Piráti,0.005144678804086392,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+dsss,DSSS,0.006106758200096208,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+svobodni,Svobodní,0.002348125983481586,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+kh,KH,0.0,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+ods,ODS,0.12000717482939398,2010,election,novy-jicin,Nový Jičín,cz,Czechia
+non-voters,Non voters,0.3731351417632873,2010,election,nymburk,Nymburk,cz,Czechia
+obcane,Občané,0.0013352044361486163,2010,election,nymburk,Nymburk,cz,Czechia
+liberalove,Liberálové,0.0002588661661920787,2010,election,nymburk,Nymburk,cz,Czechia
+vv,VV,0.07091570500156683,2010,election,nymburk,Nymburk,cz,Czechia
+kons,KONS,0.00036786244669400654,2010,election,nymburk,Nymburk,cz,Czechia
+kscm,KSČM,0.06500265678433724,2010,election,nymburk,Nymburk,cz,Czechia
+kc,KČ,0.0011308364102075017,2010,election,nymburk,Nymburk,cz,Czechia
+csns,ČSNS,0.0,2010,election,nymburk,Nymburk,cz,Czechia
+cssd,ČSSD,0.12887447715846698,2010,election,nymburk,Nymburk,cz,Czechia
+np,NP,0.0,2010,election,nymburk,Nymburk,cz,Czechia
+spr-rsc,SPR-RSČ,0.0013897025763995804,2010,election,nymburk,Nymburk,cz,Czechia
+moravane,Moravané,0.0,2010,election,nymburk,Nymburk,cz,Czechia
+stop,STOP,0.0004087360518822295,2010,election,nymburk,Nymburk,cz,Czechia
+spoz,SPOZ,0.02156763900431898,2010,election,nymburk,Nymburk,cz,Czechia
+top-09,TOP 09,0.10722509094377154,2010,election,nymburk,Nymburk,cz,Czechia
+es,ES,0.0,2010,election,nymburk,Nymburk,cz,Czechia
+kdu-csl,KDU-ČSL,0.012670817608349115,2010,election,nymburk,Nymburk,cz,Czechia
+pb,PB,0.003174516669618649,2010,election,nymburk,Nymburk,cz,Czechia
+csns,ČSNS,0.0004904832622586754,2010,election,nymburk,Nymburk,cz,Czechia
+zeleni,Zelení,0.015382100085834571,2010,election,nymburk,Nymburk,cz,Czechia
+suverenita,Suverenita,0.0321130291428805,2010,election,nymburk,Nymburk,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,nymburk,Nymburk,cz,Czechia
+pirati,Piráti,0.004550594710955489,2010,election,nymburk,Nymburk,cz,Czechia
+dsss,DSSS,0.0060629181029197374,2010,election,nymburk,Nymburk,cz,Czechia
+svobodni,Svobodní,0.00624003705873537,2010,election,nymburk,Nymburk,cz,Czechia
+kh,KH,0.0,2010,election,nymburk,Nymburk,cz,Czechia
+ods,ODS,0.14770358461517502,2010,election,nymburk,Nymburk,cz,Czechia
+non-voters,Non voters,0.37320820107362207,2010,election,olomouc,Olomouc,cz,Czechia
+obcane,Občané,0.0015049786176453443,2010,election,olomouc,Olomouc,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,olomouc,Olomouc,cz,Czechia
+vv,VV,0.07424737821066521,2010,election,olomouc,Olomouc,cz,Czechia
+kons,KONS,0.0005617173713746708,2010,election,olomouc,Olomouc,cz,Czechia
+kscm,KSČM,0.07365386551638255,2010,election,olomouc,Olomouc,cz,Czechia
+kc,KČ,0.0011976238295346754,2010,election,olomouc,Olomouc,cz,Czechia
+csns,ČSNS,0.0,2010,election,olomouc,Olomouc,cz,Czechia
+cssd,ČSSD,0.1473077310327651,2010,election,olomouc,Olomouc,cz,Czechia
+np,NP,0.0,2010,election,olomouc,Olomouc,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,olomouc,Olomouc,cz,Czechia
+moravane,Moravané,0.004313565474518698,2010,election,olomouc,Olomouc,cz,Czechia
+stop,STOP,0.0003179532290800023,2010,election,olomouc,Olomouc,cz,Czechia
+spoz,SPOZ,0.02906622435839688,2010,election,olomouc,Olomouc,cz,Czechia
+top-09,TOP 09,0.09467587317905536,2010,election,olomouc,Olomouc,cz,Czechia
+es,ES,0.0,2010,election,olomouc,Olomouc,cz,Czechia
+kdu-csl,KDU-ČSL,0.033093631926743576,2010,election,olomouc,Olomouc,cz,Czechia
+pb,PB,0.002665507903787353,2010,election,olomouc,Olomouc,cz,Czechia
+csns,ČSNS,0.0,2010,election,olomouc,Olomouc,cz,Czechia
+zeleni,Zelení,0.013550106779292767,2010,election,olomouc,Olomouc,cz,Czechia
+suverenita,Suverenita,0.02475795810436285,2010,election,olomouc,Olomouc,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,olomouc,Olomouc,cz,Czechia
+pirati,Piráti,0.005431700996783373,2010,election,olomouc,Olomouc,cz,Czechia
+dsss,DSSS,0.006390859904508047,2010,election,olomouc,Olomouc,cz,Czechia
+svobodni,Svobodní,0.004032706788831363,2010,election,olomouc,Olomouc,cz,Czechia
+kh,KH,0.0,2010,election,olomouc,Olomouc,cz,Czechia
+ods,ODS,0.11002241570265014,2010,election,olomouc,Olomouc,cz,Czechia
+non-voters,Non voters,0.3941114238101494,2010,election,opava,Opava,cz,Czechia
+obcane,Občané,0.003941390826931454,2010,election,opava,Opava,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,opava,Opava,cz,Czechia
+vv,VV,0.07529439423588878,2010,election,opava,Opava,cz,Czechia
+kons,KONS,0.0005808365429162143,2010,election,opava,Opava,cz,Czechia
+kscm,KSČM,0.06277183495944516,2010,election,opava,Opava,cz,Czechia
+kc,KČ,0.0,2010,election,opava,Opava,cz,Czechia
+csns,ČSNS,0.0,2010,election,opava,Opava,cz,Czechia
+cssd,ČSSD,0.15437114072148198,2010,election,opava,Opava,cz,Czechia
+np,NP,0.0,2010,election,opava,Opava,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,opava,Opava,cz,Czechia
+moravane,Moravané,0.002129733990692786,2010,election,opava,Opava,cz,Czechia
+stop,STOP,0.00029041827145810716,2010,election,opava,Opava,cz,Czechia
+spoz,SPOZ,0.024007910440536857,2010,election,opava,Opava,cz,Czechia
+top-09,TOP 09,0.0696243232217067,2010,election,opava,Opava,cz,Czechia
+es,ES,0.0,2010,election,opava,Opava,cz,Czechia
+kdu-csl,KDU-ČSL,0.042622338696851725,2010,election,opava,Opava,cz,Czechia
+pb,PB,0.002281857847170842,2010,election,opava,Opava,cz,Czechia
+csns,ČSNS,0.0,2010,election,opava,Opava,cz,Czechia
+zeleni,Zelení,0.01178959887704935,2010,election,opava,Opava,cz,Czechia
+suverenita,Suverenita,0.02888970328933266,2010,election,opava,Opava,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,opava,Opava,cz,Czechia
+pirati,Piráti,0.003899902502437439,2010,election,opava,Opava,cz,Czechia
+dsss,DSSS,0.009120516667934366,2010,election,opava,Opava,cz,Czechia
+svobodni,Svobodní,0.0027036558128599977,2010,election,opava,Opava,cz,Czechia
+kh,KH,0.0,2010,election,opava,Opava,cz,Czechia
+ods,ODS,0.11156901928515617,2010,election,opava,Opava,cz,Czechia
+non-voters,Non voters,0.4249651115514646,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+obcane,Občané,0.0017288554024899913,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+vv,VV,0.065081149981869,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+kons,KONS,0.0005933783372952937,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+kscm,KSČM,0.07073655833238711,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+kc,KČ,0.0,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+csns,ČSNS,0.0,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+cssd,ČSSD,0.1620472285202536,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+np,NP,0.0,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+moravane,Moravané,0.0015896678912725767,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+stop,STOP,0.0002783750224348291,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+spoz,SPOZ,0.028170819704556194,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+top-09,TOP 09,0.061956756637962296,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+es,ES,0.0,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+kdu-csl,KDU-ČSL,0.01843135674857974,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+pb,PB,0.0018607172552222789,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+csns,ČSNS,0.0,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+zeleni,Zelení,0.012398676986077587,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+suverenita,Suverenita,0.02429920919516653,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+pirati,Piráti,0.00435510396940805,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+dsss,DSSS,0.008666253987905338,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+svobodni,Svobodní,0.0022233373502360695,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+kh,KH,0.0,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+ods,ODS,0.11061744312541893,2010,election,ostrava-mesto,Ostrava-město,cz,Czechia
+non-voters,Non voters,0.3475515665650369,2010,election,pardubice,Pardubice,cz,Czechia
+obcane,Občané,0.0015803558782529613,2010,election,pardubice,Pardubice,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,pardubice,Pardubice,cz,Czechia
+vv,VV,0.0779443446368536,2010,election,pardubice,Pardubice,cz,Czechia
+kons,KONS,0.0004323615138616592,2010,election,pardubice,Pardubice,cz,Czechia
+kscm,KSČM,0.06757512281303346,2010,election,pardubice,Pardubice,cz,Czechia
+kc,KČ,0.0,2010,election,pardubice,Pardubice,cz,Czechia
+csns,ČSNS,0.0,2010,election,pardubice,Pardubice,cz,Czechia
+cssd,ČSSD,0.13546333499817365,2010,election,pardubice,Pardubice,cz,Czechia
+np,NP,0.0,2010,election,pardubice,Pardubice,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,pardubice,Pardubice,cz,Czechia
+moravane,Moravané,0.0,2010,election,pardubice,Pardubice,cz,Czechia
+stop,STOP,0.0003578164252648214,2010,election,pardubice,Pardubice,cz,Czechia
+spoz,SPOZ,0.037108545103505856,2010,election,pardubice,Pardubice,cz,Czechia
+top-09,TOP 09,0.11357689698614207,2010,election,pardubice,Pardubice,cz,Czechia
+es,ES,0.0,2010,election,pardubice,Pardubice,cz,Czechia
+kdu-csl,KDU-ČSL,0.021193168688080986,2010,election,pardubice,Pardubice,cz,Czechia
+pb,PB,0.0034812556374723253,2010,election,pardubice,Pardubice,cz,Czechia
+csns,ČSNS,0.0,2010,election,pardubice,Pardubice,cz,Czechia
+zeleni,Zelení,0.013477752018308274,2010,election,pardubice,Pardubice,cz,Czechia
+suverenita,Suverenita,0.022378435596770708,2010,election,pardubice,Pardubice,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,pardubice,Pardubice,cz,Czechia
+pirati,Piráti,0.006209605880116588,2010,election,pardubice,Pardubice,cz,Czechia
+dsss,DSSS,0.006641967393978248,2010,election,pardubice,Pardubice,cz,Czechia
+svobodni,Svobodní,0.0050094299537075,2010,election,pardubice,Pardubice,cz,Czechia
+kh,KH,0.0,2010,election,pardubice,Pardubice,cz,Czechia
+ods,ODS,0.14001803991144043,2010,election,pardubice,Pardubice,cz,Czechia
+non-voters,Non voters,0.34336615572023144,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+obcane,Občané,0.00169187561330491,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+vv,VV,0.06782729333739383,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+kons,KONS,0.00030453761039488374,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+kscm,KSČM,0.08902649477210435,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+kc,KČ,0.0,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+csns,ČSNS,0.0,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+cssd,ČSSD,0.15328393056542483,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+np,NP,0.0,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+moravane,Moravané,0.0,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+stop,STOP,0.00032145636652793286,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+spoz,SPOZ,0.030166142185226542,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+top-09,TOP 09,0.09374682773322505,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+es,ES,0.0,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+kdu-csl,KDU-ČSL,0.039133082935742566,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+pb,PB,0.0035021825195411635,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+csns,ČSNS,0.0,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+zeleni,Zelení,0.009677528508104084,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+suverenita,Suverenita,0.023940039928264475,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+pirati,Piráti,0.00598923967109938,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+dsss,DSSS,0.005295570669644368,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+svobodni,Svobodní,0.004906439278584238,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+kh,KH,0.0,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+ods,ODS,0.12782120258518595,2010,election,pelhrimov,Pelhřimov,cz,Czechia
+non-voters,Non voters,0.37207093643694633,2010,election,pisek,Písek,cz,Czechia
+obcane,Občané,0.0016059125209373004,2010,election,pisek,Písek,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,pisek,Písek,cz,Czechia
+vv,VV,0.06086926490649445,2010,election,pisek,Písek,cz,Czechia
+kons,KONS,0.0002762860251074925,2010,election,pisek,Písek,cz,Czechia
+kscm,KSČM,0.0838700764966932,2010,election,pisek,Písek,cz,Czechia
+kc,KČ,0.0,2010,election,pisek,Písek,cz,Czechia
+csns,ČSNS,0.0,2010,election,pisek,Písek,cz,Czechia
+cssd,ČSSD,0.1324100775327658,2010,election,pisek,Písek,cz,Czechia
+np,NP,0.0,2010,election,pisek,Písek,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,pisek,Písek,cz,Czechia
+moravane,Moravané,0.0,2010,election,pisek,Písek,cz,Czechia
+stop,STOP,0.0005353041736457668,2010,election,pisek,Písek,cz,Czechia
+spoz,SPOZ,0.025487385816166185,2010,election,pisek,Písek,cz,Czechia
+top-09,TOP 09,0.10419436721866313,2010,election,pisek,Písek,cz,Czechia
+es,ES,0.00024175027196905597,2010,election,pisek,Písek,cz,Czechia
+kdu-csl,KDU-ČSL,0.022465507416552986,2010,election,pisek,Písek,cz,Czechia
+pb,PB,0.003539914696689748,2010,election,pisek,Písek,cz,Czechia
+csns,ČSNS,0.0,2010,election,pisek,Písek,cz,Czechia
+zeleni,Zelení,0.012691889278375439,2010,election,pisek,Písek,cz,Czechia
+suverenita,Suverenita,0.023311633368444683,2010,election,pisek,Písek,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,pisek,Písek,cz,Czechia
+pirati,Piráti,0.0045932551674120635,2010,election,pisek,Písek,cz,Czechia
+dsss,DSSS,0.008340384382932432,2010,election,pisek,Písek,cz,Czechia
+svobodni,Svobodní,0.007217972405933242,2010,election,pisek,Písek,cz,Czechia
+kh,KH,0.0,2010,election,pisek,Písek,cz,Czechia
+ods,ODS,0.13627808188427068,2010,election,pisek,Písek,cz,Czechia
+non-voters,Non voters,0.38550730544291156,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+obcane,Občané,0.0015894687506368063,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+vv,VV,0.06653353167729709,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+kons,KONS,0.00046868950339290445,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+kscm,KSČM,0.08880647199070772,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+kc,KČ,0.0016302243596274938,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+csns,ČSNS,0.0,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+cssd,ČSSD,0.14056609540888065,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+np,NP,0.0,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+moravane,Moravané,0.0,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+stop,STOP,0.00046868950339290445,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+spoz,SPOZ,0.026042834145049213,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+top-09,TOP 09,0.09267825484482302,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+es,ES,0.0,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+kdu-csl,KDU-ČSL,0.01304179487701995,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+pb,PB,0.004136694312554766,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+csns,ČSNS,0.0034642267642084243,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+zeleni,Zelení,0.010392680292625273,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+suverenita,Suverenita,0.033093554500438126,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+pirati,Piráti,0.005726163063191572,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+dsss,DSSS,0.0076212988812585335,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+svobodni,Svobodní,0.003790271636133923,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+kh,KH,0.0,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+ods,ODS,0.11444175004585005,2010,election,plzen-jih,Plzeň-jih,cz,Czechia
+non-voters,Non voters,0.3654248836880483,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+obcane,Občané,0.0015081839176423854,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+vv,VV,0.05886630353547935,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+kons,KONS,0.00028951744847599363,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+kscm,KSČM,0.05565467974657124,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+kc,KČ,0.0014139224227897363,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+csns,ČSNS,0.0,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+cssd,ČSSD,0.12927964019040822,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+np,NP,0.0,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+moravane,Moravané,0.0,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+stop,STOP,0.0003299152319842718,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+spoz,SPOZ,0.02669620193505383,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+top-09,TOP 09,0.13134666011324844,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+es,ES,0.0,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+kdu-csl,KDU-ČSL,0.014327747217602662,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+pb,PB,0.0028682426290877507,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+csns,ČSNS,0.0007608249227392391,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+zeleni,Zelení,0.013304336702059614,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+suverenita,Suverenita,0.031651663378735956,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+pirati,Piráti,0.005648956727240899,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+dsss,DSSS,0.006019269742733448,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+svobodni,Svobodní,0.004356227654975997,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+kh,KH,0.0,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+ods,ODS,0.15025282279512264,2010,election,plzen-mesto,Plzeň-město,cz,Czechia
+non-voters,Non voters,0.3904935409075853,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+obcane,Občané,0.0015071215634316,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+vv,VV,0.06720768466379595,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+kons,KONS,0.00028155018217952964,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+kscm,KSČM,0.08126863199735011,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+kc,KČ,0.001639615766810202,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+csns,ČSNS,0.0,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+cssd,ČSSD,0.13330573037429613,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+np,NP,0.0,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+moravane,Moravané,0.0,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+stop,STOP,0.0004471679364027824,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+spoz,SPOZ,0.0271944352434581,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+top-09,TOP 09,0.0986916197416363,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+es,ES,0.0,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+kdu-csl,KDU-ČSL,0.010765154024511428,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+pb,PB,0.003958264325935741,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+csns,ČSNS,0.000662471016893011,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+zeleni,Zelení,0.008943358728055647,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+suverenita,Suverenita,0.034216628022524016,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+pirati,Piráti,0.005680688969857569,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+dsss,DSSS,0.007717787346803577,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+svobodni,Svobodní,0.004074196753892017,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+kh,KH,0.0,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+ods,ODS,0.12194435243458099,2010,election,plzen-sever,Plzeň-sever,cz,Czechia
+non-voters,Non voters,0.4007960294434987,2010,election,prachatice,Prachatice,cz,Czechia
+obcane,Občané,0.0018941664468794207,2010,election,prachatice,Prachatice,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,prachatice,Prachatice,cz,Czechia
+vv,VV,0.06025367444313904,2010,election,prachatice,Prachatice,cz,Czechia
+kons,KONS,0.000431582228402906,2010,election,prachatice,Prachatice,cz,Czechia
+kscm,KSČM,0.0821444841393531,2010,election,prachatice,Prachatice,cz,Czechia
+kc,KČ,0.0,2010,election,prachatice,Prachatice,cz,Czechia
+csns,ČSNS,0.0,2010,election,prachatice,Prachatice,cz,Czechia
+cssd,ČSSD,0.13578056441364758,2010,election,prachatice,Prachatice,cz,Czechia
+np,NP,0.0,2010,election,prachatice,Prachatice,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,prachatice,Prachatice,cz,Czechia
+moravane,Moravané,0.0,2010,election,prachatice,Prachatice,cz,Czechia
+stop,STOP,0.0010549787805404368,2010,election,prachatice,Prachatice,cz,Czechia
+spoz,SPOZ,0.02675809816098017,2010,election,prachatice,Prachatice,cz,Czechia
+top-09,TOP 09,0.09032056968854149,2010,election,prachatice,Prachatice,cz,Czechia
+es,ES,0.0004555590188697341,2010,election,prachatice,Prachatice,cz,Czechia
+kdu-csl,KDU-ČSL,0.025703119380439735,2010,election,prachatice,Prachatice,cz,Czechia
+pb,PB,0.0029011916464862014,2010,election,prachatice,Prachatice,cz,Czechia
+csns,ČSNS,0.0,2010,election,prachatice,Prachatice,cz,Czechia
+zeleni,Zelení,0.01306735080442132,2010,election,prachatice,Prachatice,cz,Czechia
+suverenita,Suverenita,0.022298415134150144,2010,election,prachatice,Prachatice,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,prachatice,Prachatice,cz,Czechia
+pirati,Piráti,0.005874313664372887,2010,election,prachatice,Prachatice,cz,Czechia
+dsss,DSSS,0.00558659217877095,2010,election,prachatice,Prachatice,cz,Czechia
+svobodni,Svobodní,0.0052988706931690124,2010,election,prachatice,Prachatice,cz,Czechia
+kh,KH,0.0,2010,election,prachatice,Prachatice,cz,Czechia
+ods,ODS,0.11938043973433717,2010,election,prachatice,Prachatice,cz,Czechia
+non-voters,Non voters,0.3244772692825019,2010,election,praha,Praha,cz,Czechia
+obcane,Občané,0.0013206721224769704,2010,election,praha,Praha,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,praha,Praha,cz,Czechia
+vv,VV,0.06968188336748073,2010,election,praha,Praha,cz,Czechia
+kons,KONS,0.00032433841852163155,2010,election,praha,Praha,cz,Czechia
+kscm,KSČM,0.044142882732582975,2010,election,praha,Praha,cz,Czechia
+kc,KČ,0.0008596028020295529,2010,election,praha,Praha,cz,Czechia
+csns,ČSNS,0.0003126791943264095,2010,election,praha,Praha,cz,Czechia
+cssd,ČSSD,0.1025015395475585,2010,election,praha,Praha,cz,Czechia
+np,NP,0.0,2010,election,praha,Praha,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,praha,Praha,cz,Czechia
+moravane,Moravané,0.0,2010,election,praha,Praha,cz,Czechia
+stop,STOP,0.00020668624709711816,2010,election,praha,Praha,cz,Czechia
+spoz,SPOZ,0.02104065995448663,2010,election,praha,Praha,cz,Czechia
+top-09,TOP 09,0.1842581394634001,2010,election,praha,Praha,cz,Czechia
+es,ES,0.00020774617656941108,2010,election,praha,Praha,cz,Czechia
+kdu-csl,KDU-ČSL,0.014666244108117047,2010,election,praha,Praha,cz,Czechia
+pb,PB,0.002566089252421144,2010,election,praha,Praha,cz,Czechia
+csns,ČSNS,0.0,2010,election,praha,Praha,cz,Czechia
+zeleni,Zelení,0.032357526930158066,2010,election,praha,Praha,cz,Czechia
+suverenita,Suverenita,0.015473910366004246,2010,election,praha,Praha,cz,Czechia
+humaniste,Humanisté,0.0005850810687056884,2010,election,praha,Praha,cz,Czechia
+pirati,Piráti,0.005079182031227642,2010,election,praha,Praha,cz,Czechia
+dsss,DSSS,0.004496220821466539,2010,election,praha,Praha,cz,Czechia
+svobodni,Svobodní,0.006793087987925284,2010,election,praha,Praha,cz,Czechia
+kh,KH,0.0011648624900499121,2010,election,praha,Praha,cz,Czechia
+ods,ODS,0.16748369563489246,2010,election,praha,Praha,cz,Czechia
+non-voters,Non voters,0.30460444245843343,2010,election,praha-vychod,Praha-východ,cz,Czechia
+obcane,Občané,0.0017315533709434173,2010,election,praha-vychod,Praha-východ,cz,Czechia
+liberalove,Liberálové,0.00025135452158856056,2010,election,praha-vychod,Praha-východ,cz,Czechia
+vv,VV,0.08290975441732298,2010,election,praha-vychod,Praha-východ,cz,Czechia
+kons,KONS,0.00024204509486305833,2010,election,praha-vychod,Praha-východ,cz,Czechia
+kscm,KSČM,0.05198383883520453,2010,election,praha-vychod,Praha-východ,cz,Czechia
+kc,KČ,0.0009216332458247222,2010,election,praha-vychod,Praha-východ,cz,Czechia
+csns,ČSNS,0.0,2010,election,praha-vychod,Praha-východ,cz,Czechia
+cssd,ČSSD,0.09692975106592935,2010,election,praha-vychod,Praha-východ,cz,Czechia
+np,NP,0.0,2010,election,praha-vychod,Praha-východ,cz,Czechia
+spr-rsc,SPR-RSČ,0.0008657766854717087,2010,election,praha-vychod,Praha-východ,cz,Czechia
+moravane,Moravané,0.0,2010,election,praha-vychod,Praha-východ,cz,Czechia
+stop,STOP,0.00034444878884358303,2010,election,praha-vychod,Praha-východ,cz,Czechia
+spoz,SPOZ,0.02399039267161928,2010,election,praha-vychod,Praha-východ,cz,Czechia
+top-09,TOP 09,0.16549367889925337,2010,election,praha-vychod,Praha-východ,cz,Czechia
+es,ES,0.0,2010,election,praha-vychod,Praha-východ,cz,Czechia
+kdu-csl,KDU-ČSL,0.011040980096445661,2010,election,praha-vychod,Praha-východ,cz,Czechia
+pb,PB,0.0030348731125137314,2010,election,praha-vychod,Praha-východ,cz,Czechia
+csns,ČSNS,0.0004096147759220987,2010,election,praha-vychod,Praha-východ,cz,Czechia
+zeleni,Zelení,0.01916810962780912,2010,election,praha-vychod,Praha-východ,cz,Czechia
+suverenita,Suverenita,0.02265914464987246,2010,election,praha-vychod,Praha-východ,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,praha-vychod,Praha-východ,cz,Czechia
+pirati,Piráti,0.004757117056731646,2010,election,praha-vychod,Praha-východ,cz,Czechia
+dsss,DSSS,0.00481297361708466,2010,election,praha-vychod,Praha-východ,cz,Czechia
+svobodni,Svobodní,0.007028617177754194,2010,election,praha-vychod,Praha-východ,cz,Czechia
+kh,KH,0.0,2010,election,praha-vychod,Praha-východ,cz,Czechia
+ods,ODS,0.19681989983056844,2010,election,praha-vychod,Praha-východ,cz,Czechia
+non-voters,Non voters,0.2879283329927107,2010,election,praha-zapad,Praha-západ,cz,Czechia
+obcane,Občané,0.0015214478733792038,2010,election,praha-zapad,Praha-západ,cz,Czechia
+liberalove,Liberálové,0.00015895724050230488,2010,election,praha-zapad,Praha-západ,cz,Czechia
+vv,VV,0.07616322637781865,2010,election,praha-zapad,Praha-západ,cz,Czechia
+kons,KONS,0.0002838522151826873,2010,election,praha-zapad,Praha-západ,cz,Czechia
+kscm,KSČM,0.047993732543088766,2010,election,praha-zapad,Praha-západ,cz,Czechia
+kc,KČ,0.0010786384176942117,2010,election,praha-zapad,Praha-západ,cz,Czechia
+csns,ČSNS,0.0,2010,election,praha-zapad,Praha-západ,cz,Czechia
+cssd,ČSSD,0.08990167359266071,2010,election,praha-zapad,Praha-západ,cz,Czechia
+np,NP,0.0,2010,election,praha-zapad,Praha-západ,cz,Czechia
+spr-rsc,SPR-RSČ,0.0006358289620092195,2010,election,praha-zapad,Praha-západ,cz,Czechia
+moravane,Moravané,0.0,2010,election,praha-zapad,Praha-západ,cz,Czechia
+stop,STOP,0.0002384358607534573,2010,election,praha-zapad,Praha-západ,cz,Czechia
+spoz,SPOZ,0.021890682834888844,2010,election,praha-zapad,Praha-západ,cz,Czechia
+top-09,TOP 09,0.18892068033698936,2010,election,praha-zapad,Praha-západ,cz,Czechia
+es,ES,0.0,2010,election,praha-zapad,Praha-západ,cz,Czechia
+kdu-csl,KDU-ČSL,0.011138360923768648,2010,election,praha-zapad,Praha-západ,cz,Czechia
+pb,PB,0.0027022730885391828,2010,election,praha-zapad,Praha-západ,cz,Czechia
+csns,ČSNS,0.0004314553670776847,2010,election,praha-zapad,Praha-západ,cz,Czechia
+zeleni,Zelení,0.025739718872766083,2010,election,praha-zapad,Praha-západ,cz,Czechia
+suverenita,Suverenita,0.02082339850580194,2010,election,praha-zapad,Praha-západ,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,praha-zapad,Praha-západ,cz,Czechia
+pirati,Piráti,0.0049617367213933734,2010,election,praha-zapad,Praha-západ,cz,Czechia
+dsss,DSSS,0.004746009037854532,2010,election,praha-zapad,Praha-západ,cz,Czechia
+svobodni,Svobodní,0.00706224311374526,2010,election,praha-zapad,Praha-západ,cz,Czechia
+kh,KH,0.0,2010,election,praha-zapad,Praha-západ,cz,Czechia
+ods,ODS,0.20567931512137522,2010,election,praha-zapad,Praha-západ,cz,Czechia
+non-voters,Non voters,0.39588424437299036,2010,election,prerov,Přerov,cz,Czechia
+obcane,Občané,0.0013137344970142399,2010,election,prerov,Přerov,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,prerov,Přerov,cz,Czechia
+vv,VV,0.06557648139641709,2010,election,prerov,Přerov,cz,Czechia
+kons,KONS,0.000624712907671107,2010,election,prerov,Přerov,cz,Czechia
+kscm,KSČM,0.08278364722094626,2010,election,prerov,Přerov,cz,Czechia
+kc,KČ,0.0011851171336701883,2010,election,prerov,Přerov,cz,Czechia
+csns,ČSNS,0.0,2010,election,prerov,Přerov,cz,Czechia
+cssd,ČSSD,0.1473771244832338,2010,election,prerov,Přerov,cz,Czechia
+np,NP,0.0,2010,election,prerov,Přerov,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,prerov,Přerov,cz,Czechia
+moravane,Moravané,0.005025264124942581,2010,election,prerov,Přerov,cz,Czechia
+stop,STOP,0.00043178686265502985,2010,election,prerov,Přerov,cz,Czechia
+spoz,SPOZ,0.03006890215893431,2010,election,prerov,Přerov,cz,Czechia
+top-09,TOP 09,0.07208084519981627,2010,election,prerov,Přerov,cz,Czechia
+es,ES,0.0,2010,election,prerov,Přerov,cz,Czechia
+kdu-csl,KDU-ČSL,0.03747358750574185,2010,election,prerov,Přerov,cz,Czechia
+pb,PB,0.0023151125401929262,2010,election,prerov,Přerov,cz,Czechia
+csns,ČSNS,0.0,2010,election,prerov,Přerov,cz,Czechia
+zeleni,Zelení,0.00964630225080386,2010,election,prerov,Přerov,cz,Czechia
+suverenita,Suverenita,0.028736793752870922,2010,election,prerov,Přerov,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,prerov,Přerov,cz,Czechia
+pirati,Piráti,0.0042259990813045475,2010,election,prerov,Přerov,cz,Czechia
+dsss,DSSS,0.008056959118052365,2010,election,prerov,Přerov,cz,Czechia
+svobodni,Svobodní,0.00264584290307763,2010,election,prerov,Přerov,cz,Czechia
+kh,KH,0.0,2010,election,prerov,Přerov,cz,Czechia
+ods,ODS,0.10454754248966468,2010,election,prerov,Přerov,cz,Czechia
+non-voters,Non voters,0.35849281260824384,2010,election,pribram,Příbram,cz,Czechia
+obcane,Občané,0.002229823346033945,2010,election,pribram,Příbram,cz,Czechia
+liberalove,Liberálové,0.00035720471077242813,2010,election,pribram,Příbram,cz,Czechia
+vv,VV,0.06727355386214064,2010,election,pribram,Příbram,cz,Czechia
+kons,KONS,0.00028143401454797367,2010,election,pribram,Příbram,cz,Czechia
+kscm,KSČM,0.07685313474194666,2010,election,pribram,Příbram,cz,Czechia
+kc,KČ,0.0011906823692414271,2010,election,pribram,Příbram,cz,Czechia
+csns,ČSNS,0.0,2010,election,pribram,Příbram,cz,Czechia
+cssd,ČSSD,0.14720081399376517,2010,election,pribram,Příbram,cz,Czechia
+np,NP,0.0,2010,election,pribram,Příbram,cz,Czechia
+spr-rsc,SPR-RSČ,0.0009200727398683755,2010,election,pribram,Příbram,cz,Czechia
+moravane,Moravané,0.0,2010,election,pribram,Příbram,cz,Czechia
+stop,STOP,0.00041132663664703847,2010,election,pribram,Příbram,cz,Czechia
+spoz,SPOZ,0.023770349844128853,2010,election,pribram,Příbram,cz,Czechia
+top-09,TOP 09,0.09220211291998615,2010,election,pribram,Příbram,cz,Czechia
+es,ES,0.0,2010,election,pribram,Příbram,cz,Czechia
+kdu-csl,KDU-ČSL,0.023402320748181504,2010,election,pribram,Příbram,cz,Czechia
+pb,PB,0.003344735019050918,2010,election,pribram,Příbram,cz,Czechia
+csns,ČSNS,0.00037885348112227224,2010,election,pribram,Příbram,cz,Czechia
+zeleni,Zelení,0.013920159334949774,2010,election,pribram,Příbram,cz,Czechia
+suverenita,Suverenita,0.032960252857637685,2010,election,pribram,Příbram,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,pribram,Příbram,cz,Czechia
+pirati,Piráti,0.005293124350536889,2010,election,pribram,Příbram,cz,Czechia
+dsss,DSSS,0.0069167821267751995,2010,election,pribram,Příbram,cz,Czechia
+svobodni,Svobodní,0.004589539314166956,2010,election,pribram,Příbram,cz,Czechia
+kh,KH,0.0,2010,election,pribram,Příbram,cz,Czechia
+ods,ODS,0.13801091098025633,2010,election,pribram,Příbram,cz,Czechia
+non-voters,Non voters,0.37592443189458113,2010,election,prostejov,Prostějov,cz,Czechia
+obcane,Občané,0.0015687329120164942,2010,election,prostejov,Prostějov,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,prostejov,Prostějov,cz,Czechia
+vv,VV,0.06529290484514365,2010,election,prostejov,Prostějov,cz,Czechia
+kons,KONS,0.0006050826946349334,2010,election,prostejov,Prostějov,cz,Czechia
+kscm,KSČM,0.08687418762045628,2010,election,prostejov,Prostějov,cz,Czechia
+kc,KČ,0.00330554435032047,2010,election,prostejov,Prostějov,cz,Czechia
+csns,ČSNS,0.0,2010,election,prostejov,Prostějov,cz,Czechia
+cssd,ČSSD,0.16397741024606696,2010,election,prostejov,Prostějov,cz,Czechia
+np,NP,0.0,2010,election,prostejov,Prostějov,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,prostejov,Prostějov,cz,Czechia
+moravane,Moravané,0.007933306440769127,2010,election,prostejov,Prostějov,cz,Czechia
+stop,STOP,0.00029133611223163463,2010,election,prostejov,Prostějov,cz,Czechia
+spoz,SPOZ,0.027127874142799515,2010,election,prostejov,Prostějov,cz,Czechia
+top-09,TOP 09,0.07505266460490341,2010,election,prostejov,Prostějov,cz,Czechia
+es,ES,0.0,2010,election,prostejov,Prostějov,cz,Czechia
+kdu-csl,KDU-ČSL,0.039756174084532296,2010,election,prostejov,Prostějov,cz,Czechia
+pb,PB,0.0021289946663080993,2010,election,prostejov,Prostějov,cz,Czechia
+csns,ČSNS,0.0,2010,election,prostejov,Prostějov,cz,Czechia
+zeleni,Zelení,0.009233113710725651,2010,election,prostejov,Prostějov,cz,Czechia
+suverenita,Suverenita,0.018443816951279637,2010,election,prostejov,Prostějov,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,prostejov,Prostějov,cz,Czechia
+pirati,Piráti,0.005075971493881942,2010,election,prostejov,Prostějov,cz,Czechia
+dsss,DSSS,0.009782170229931424,2010,election,prostejov,Prostějov,cz,Czechia
+svobodni,Svobodní,0.002689256420599704,2010,election,prostejov,Prostějov,cz,Czechia
+kh,KH,0.0,2010,election,prostejov,Prostějov,cz,Czechia
+ods,ODS,0.10493702657881762,2010,election,prostejov,Prostějov,cz,Czechia
+non-voters,Non voters,0.38434778654418955,2010,election,rakovnik,Rakovník,cz,Czechia
+obcane,Občané,0.001614333462176849,2010,election,rakovnik,Rakovník,cz,Czechia
+liberalove,Liberálové,0.00020463381914917806,2010,election,rakovnik,Rakovník,cz,Czechia
+vv,VV,0.0645506013960574,2010,election,rakovnik,Rakovník,cz,Czechia
+kons,KONS,0.0003637934562652054,2010,election,rakovnik,Rakovník,cz,Czechia
+kscm,KSČM,0.0976330688251745,2010,election,rakovnik,Rakovník,cz,Czechia
+kc,KČ,0.0006593756394806848,2010,election,rakovnik,Rakovník,cz,Czechia
+csns,ČSNS,0.0,2010,election,rakovnik,Rakovník,cz,Czechia
+cssd,ČSSD,0.1489052090675519,2010,election,rakovnik,Rakovník,cz,Czechia
+np,NP,0.0,2010,election,rakovnik,Rakovník,cz,Czechia
+spr-rsc,SPR-RSČ,0.0009322207316795889,2010,election,rakovnik,Rakovník,cz,Czechia
+moravane,Moravané,0.0,2010,election,rakovnik,Rakovník,cz,Czechia
+stop,STOP,0.0005456901843978082,2010,election,rakovnik,Rakovník,cz,Czechia
+spoz,SPOZ,0.02087264955321616,2010,election,rakovnik,Rakovník,cz,Czechia
+top-09,TOP 09,0.08092130692799163,2010,election,rakovnik,Rakovník,cz,Czechia
+es,ES,0.0,2010,election,rakovnik,Rakovník,cz,Czechia
+kdu-csl,KDU-ČSL,0.006889338578022328,2010,election,rakovnik,Rakovník,cz,Czechia
+pb,PB,0.0030695072872376707,2010,election,rakovnik,Rakovník,cz,Czechia
+csns,ČSNS,0.00038653054728178077,2010,election,rakovnik,Rakovník,cz,Czechia
+zeleni,Zelení,0.011550442236420272,2010,election,rakovnik,Rakovník,cz,Czechia
+suverenita,Suverenita,0.035401650712807806,2010,election,rakovnik,Rakovník,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,rakovnik,Rakovník,cz,Czechia
+pirati,Piráti,0.006093540392442191,2010,election,rakovnik,Rakovník,cz,Czechia
+dsss,DSSS,0.0059116436643095885,2010,election,rakovnik,Rakovník,cz,Czechia
+svobodni,Svobodní,0.00502489711466315,2010,election,rakovnik,Rakovník,cz,Czechia
+kh,KH,0.0,2010,election,rakovnik,Rakovník,cz,Czechia
+ods,ODS,0.12412177985948478,2010,election,rakovnik,Rakovník,cz,Czechia
+non-voters,Non voters,0.38241191635634486,2010,election,rokycany,Rokycany,cz,Czechia
+obcane,Občané,0.005130074737637041,2010,election,rokycany,Rokycany,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,rokycany,Rokycany,cz,Czechia
+vv,VV,0.05893075701153616,2010,election,rokycany,Rokycany,cz,Czechia
+kons,KONS,0.0002864508736751647,2010,election,rokycany,Rokycany,cz,Czechia
+kscm,KSČM,0.09127366474831385,2010,election,rokycany,Rokycany,cz,Czechia
+kc,KČ,0.0015103773339235958,2010,election,rokycany,Rokycany,cz,Czechia
+csns,ČSNS,0.0,2010,election,rokycany,Rokycany,cz,Czechia
+cssd,ČSSD,0.1349444024895185,2010,election,rokycany,Rokycany,cz,Czechia
+np,NP,0.0,2010,election,rokycany,Rokycany,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,rokycany,Rokycany,cz,Czechia
+moravane,Moravané,0.0,2010,election,rokycany,Rokycany,cz,Czechia
+stop,STOP,0.0005468607588344054,2010,election,rokycany,Rokycany,cz,Czechia
+spoz,SPOZ,0.0306242024947267,2010,election,rokycany,Rokycany,cz,Czechia
+top-09,TOP 09,0.08609150803364496,2010,election,rokycany,Rokycany,cz,Czechia
+es,ES,0.0,2010,election,rokycany,Rokycany,cz,Czechia
+kdu-csl,KDU-ČSL,0.01005182156714669,2010,election,rokycany,Rokycany,cz,Czechia
+pb,PB,0.003645738392229369,2010,election,rokycany,Rokycany,cz,Czechia
+csns,ČSNS,0.0004947787818025572,2010,election,rokycany,Rokycany,cz,Czechia
+zeleni,Zelení,0.010260149475274082,2010,election,rokycany,Rokycany,cz,Czechia
+suverenita,Suverenita,0.0334366292544465,2010,election,rokycany,Rokycany,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,rokycany,Rokycany,cz,Czechia
+pirati,Piráti,0.005729017473503294,2010,election,rokycany,Rokycany,cz,Czechia
+dsss,DSSS,0.009452878831280435,2010,election,rokycany,Rokycany,cz,Czechia
+svobodni,Svobodní,0.0027343037941720267,2010,election,rokycany,Rokycany,cz,Czechia
+kh,KH,0.0,2010,election,rokycany,Rokycany,cz,Czechia
+ods,ODS,0.1324444675919898,2010,election,rokycany,Rokycany,cz,Czechia
+non-voters,Non voters,0.3552399823866138,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+obcane,Občané,0.0018085173303138957,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+vv,VV,0.07904007045354469,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+kons,KONS,0.0003459772284078757,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+kscm,KSČM,0.07757753035163867,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+kc,KČ,0.0,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+csns,ČSNS,0.0,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+cssd,ČSSD,0.1316286091715418,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+np,NP,0.0,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+moravane,Moravané,0.0,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+stop,STOP,0.00048751336730200665,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+spoz,SPOZ,0.024359942127445428,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+top-09,TOP 09,0.10544442347612758,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+es,ES,0.0005661445555765239,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+kdu-csl,KDU-ČSL,0.032757753035163865,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+pb,PB,0.0042932628797886395,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+csns,ČSNS,0.0,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+zeleni,Zelení,0.0155375228030446,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+suverenita,Suverenita,0.02462728816757879,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+pirati,Piráti,0.005457004466251494,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+dsss,DSSS,0.009907529722589167,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+svobodni,Svobodní,0.005740076744039756,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+kh,KH,0.0,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+ods,ODS,0.1251808517330314,2010,election,rychnov-nad-kneznou,Rychnov nad Kněžnou,cz,Czechia
+non-voters,Non voters,0.3351626748795911,2010,election,semily,Semily,cz,Czechia
+obcane,Občané,0.0018675665934930047,2010,election,semily,Semily,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,semily,Semily,cz,Czechia
+vv,VV,0.08667802496641656,2010,election,semily,Semily,cz,Czechia
+kons,KONS,0.0011303692539562924,2010,election,semily,Semily,cz,Czechia
+kscm,KSČM,0.05936895907735657,2010,election,semily,Semily,cz,Czechia
+kc,KČ,0.0,2010,election,semily,Semily,cz,Czechia
+csns,ČSNS,0.0,2010,election,semily,Semily,cz,Czechia
+cssd,ČSSD,0.11388879787687166,2010,election,semily,Semily,cz,Czechia
+np,NP,0.000491464893024475,2010,election,semily,Semily,cz,Czechia
+spr-rsc,SPR-RSČ,0.00216244552930769,2010,election,semily,Semily,cz,Czechia
+moravane,Moravané,0.0,2010,election,semily,Semily,cz,Czechia
+stop,STOP,0.0004587005668228433,2010,election,semily,Semily,cz,Czechia
+spoz,SPOZ,0.02303332131974706,2010,election,semily,Semily,cz,Czechia
+top-09,TOP 09,0.1358736607581665,2010,election,semily,Semily,cz,Czechia
+es,ES,0.0,2010,election,semily,Semily,cz,Czechia
+kdu-csl,KDU-ČSL,0.02244356344811769,2010,election,semily,Semily,cz,Czechia
+pb,PB,0.005406113823269224,2010,election,semily,Semily,cz,Czechia
+csns,ČSNS,0.0,2010,election,semily,Semily,cz,Czechia
+zeleni,Zelení,0.02157530880377445,2010,election,semily,Semily,cz,Czechia
+suverenita,Suverenita,0.026653779365027358,2010,election,semily,Semily,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,semily,Semily,cz,Czechia
+pirati,Piráti,0.007519412863274467,2010,election,semily,Semily,cz,Czechia
+dsss,DSSS,0.005537171128075751,2010,election,semily,Semily,cz,Czechia
+svobodni,Svobodní,0.004750827299236591,2010,election,semily,Semily,cz,Czechia
+kh,KH,0.0,2010,election,semily,Semily,cz,Czechia
+ods,ODS,0.14599783755447068,2010,election,semily,Semily,cz,Czechia
+non-voters,Non voters,0.4961049665000532,2010,election,sokolov,Sokolov,cz,Czechia
+obcane,Občané,0.002220036158672764,2010,election,sokolov,Sokolov,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,sokolov,Sokolov,cz,Czechia
+vv,VV,0.0643145804530469,2010,election,sokolov,Sokolov,cz,Czechia
+kons,KONS,0.0005450388173987025,2010,election,sokolov,Sokolov,cz,Czechia
+kscm,KSČM,0.06923322343932788,2010,election,sokolov,Sokolov,cz,Czechia
+kc,KČ,0.0,2010,election,sokolov,Sokolov,cz,Czechia
+csns,ČSNS,0.0,2010,election,sokolov,Sokolov,cz,Czechia
+cssd,ČSSD,0.13142082314155057,2010,election,sokolov,Sokolov,cz,Czechia
+np,NP,0.0,2010,election,sokolov,Sokolov,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,sokolov,Sokolov,cz,Czechia
+moravane,Moravané,0.0,2010,election,sokolov,Sokolov,cz,Czechia
+stop,STOP,0.000425396150164841,2010,election,sokolov,Sokolov,cz,Czechia
+spoz,SPOZ,0.015300967776241625,2010,election,sokolov,Sokolov,cz,Czechia
+top-09,TOP 09,0.06937945336594704,2010,election,sokolov,Sokolov,cz,Czechia
+es,ES,0.0,2010,election,sokolov,Sokolov,cz,Czechia
+kdu-csl,KDU-ČSL,0.006367648622779964,2010,election,sokolov,Sokolov,cz,Czechia
+pb,PB,0.003788684462405615,2010,election,sokolov,Sokolov,cz,Czechia
+csns,ČSNS,0.0,2010,election,sokolov,Sokolov,cz,Czechia
+zeleni,Zelení,0.009292247155163245,2010,election,sokolov,Sokolov,cz,Czechia
+suverenita,Suverenita,0.02435392959693715,2010,election,sokolov,Sokolov,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,sokolov,Sokolov,cz,Czechia
+pirati,Piráti,0.005184515580134,2010,election,sokolov,Sokolov,cz,Czechia
+dsss,DSSS,0.01671009252366266,2010,election,sokolov,Sokolov,cz,Czechia
+svobodni,Svobodní,0.0049718175050515795,2010,election,sokolov,Sokolov,cz,Czechia
+kh,KH,0.0,2010,election,sokolov,Sokolov,cz,Czechia
+ods,ODS,0.0803865787514623,2010,election,sokolov,Sokolov,cz,Czechia
+non-voters,Non voters,0.3814577668625559,2010,election,strakonice,Strakonice,cz,Czechia
+obcane,Občané,0.0020524515393386543,2010,election,strakonice,Strakonice,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,strakonice,Strakonice,cz,Czechia
+vv,VV,0.06080168406280151,2010,election,strakonice,Strakonice,cz,Czechia
+kons,KONS,0.00038593105867906324,2010,election,strakonice,Strakonice,cz,Czechia
+kscm,KSČM,0.07706341548986931,2010,election,strakonice,Strakonice,cz,Czechia
+kc,KČ,0.0,2010,election,strakonice,Strakonice,cz,Czechia
+csns,ČSNS,0.0,2010,election,strakonice,Strakonice,cz,Czechia
+cssd,ČSSD,0.13926848522059468,2010,election,strakonice,Strakonice,cz,Czechia
+np,NP,0.0,2010,election,strakonice,Strakonice,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,strakonice,Strakonice,cz,Czechia
+moravane,Moravané,0.0,2010,election,strakonice,Strakonice,cz,Czechia
+stop,STOP,0.0007192351548109815,2010,election,strakonice,Strakonice,cz,Czechia
+spoz,SPOZ,0.025032891851591965,2010,election,strakonice,Strakonice,cz,Czechia
+top-09,TOP 09,0.09951758617665117,2010,election,strakonice,Strakonice,cz,Czechia
+es,ES,0.00015788088764143496,2010,election,strakonice,Strakonice,cz,Czechia
+kdu-csl,KDU-ČSL,0.031891939303569865,2010,election,strakonice,Strakonice,cz,Czechia
+pb,PB,0.0033330409613191825,2010,election,strakonice,Strakonice,cz,Czechia
+csns,ČSNS,0.0,2010,election,strakonice,Strakonice,cz,Czechia
+zeleni,Zelení,0.010665731076221385,2010,election,strakonice,Strakonice,cz,Czechia
+suverenita,Suverenita,0.02603280413998772,2010,election,strakonice,Strakonice,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,strakonice,Strakonice,cz,Czechia
+pirati,Piráti,0.0052276116130164025,2010,election,strakonice,Strakonice,cz,Czechia
+dsss,DSSS,0.006017016051223577,2010,election,strakonice,Strakonice,cz,Czechia
+svobodni,Svobodní,0.005578458029997369,2010,election,strakonice,Strakonice,cz,Czechia
+kh,KH,0.0,2010,election,strakonice,Strakonice,cz,Czechia
+ods,ODS,0.12479607052012981,2010,election,strakonice,Strakonice,cz,Czechia
+non-voters,Non voters,0.38476143630103293,2010,election,sumperk,Šumperk,cz,Czechia
+obcane,Občané,0.001928184948352189,2010,election,sumperk,Šumperk,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,sumperk,Šumperk,cz,Czechia
+vv,VV,0.08031480570585342,2010,election,sumperk,Šumperk,cz,Czechia
+kons,KONS,0.0005017215937038859,2010,election,sumperk,Šumperk,cz,Czechia
+kscm,KSČM,0.08670929660600099,2010,election,sumperk,Šumperk,cz,Czechia
+kc,KČ,0.001013280865715691,2010,election,sumperk,Šumperk,cz,Czechia
+csns,ČSNS,0.0,2010,election,sumperk,Šumperk,cz,Czechia
+cssd,ČSSD,0.15010329562223315,2010,election,sumperk,Šumperk,cz,Czechia
+np,NP,0.0,2010,election,sumperk,Šumperk,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,sumperk,Šumperk,cz,Czechia
+moravane,Moravané,0.0060108214461387114,2010,election,sumperk,Šumperk,cz,Czechia
+stop,STOP,0.00043285784554845057,2010,election,sumperk,Šumperk,cz,Czechia
+spoz,SPOZ,0.022980816527299556,2010,election,sumperk,Šumperk,cz,Czechia
+top-09,TOP 09,0.08078701426463354,2010,election,sumperk,Šumperk,cz,Czechia
+es,ES,0.0,2010,election,sumperk,Šumperk,cz,Czechia
+kdu-csl,KDU-ČSL,0.034363010329562224,2010,election,sumperk,Šumperk,cz,Czechia
+pb,PB,0.0030791933103787505,2010,election,sumperk,Šumperk,cz,Czechia
+csns,ČSNS,0.0,2010,election,sumperk,Šumperk,cz,Czechia
+zeleni,Zelení,0.009217904574520413,2010,election,sumperk,Šumperk,cz,Czechia
+suverenita,Suverenita,0.01968519429414658,2010,election,sumperk,Šumperk,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,sumperk,Šumperk,cz,Czechia
+pirati,Piráti,0.0045745204131824885,2010,election,sumperk,Šumperk,cz,Czechia
+dsss,DSSS,0.006384653221839646,2010,election,sumperk,Šumperk,cz,Czechia
+svobodni,Svobodní,0.0035809149040826366,2010,election,sumperk,Šumperk,cz,Czechia
+kh,KH,0.0,2010,election,sumperk,Šumperk,cz,Czechia
+ods,ODS,0.10357107722577472,2010,election,sumperk,Šumperk,cz,Czechia
+non-voters,Non voters,0.36837619988874026,2010,election,svitavy,Svitavy,cz,Czechia
+obcane,Občané,0.0014913536993857042,2010,election,svitavy,Svitavy,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,svitavy,Svitavy,cz,Czechia
+vv,VV,0.06833003894090216,2010,election,svitavy,Svitavy,cz,Czechia
+kons,KONS,0.0005444624616804953,2010,election,svitavy,Svitavy,cz,Czechia
+kscm,KSČM,0.0819889450447998,2010,election,svitavy,Svitavy,cz,Czechia
+kc,KČ,0.0,2010,election,svitavy,Svitavy,cz,Czechia
+csns,ČSNS,0.0,2010,election,svitavy,Svitavy,cz,Czechia
+cssd,ČSSD,0.15484038964574431,2010,election,svitavy,Svitavy,cz,Czechia
+np,NP,0.0,2010,election,svitavy,Svitavy,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,svitavy,Svitavy,cz,Czechia
+moravane,Moravané,0.0,2010,election,svitavy,Svitavy,cz,Czechia
+stop,STOP,0.000627315444979701,2010,election,svitavy,Svitavy,cz,Czechia
+spoz,SPOZ,0.030501733994579047,2010,election,svitavy,Svitavy,cz,Czechia
+top-09,TOP 09,0.07882869553895866,2010,election,svitavy,Svitavy,cz,Czechia
+es,ES,0.0,2010,election,svitavy,Svitavy,cz,Czechia
+kdu-csl,KDU-ČSL,0.051735770000118364,2010,election,svitavy,Svitavy,cz,Czechia
+pb,PB,0.0035981867032797944,2010,election,svitavy,Svitavy,cz,Czechia
+csns,ČSNS,0.0,2010,election,svitavy,Svitavy,cz,Czechia
+zeleni,Zelení,0.011611253802360126,2010,election,svitavy,Svitavy,cz,Czechia
+suverenita,Suverenita,0.020145111082178323,2010,election,svitavy,Svitavy,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,svitavy,Svitavy,cz,Czechia
+pirati,Piráti,0.005018523559837608,2010,election,svitavy,Svitavy,cz,Czechia
+dsss,DSSS,0.006509877259223313,2010,election,svitavy,Svitavy,cz,Czechia
+svobodni,Svobodní,0.004426716536271852,2010,election,svitavy,Svitavy,cz,Czechia
+kh,KH,0.0,2010,election,svitavy,Svitavy,cz,Czechia
+ods,ODS,0.11142542639696047,2010,election,svitavy,Svitavy,cz,Czechia
+non-voters,Non voters,0.35358919687277895,2010,election,tabor,Tábor,cz,Czechia
+obcane,Občané,0.001990049751243781,2010,election,tabor,Tábor,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,tabor,Tábor,cz,Czechia
+vv,VV,0.07017294479981047,2010,election,tabor,Tábor,cz,Czechia
+kons,KONS,0.00034352049277422414,2010,election,tabor,Tábor,cz,Czechia
+kscm,KSČM,0.08321487799099739,2010,election,tabor,Tábor,cz,Czechia
+kc,KČ,0.0,2010,election,tabor,Tábor,cz,Czechia
+csns,ČSNS,0.0,2010,election,tabor,Tábor,cz,Czechia
+cssd,ČSSD,0.13826107557450842,2010,election,tabor,Tábor,cz,Czechia
+np,NP,0.0,2010,election,tabor,Tábor,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,tabor,Tábor,cz,Czechia
+moravane,Moravané,0.0,2010,election,tabor,Tábor,cz,Czechia
+stop,STOP,0.000544894574745321,2010,election,tabor,Tábor,cz,Czechia
+spoz,SPOZ,0.02723288320303246,2010,election,tabor,Tábor,cz,Czechia
+top-09,TOP 09,0.10739161336176262,2010,election,tabor,Tábor,cz,Czechia
+es,ES,0.00039090262970859987,2010,election,tabor,Tábor,cz,Czechia
+kdu-csl,KDU-ČSL,0.01878701729447998,2010,election,tabor,Tábor,cz,Czechia
+pb,PB,0.003245676380004738,2010,election,tabor,Tábor,cz,Czechia
+csns,ČSNS,0.0,2010,election,tabor,Tábor,cz,Czechia
+zeleni,Zelení,0.011608623548922056,2010,election,tabor,Tábor,cz,Czechia
+suverenita,Suverenita,0.02495854063018242,2010,election,tabor,Tábor,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,tabor,Tábor,cz,Czechia
+pirati,Piráti,0.005105425254678986,2010,election,tabor,Tábor,cz,Czechia
+dsss,DSSS,0.006977019663586828,2010,election,tabor,Tábor,cz,Czechia
+svobodni,Svobodní,0.006266287609571192,2010,election,tabor,Tábor,cz,Czechia
+kh,KH,0.0,2010,election,tabor,Tábor,cz,Czechia
+ods,ODS,0.13991945036721157,2010,election,tabor,Tábor,cz,Czechia
+non-voters,Non voters,0.4562766163375919,2010,election,tachov,Tachov,cz,Czechia
+obcane,Občané,0.0014518002322880372,2010,election,tachov,Tachov,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,tachov,Tachov,cz,Czechia
+vv,VV,0.05845915602013163,2010,election,tachov,Tachov,cz,Czechia
+kons,KONS,0.00019357336430507162,2010,election,tachov,Tachov,cz,Czechia
+kscm,KSČM,0.10368273325590399,2010,election,tachov,Tachov,cz,Czechia
+kc,KČ,0.001475996902826171,2010,election,tachov,Tachov,cz,Czechia
+csns,ČSNS,0.0,2010,election,tachov,Tachov,cz,Czechia
+cssd,ČSSD,0.13349303135888502,2010,election,tachov,Tachov,cz,Czechia
+np,NP,0.0,2010,election,tachov,Tachov,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,tachov,Tachov,cz,Czechia
+moravane,Moravané,0.0,2010,election,tachov,Tachov,cz,Czechia
+stop,STOP,0.00043554006968641115,2010,election,tachov,Tachov,cz,Czechia
+spoz,SPOZ,0.018800813008130083,2010,election,tachov,Tachov,cz,Czechia
+top-09,TOP 09,0.06961382113821138,2010,election,tachov,Tachov,cz,Czechia
+es,ES,0.0,2010,election,tachov,Tachov,cz,Czechia
+kdu-csl,KDU-ČSL,0.008710801393728223,2010,election,tachov,Tachov,cz,Czechia
+pb,PB,0.002976190476190476,2010,election,tachov,Tachov,cz,Czechia
+csns,ČSNS,0.0006291134339914828,2010,election,tachov,Tachov,cz,Czechia
+zeleni,Zelení,0.008033294618660472,2010,election,tachov,Tachov,cz,Czechia
+suverenita,Suverenita,0.03077816492450639,2010,election,tachov,Tachov,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,tachov,Tachov,cz,Czechia
+pirati,Piráti,0.007259001161440186,2010,election,tachov,Tachov,cz,Czechia
+dsss,DSSS,0.007234804490902052,2010,election,tachov,Tachov,cz,Czechia
+svobodni,Svobodní,0.0023712737127371273,2010,election,tachov,Tachov,cz,Czechia
+kh,KH,0.0,2010,election,tachov,Tachov,cz,Czechia
+ods,ODS,0.08812427409988385,2010,election,tachov,Tachov,cz,Czechia
+non-voters,Non voters,0.4495551549688899,2010,election,teplice,Teplice,cz,Czechia
+obcane,Občané,0.0,2010,election,teplice,Teplice,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,teplice,Teplice,cz,Czechia
+vv,VV,0.06887829272547537,2010,election,teplice,Teplice,cz,Czechia
+kons,KONS,0.0002713651605900254,2010,election,teplice,Teplice,cz,Czechia
+kscm,KSČM,0.0671725688589095,2010,election,teplice,Teplice,cz,Czechia
+kc,KČ,0.0,2010,election,teplice,Teplice,cz,Czechia
+csns,ČSNS,0.0,2010,election,teplice,Teplice,cz,Czechia
+cssd,ČSSD,0.1321063751429513,2010,election,teplice,Teplice,cz,Czechia
+np,NP,0.0,2010,election,teplice,Teplice,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,teplice,Teplice,cz,Czechia
+moravane,Moravané,0.0,2010,election,teplice,Teplice,cz,Czechia
+stop,STOP,0.0003973561280068229,2010,election,teplice,Teplice,cz,Czechia
+spoz,SPOZ,0.03019906572851854,2010,election,teplice,Teplice,cz,Czechia
+top-09,TOP 09,0.07531352367661026,2010,election,teplice,Teplice,cz,Czechia
+es,ES,0.0,2010,election,teplice,Teplice,cz,Czechia
+kdu-csl,KDU-ČSL,0.007346242561687116,2010,election,teplice,Teplice,cz,Czechia
+pb,PB,0.002558585799848811,2010,election,teplice,Teplice,cz,Czechia
+csns,ČSNS,0.0,2010,election,teplice,Teplice,cz,Czechia
+zeleni,Zelení,0.012705704483340118,2010,election,teplice,Teplice,cz,Czechia
+suverenita,Suverenita,0.025905681223469208,2010,election,teplice,Teplice,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,teplice,Teplice,cz,Czechia
+pirati,Piráti,0.00403171095733752,2010,election,teplice,Teplice,cz,Czechia
+dsss,DSSS,0.020333003818495475,2010,election,teplice,Teplice,cz,Czechia
+svobodni,Svobodní,0.004952414180767964,2010,election,teplice,Teplice,cz,Czechia
+kh,KH,0.0,2010,election,teplice,Teplice,cz,Czechia
+ods,ODS,0.09827295458510205,2010,election,teplice,Teplice,cz,Czechia
+non-voters,Non voters,0.3574769404803341,2010,election,trebic,Třebíč,cz,Czechia
+obcane,Občané,0.001196484510964149,2010,election,trebic,Třebíč,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,trebic,Třebíč,cz,Czechia
+vv,VV,0.06379437869822485,2010,election,trebic,Třebíč,cz,Czechia
+kons,KONS,0.00023929690219282978,2010,election,trebic,Třebíč,cz,Czechia
+kscm,KSČM,0.0981661155586495,2010,election,trebic,Třebíč,cz,Czechia
+kc,KČ,0.0,2010,election,trebic,Třebíč,cz,Czechia
+csns,ČSNS,0.0,2010,election,trebic,Třebíč,cz,Czechia
+cssd,ČSSD,0.15332405151409675,2010,election,trebic,Třebíč,cz,Czechia
+np,NP,0.0,2010,election,trebic,Třebíč,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,trebic,Třebíč,cz,Czechia
+moravane,Moravané,0.0,2010,election,trebic,Třebíč,cz,Czechia
+stop,STOP,0.0004568395405499478,2010,election,trebic,Třebíč,cz,Czechia
+spoz,SPOZ,0.03287069265576053,2010,election,trebic,Třebíč,cz,Czechia
+top-09,TOP 09,0.09518578141315698,2010,election,trebic,Třebíč,cz,Czechia
+es,ES,0.0,2010,election,trebic,Třebíč,cz,Czechia
+kdu-csl,KDU-ČSL,0.04966498433693004,2010,election,trebic,Třebíč,cz,Czechia
+pb,PB,0.0046554124608423255,2010,election,trebic,Třebíč,cz,Czechia
+csns,ČSNS,0.0,2010,election,trebic,Třebíč,cz,Czechia
+zeleni,Zelení,0.008799599721545422,2010,election,trebic,Třebíč,cz,Czechia
+suverenita,Suverenita,0.02193917507831535,2010,election,trebic,Třebíč,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,trebic,Třebíč,cz,Czechia
+pirati,Piráti,0.006015053950574312,2010,election,trebic,Třebíč,cz,Czechia
+dsss,DSSS,0.0055799686738600765,2010,election,trebic,Třebíč,cz,Czechia
+svobodni,Svobodní,0.004329098503306648,2010,election,trebic,Třebíč,cz,Czechia
+kh,KH,0.0,2010,election,trebic,Třebíč,cz,Czechia
+ods,ODS,0.09630612600069614,2010,election,trebic,Třebíč,cz,Czechia
+non-voters,Non voters,0.381544683067308,2010,election,trutnov,Trutnov,cz,Czechia
+obcane,Občané,0.0015011794981771391,2010,election,trutnov,Trutnov,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,trutnov,Trutnov,cz,Czechia
+vv,VV,0.0810739050069953,2010,election,trutnov,Trutnov,cz,Czechia
+kons,KONS,0.0008578168561012224,2010,election,trutnov,Trutnov,cz,Czechia
+kscm,KSČM,0.06661356371843183,2010,election,trutnov,Trutnov,cz,Czechia
+kc,KČ,0.0,2010,election,trutnov,Trutnov,cz,Czechia
+csns,ČSNS,0.0,2010,election,trutnov,Trutnov,cz,Czechia
+cssd,ČSSD,0.12311714306138496,2010,election,trutnov,Trutnov,cz,Czechia
+np,NP,0.0,2010,election,trutnov,Trutnov,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,trutnov,Trutnov,cz,Czechia
+moravane,Moravané,0.0,2010,election,trutnov,Trutnov,cz,Czechia
+stop,STOP,0.0004595447443399406,2010,election,trutnov,Trutnov,cz,Czechia
+spoz,SPOZ,0.023181479325592558,2010,election,trutnov,Trutnov,cz,Czechia
+top-09,TOP 09,0.10586889699049253,2010,election,trutnov,Trutnov,cz,Czechia
+es,ES,0.0001940300031657527,2010,election,trutnov,Trutnov,cz,Czechia
+kdu-csl,KDU-ČSL,0.015461127620681556,2010,election,trutnov,Trutnov,cz,Czechia
+pb,PB,0.0046669321814078405,2010,election,trutnov,Trutnov,cz,Czechia
+csns,ČSNS,0.0,2010,election,trutnov,Trutnov,cz,Czechia
+zeleni,Zelení,0.018841334517937562,2010,election,trutnov,Trutnov,cz,Czechia
+suverenita,Suverenita,0.0217313603545643,2010,election,trutnov,Trutnov,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,trutnov,Trutnov,cz,Czechia
+pirati,Piráti,0.005545173248368616,2010,election,trutnov,Trutnov,cz,Czechia
+dsss,DSSS,0.009476833838832553,2010,election,trutnov,Trutnov,cz,Czechia
+svobodni,Svobodní,0.005810687989542804,2010,election,trutnov,Trutnov,cz,Czechia
+kh,KH,0.0,2010,election,trutnov,Trutnov,cz,Czechia
+ods,ODS,0.13405430797667556,2010,election,trutnov,Trutnov,cz,Czechia
+non-voters,Non voters,0.3601027674036768,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+obcane,Občané,0.0011654912503083874,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+vv,VV,0.04704501178252103,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+kons,KONS,0.0002467098267076148,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+kscm,KSČM,0.07227747198992743,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+kc,KČ,0.0,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+csns,ČSNS,0.0,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+cssd,ČSSD,0.14479314657115877,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+np,NP,0.0,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+moravane,Moravané,0.0050703123006116705,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+stop,STOP,0.0005869992428560491,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+spoz,SPOZ,0.037687052838439095,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+top-09,TOP 09,0.09476209516193522,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+es,ES,0.0,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+kdu-csl,KDU-ČSL,0.07751792899861332,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+pb,PB,0.0022118812049648226,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+csns,ČSNS,0.0,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+zeleni,Zelení,0.009791827949671195,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+suverenita,Suverenita,0.012097288744076838,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+pirati,Piráti,0.0039898934043403915,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+dsss,DSSS,0.003955864462725548,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+svobodni,Svobodní,0.002654257445957787,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+kh,KH,0.0,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+ods,ODS,0.124043999421508,2010,election,uherske-hradiste,Uherské Hradiště,cz,Czechia
+non-voters,Non voters,0.43690291865474346,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+obcane,Občané,0.0,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+vv,VV,0.06805279068052791,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+kons,KONS,0.00036865000368650004,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+kscm,KSČM,0.06634646780632182,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+kc,KČ,0.0,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+csns,ČSNS,0.0,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+cssd,ČSSD,0.13171337988856238,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+np,NP,0.0,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+moravane,Moravané,0.0,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+stop,STOP,0.00028438714570101434,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+spoz,SPOZ,0.03293624461507673,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+top-09,TOP 09,0.08758070801866422,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+es,ES,0.0,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+kdu-csl,KDU-ČSL,0.003991952897062386,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+pb,PB,0.002443622881579086,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+csns,ČSNS,0.0,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+zeleni,Zelení,0.0134925901349259,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+suverenita,Suverenita,0.030671680306716805,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+pirati,Piráti,0.003981420039814201,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+dsss,DSSS,0.011312288684551459,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+svobodni,Svobodní,0.005424421482815644,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+kh,KH,0.0,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+ods,ODS,0.10449647675925049,2010,election,usti-nad-labem,Ústí nad Labem,cz,Czechia
+non-voters,Non voters,0.33460314005061087,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+obcane,Občané,0.0017233091163052253,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+vv,VV,0.08255557671900084,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+kons,KONS,0.0005623429747943367,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+kscm,KSČM,0.06491433339682368,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+kc,KČ,0.0,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+csns,ČSNS,0.0,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+cssd,ČSSD,0.13871731381459007,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+np,NP,0.0,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+moravane,Moravané,0.0,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+stop,STOP,0.0007346738864248592,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+spoz,SPOZ,0.02763643619674748,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+top-09,TOP 09,0.11246859495886734,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+es,ES,0.0,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+kdu-csl,KDU-ČSL,0.049268500630368334,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+pb,PB,0.003963610967502018,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+csns,ČSNS,0.0,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+zeleni,Zelení,0.012208284581825438,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+suverenita,Suverenita,0.025622885545064533,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+pirati,Piráti,0.0071290577127153,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+dsss,DSSS,0.006920446609162563,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+svobodni,Svobodní,0.00517899739689623,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+kh,KH,0.0,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+ods,ODS,0.1257924954423009,2010,election,usti-nad-orlici,Ústí nad Orlicí,cz,Czechia
+non-voters,Non voters,0.384709933239605,2010,election,vsetin,Vsetín,cz,Czechia
+obcane,Občané,0.001448018655868264,2010,election,vsetin,Vsetín,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,vsetin,Vsetín,cz,Czechia
+vv,VV,0.06791375870284469,2010,election,vsetin,Vsetín,cz,Czechia
+kons,KONS,0.0003451672377360397,2010,election,vsetin,Vsetín,cz,Czechia
+kscm,KSČM,0.052271789734221225,2010,election,vsetin,Vsetín,cz,Czechia
+kc,KČ,0.0,2010,election,vsetin,Vsetín,cz,Czechia
+csns,ČSNS,0.0,2010,election,vsetin,Vsetín,cz,Czechia
+cssd,ČSSD,0.12530412601129792,2010,election,vsetin,Vsetín,cz,Czechia
+np,NP,0.0,2010,election,vsetin,Vsetín,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,vsetin,Vsetín,cz,Czechia
+moravane,Moravané,0.005497419664430095,2010,election,vsetin,Vsetín,cz,Czechia
+stop,STOP,0.00041251694266014496,2010,election,vsetin,Vsetín,cz,Czechia
+spoz,SPOZ,0.03011373681419058,2010,election,vsetin,Vsetín,cz,Czechia
+top-09,TOP 09,0.06885665457178215,2010,election,vsetin,Vsetín,cz,Czechia
+es,ES,0.0,2010,election,vsetin,Vsetín,cz,Czechia
+kdu-csl,KDU-ČSL,0.06403273195659312,2010,election,vsetin,Vsetín,cz,Czechia
+pb,PB,0.0025171952215384354,2010,election,vsetin,Vsetín,cz,Czechia
+csns,ČSNS,0.0,2010,election,vsetin,Vsetín,cz,Czechia
+zeleni,Zelení,0.014379162001296481,2010,election,vsetin,Vsetín,cz,Czechia
+suverenita,Suverenita,0.017022637919567613,2010,election,vsetin,Vsetín,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,vsetin,Vsetín,cz,Czechia
+pirati,Piráti,0.005169089852925082,2010,election,vsetin,Vsetín,cz,Czechia
+dsss,DSSS,0.004680804492225318,2010,election,vsetin,Vsetín,cz,Czechia
+svobodni,Svobodní,0.002803431467465883,2010,election,vsetin,Vsetín,cz,Czechia
+kh,KH,0.0,2010,election,vsetin,Vsetín,cz,Czechia
+ods,ODS,0.15252182551375196,2010,election,vsetin,Vsetín,cz,Czechia
+non-voters,Non voters,0.37375232085770527,2010,election,vyskov,Vyškov,cz,Czechia
+obcane,Občané,0.0015774852372509877,2010,election,vyskov,Vyškov,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,vyskov,Vyškov,cz,Czechia
+vv,VV,0.06516549634944788,2010,election,vyskov,Vyškov,cz,Czechia
+kons,KONS,0.0002094006952103081,2010,election,vyskov,Vyškov,cz,Czechia
+kscm,KSČM,0.08725028967096171,2010,election,vyskov,Vyškov,cz,Czechia
+kc,KČ,0.0010051233370094788,2010,election,vyskov,Vyškov,cz,Czechia
+csns,ČSNS,0.0,2010,election,vyskov,Vyškov,cz,Czechia
+cssd,ČSSD,0.17403989781246074,2010,election,vyskov,Vyškov,cz,Czechia
+np,NP,0.0,2010,election,vyskov,Vyškov,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,vyskov,Vyškov,cz,Czechia
+moravane,Moravané,0.007664065444697277,2010,election,vyskov,Vyškov,cz,Czechia
+stop,STOP,0.0004048413440732623,2010,election,vyskov,Vyškov,cz,Czechia
+spoz,SPOZ,0.024513841385953403,2010,election,vyskov,Vyškov,cz,Czechia
+top-09,TOP 09,0.06643586056705708,2010,election,vyskov,Vyškov,cz,Czechia
+es,ES,0.0,2010,election,vyskov,Vyškov,cz,Czechia
+kdu-csl,KDU-ČSL,0.05685926877277232,2010,election,vyskov,Vyškov,cz,Czechia
+pb,PB,0.002861809501207544,2010,election,vyskov,Vyškov,cz,Czechia
+csns,ČSNS,0.0004048413440732623,2010,election,vyskov,Vyškov,cz,Czechia
+zeleni,Zelení,0.01077715578015719,2010,election,vyskov,Vyškov,cz,Czechia
+suverenita,Suverenita,0.02014434687923164,2010,election,vyskov,Vyškov,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,vyskov,Vyškov,cz,Czechia
+pirati,Piráti,0.00446721483115324,2010,election,vyskov,Vyškov,cz,Czechia
+dsss,DSSS,0.006533301690561612,2010,election,vyskov,Vyškov,cz,Czechia
+svobodni,Svobodní,0.0032806108916281604,2010,election,vyskov,Vyškov,cz,Czechia
+kh,KH,0.0,2010,election,vyskov,Vyškov,cz,Czechia
+ods,ODS,0.09265282760738766,2010,election,vyskov,Vyškov,cz,Czechia
+non-voters,Non voters,0.3326684120849437,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+obcane,Občané,0.001350621285791464,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+vv,VV,0.0638428292399119,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+kons,KONS,0.00017661970660349914,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+kscm,KSČM,0.07622698749116902,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+kc,KČ,0.0,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+csns,ČSNS,0.0,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+cssd,ČSSD,0.16361218468187674,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+np,NP,0.0,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+moravane,Moravané,0.0,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+stop,STOP,0.00038440759672526287,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+spoz,SPOZ,0.058845530482483484,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+top-09,TOP 09,0.08479823795869176,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+es,ES,0.0,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+kdu-csl,KDU-ČSL,0.06989984623696131,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+pb,PB,0.0026596849935585755,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+csns,ČSNS,0.0,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+zeleni,Zelení,0.008571250467522752,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+suverenita,Suverenita,0.016872376677887213,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+pirati,Piráti,0.004186925985953539,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+dsss,DSSS,0.004727174500270125,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+svobodni,Svobodní,0.00406225325188048,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+kh,KH,0.0,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+ods,ODS,0.10711465735776919,2010,election,zdar-nad-sazavou,Žďár nad Sázavou,cz,Czechia
+non-voters,Non voters,0.3423610325273786,2010,election,zlin,Zlín,cz,Czechia
+obcane,Občané,0.0014207938842995989,2010,election,zlin,Zlín,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,zlin,Zlín,cz,Czechia
+vv,VV,0.06624922987942113,2010,election,zlin,Zlín,cz,Czechia
+kons,KONS,0.00023889454691763167,2010,election,zlin,Zlín,cz,Czechia
+kscm,KSČM,0.054901738900833615,2010,election,zlin,Zlín,cz,Czechia
+kc,KČ,0.0,2010,election,zlin,Zlín,cz,Czechia
+csns,ČSNS,0.0,2010,election,zlin,Zlín,cz,Czechia
+cssd,ČSSD,0.14219254900481562,2010,election,zlin,Zlín,cz,Czechia
+np,NP,0.0,2010,election,zlin,Zlín,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,zlin,Zlín,cz,Czechia
+moravane,Moravané,0.003872606339506871,2010,election,zlin,Zlín,cz,Czechia
+stop,STOP,0.0003331950259640652,2010,election,zlin,Zlín,cz,Czechia
+spoz,SPOZ,0.04234720179045176,2010,election,zlin,Zlín,cz,Czechia
+top-09,TOP 09,0.11024983340248702,2010,election,zlin,Zlín,cz,Czechia
+es,ES,0.0,2010,election,zlin,Zlín,cz,Czechia
+kdu-csl,KDU-ČSL,0.05998767807073793,2010,election,zlin,Zlín,cz,Czechia
+pb,PB,0.002162624319464876,2010,election,zlin,Zlín,cz,Czechia
+csns,ČSNS,0.0,2010,election,zlin,Zlín,cz,Czechia
+zeleni,Zelení,0.011366351074396791,2010,election,zlin,Zlín,cz,Czechia
+suverenita,Suverenita,0.01620710899878038,2010,election,zlin,Zlín,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,zlin,Zlín,cz,Czechia
+pirati,Piráti,0.005211673141966228,2010,election,zlin,Zlín,cz,Czechia
+dsss,DSSS,0.003218789684784932,2010,election,zlin,Zlín,cz,Czechia
+svobodni,Svobodní,0.003463970930305659,2010,election,zlin,Zlín,cz,Czechia
+kh,KH,0.0,2010,election,zlin,Zlín,cz,Czechia
+ods,ODS,0.13421472847748733,2010,election,zlin,Zlín,cz,Czechia
+non-voters,Non voters,0.42030475732084843,2010,election,znojmo,Znojmo,cz,Czechia
+obcane,Občané,0.0016080160145268386,2010,election,znojmo,Znojmo,cz,Czechia
+liberalove,Liberálové,0.0,2010,election,znojmo,Znojmo,cz,Czechia
+vv,VV,0.060360764409245544,2010,election,znojmo,Znojmo,cz,Czechia
+kons,KONS,0.0002844109957666517,2010,election,znojmo,Znojmo,cz,Czechia
+kscm,KSČM,0.106413467954538,2010,election,znojmo,Znojmo,cz,Czechia
+kc,KČ,0.0006563330671538116,2010,election,znojmo,Znojmo,cz,Czechia
+csns,ČSNS,0.0,2010,election,znojmo,Znojmo,cz,Czechia
+cssd,ČSSD,0.14304779198617326,2010,election,znojmo,Znojmo,cz,Czechia
+np,NP,0.0,2010,election,znojmo,Znojmo,cz,Czechia
+spr-rsc,SPR-RSČ,0.0,2010,election,znojmo,Znojmo,cz,Czechia
+moravane,Moravané,0.0038504873273023615,2010,election,znojmo,Znojmo,cz,Czechia
+stop,STOP,0.00021877768905127055,2010,election,znojmo,Znojmo,cz,Czechia
+spoz,SPOZ,0.026373650415130664,2010,election,znojmo,Znojmo,cz,Czechia
+top-09,TOP 09,0.06690221731187854,2010,election,znojmo,Znojmo,cz,Czechia
+es,ES,0.0,2010,election,znojmo,Znojmo,cz,Czechia
+kdu-csl,KDU-ČSL,0.043175776934268245,2010,election,znojmo,Znojmo,cz,Czechia
+pb,PB,0.002220593543870396,2010,election,znojmo,Znojmo,cz,Czechia
+csns,ČSNS,0.00042661649364997755,2010,election,znojmo,Znojmo,cz,Czechia
+zeleni,Zelení,0.00806195784153932,2010,election,znojmo,Znojmo,cz,Czechia
+suverenita,Suverenita,0.01571917695833379,2010,election,znojmo,Znojmo,cz,Czechia
+humaniste,Humanisté,0.0,2010,election,znojmo,Znojmo,cz,Czechia
+pirati,Piráti,0.003916120634017743,2010,election,znojmo,Znojmo,cz,Czechia
+dsss,DSSS,0.004255226052047212,2010,election,znojmo,Znojmo,cz,Czechia
+svobodni,Svobodní,0.0042661649364997755,2010,election,znojmo,Znojmo,cz,Czechia
+kh,KH,0.0,2010,election,znojmo,Znojmo,cz,Czechia
+ods,ODS,0.0879376921141582,2010,election,znojmo,Znojmo,cz,Czechia
